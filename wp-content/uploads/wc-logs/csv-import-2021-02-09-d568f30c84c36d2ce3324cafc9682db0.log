@@ -1,0 +1,37 @@
+2021-02-09T16:43:10+00:00 DEBUG ---[ New Import start at 2021-02-09 16:43:10 ] PHP Memory: 1 GB, WP Memory: 40 MB
+2021-02-09T16:43:11+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-02-09T16:43:11+00:00 DEBUG Parsing products CSV.
+2021-02-09T16:43:11+00:00 DEBUG Finished parsing products CSV.
+2021-02-09T16:43:11+00:00 DEBUG Processing products.
+2021-02-09T16:43:11+00:00 DEBUG > Row 1 - preparing for import.
+2021-02-09T16:43:11+00:00 DEBUG > Inserting SZAKÃLLTÃLTÅ TOLLKÃSZLET
+2021-02-09T16:43:11+00:00 DEBUG > Inserted - post ID is 479643.
+2021-02-09T16:43:12+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-1-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-1-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-1-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Images set
+2021-02-09T16:43:12+00:00 DEBUG > Finished importing post ID 479643.
+2021-02-09T16:43:12+00:00 DEBUG > Row 2 - preparing for import.
+2021-02-09T16:43:12+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-09T16:43:12+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-09T16:43:12+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-09T16:43:12+00:00 DEBUG > Inserting SZAKÃLLTÃLTÅ TOLLKÃSZLET - barna
+2021-02-09T16:43:12+00:00 DEBUG > Inserted - post ID is 479645.
+2021-02-09T16:43:12+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Images set
+2021-02-09T16:43:12+00:00 DEBUG > Finished importing post ID 479645.
+2021-02-09T16:43:12+00:00 DEBUG > Row 3 - preparing for import.
+2021-02-09T16:43:12+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-09T16:43:12+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-09T16:43:12+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-09T16:43:12+00:00 DEBUG > Inserting SZAKÃLLTÃLTÅ TOLLKÃSZLET - fekete
+2021-02-09T16:43:12+00:00 DEBUG > Inserted - post ID is 479647.
+2021-02-09T16:43:12+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/beardpen-min.jpg"
+2021-02-09T16:43:12+00:00 DEBUG > > Images set
+2021-02-09T16:43:12+00:00 DEBUG > Finished importing post ID 479647.
+2021-02-09T16:43:12+00:00 DEBUG Finished processing products.
+2021-02-09T16:43:14+00:00 DEBUG ---[ Import end at 2021-02-09 16:43:14]---

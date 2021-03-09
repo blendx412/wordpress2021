@@ -1,0 +1,4437 @@
+2021-02-02T00:02:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => df340bb8d2f43ab89d3898d1caf87692
+            [Date] => velj 2, 2021 @ 0:02
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.73608
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => c/4iFlWPy+JGIh2mK+dlY09NSgC0G9SCN5Vi9V/2D5w=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => df340bb8d2f43ab89d3898d1caf87692
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 00:02:11 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T00:02:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ef634f621ac174bd17658eab1d8d048e
+            [Date] => velj 2, 2021 @ 0:02
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.44888
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => c/4iFlWPy+JGIh2mK+dlY09NSgC0G9SCN5Vi9V/2D5w=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ef634f621ac174bd17658eab1d8d048e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 00:02:11 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T02:47:21+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1e07619609e1cbd660b82fd0dc2b7796
+            [Date] => velj 2, 2021 @ 2:47
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.69345
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => Q1BYNgOP4b9UfKjLAxbHpCA2RDm9q5sduhsDlv3dbOA=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 1e07619609e1cbd660b82fd0dc2b7796
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 02:47:22 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T05:08:40+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 50c95b471090502a5084066b7eae2e9b
+            [Date] => velj 2, 2021 @ 5:08
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60936
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => IiALvONs14OUEtpCyuRYBoFchEccvdcI2YC3sdP7LCI=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 50c95b471090502a5084066b7eae2e9b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 05:08:40 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T05:08:40+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1f3fc59e5fc24042671df9bd6f534246
+            [Date] => velj 2, 2021 @ 5:08
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48201
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => IiALvONs14OUEtpCyuRYBoFchEccvdcI2YC3sdP7LCI=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 1f3fc59e5fc24042671df9bd6f534246
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 05:08:40 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T05:09:18+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 69b879baf2d124f6328b1754082ebe94
+            [Date] => velj 2, 2021 @ 5:09
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60061
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => rRMDKZoLF08G2TZf9+mB3lcaRVwdmuvrAJU0iaZRwsE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 69b879baf2d124f6328b1754082ebe94
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 05:09:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T05:51:07+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 790203c2eb7dea4649fa9ba8ea2ad831
+            [Date] => velj 2, 2021 @ 5:51
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.64957
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => DC2hlH0O9rHSYpeda+ZKCB4mTGeTxzQxMWswKQ3uhaU=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 790203c2eb7dea4649fa9ba8ea2ad831
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 05:51:08 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T05:51:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 6092e2c7d2548d23a9f808838dc62472
+            [Date] => velj 2, 2021 @ 5:51
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.45341
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DC2hlH0O9rHSYpeda+ZKCB4mTGeTxzQxMWswKQ3uhaU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 6092e2c7d2548d23a9f808838dc62472
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 05:51:08 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T06:26:23+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f7b8a833dc79c2f4b72f1ebc912b97c8
+            [Date] => velj 2, 2021 @ 6:26
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.64087
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 5iyr9T8AgzcRrdsRqAhrn3xr99gqX/Xz860t24KoENs=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => f7b8a833dc79c2f4b72f1ebc912b97c8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 06:26:23 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T06:26:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4dbc96b214121ebe08faff08a51b9e07
+            [Date] => velj 2, 2021 @ 6:26
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.45748
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 5iyr9T8AgzcRrdsRqAhrn3xr99gqX/Xz860t24KoENs=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 4dbc96b214121ebe08faff08a51b9e07
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 06:26:24 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T06:59:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4c6c69f75f8654939af8b3751d586d5d
+            [Date] => velj 2, 2021 @ 6:59
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.59273
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => DtCAqZx33TLWzDmHglx3hFswtl8YHN/SxtQ8UpO/fJ0=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 4c6c69f75f8654939af8b3751d586d5d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 06:59:25 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T06:59:25+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b10a756a06edc2a76f98c4f3175bfdef
+            [Date] => velj 2, 2021 @ 6:59
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.44663
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => DtCAqZx33TLWzDmHglx3hFswtl8YHN/SxtQ8UpO/fJ0=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => b10a756a06edc2a76f98c4f3175bfdef
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 06:59:25 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:07:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 35d6af4dc58dffb1ccc94873942c1c7b
+            [Date] => velj 2, 2021 @ 7:07
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.59774
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => BcW/tedf0toGgoEHO1CpzvP8E5Yyu6cNEfidK6wWrBo=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 35d6af4dc58dffb1ccc94873942c1c7b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:07:17 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:07:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4bc5a00912c18adb2a9f37b4d4114465
+            [Date] => velj 2, 2021 @ 7:07
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48418
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => BcW/tedf0toGgoEHO1CpzvP8E5Yyu6cNEfidK6wWrBo=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 4bc5a00912c18adb2a9f37b4d4114465
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:07:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:09:18+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 08c9858fdae382062256b4e7c7d93428
+            [Date] => velj 2, 2021 @ 7:09
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.59979
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => nFgYP/0R0IzwCsLsoRfE7dRnoKPeXVTTXJ14zsTiSBQ=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 08c9858fdae382062256b4e7c7d93428
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:09:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:18:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 20fbfd8ad6e353ed4962f2c7330548c9
+            [Date] => velj 2, 2021 @ 7:18
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.59932
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => LqM9pMUPECbVSBcLjBTuGNBQhgN2PQqvQH0l+pgccJE=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 20fbfd8ad6e353ed4962f2c7330548c9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:18:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:18:18+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ed3fe198273ce1f10d5b894c07cffde2
+            [Date] => velj 2, 2021 @ 7:18
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.49204
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => LqM9pMUPECbVSBcLjBTuGNBQhgN2PQqvQH0l+pgccJE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ed3fe198273ce1f10d5b894c07cffde2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:18:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:19:27+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f6f9e93db9d1cca448cad57b076abb02
+            [Date] => velj 2, 2021 @ 7:19
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.62379
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => pP36k/ML/c1K3HO5iuOurBk5B9OctMTeozMkC5oKigs=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => f6f9e93db9d1cca448cad57b076abb02
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:19:27 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:19:27+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ec61b3b270da3dddcd2a5bede7d04b42
+            [Date] => velj 2, 2021 @ 7:19
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48273
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => pP36k/ML/c1K3HO5iuOurBk5B9OctMTeozMkC5oKigs=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ec61b3b270da3dddcd2a5bede7d04b42
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:19:28 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:19:28+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 69a55895d215543c943f790db7f6ccc0
+            [Date] => velj 2, 2021 @ 7:19
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.45972
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => LqM9pMUPECbVSBcLjBTuGNBQhgN2PQqvQH0l+pgccJE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 69a55895d215543c943f790db7f6ccc0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:19:28 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:20:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4d9063b7ae1d05ec8f4def12b469560b
+            [Date] => velj 2, 2021 @ 7:20
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.62163
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => pP36k/ML/c1K3HO5iuOurBk5B9OctMTeozMkC5oKigs=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 4d9063b7ae1d05ec8f4def12b469560b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:20:29 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:53:32+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ab2cb9be4e90bd2054ae73346cea9137
+            [Date] => velj 2, 2021 @ 7:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.61799
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => cgX0ccJ+vPErFdhC0YcziBhBWltGhxmaMbh6wo/ubH4=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => ab2cb9be4e90bd2054ae73346cea9137
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:53:32 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T07:53:33+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 56bb1e48daaf78ec5356f00efa7a874c
+            [Date] => velj 2, 2021 @ 7:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48457
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => cgX0ccJ+vPErFdhC0YcziBhBWltGhxmaMbh6wo/ubH4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 56bb1e48daaf78ec5356f00efa7a874c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 07:53:33 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T08:53:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3df0f45df19c5fdd5bd3818142c3aece
+            [Date] => velj 2, 2021 @ 8:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.58175
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 4kksO9xO2tXBaoC5ZX8P4rUhr/btZlqCOe5juRIEtJw=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 3df0f45df19c5fdd5bd3818142c3aece
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 08:53:30 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T08:53:31+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7fb405d771d8b9930869a19aa6290535
+            [Date] => velj 2, 2021 @ 8:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47799
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 4kksO9xO2tXBaoC5ZX8P4rUhr/btZlqCOe5juRIEtJw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 7fb405d771d8b9930869a19aa6290535
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 08:53:31 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T10:42:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 44a72717ccc84c98c03fbd9b8cddd764
+            [Date] => velj 2, 2021 @ 10:42
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.6098
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => V79lr12b0EDgB6KmVKKfUyGXhLkX+HewBObzj5NXYEw=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 44a72717ccc84c98c03fbd9b8cddd764
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 10:42:20 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T10:42:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 6f50f06919d2ccac798bef242b221c07
+            [Date] => velj 2, 2021 @ 10:42
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.45664
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => V79lr12b0EDgB6KmVKKfUyGXhLkX+HewBObzj5NXYEw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 6f50f06919d2ccac798bef242b221c07
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 10:42:20 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T11:02:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7648ea76581080ec3789780e12f33eec
+            [Date] => velj 2, 2021 @ 11:02
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60501
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 1g+l4nFCbnYm7r3PVVhdnsinGixz30xIp4Zzopa/kRk=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 7648ea76581080ec3789780e12f33eec
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 11:02:42 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T11:02:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ec0a8e236e693435301edb8c73c7b078
+            [Date] => velj 2, 2021 @ 11:02
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.45587
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 1g+l4nFCbnYm7r3PVVhdnsinGixz30xIp4Zzopa/kRk=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ec0a8e236e693435301edb8c73c7b078
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 11:02:42 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:13:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 403d42fa907461188f2a337bf7d1d020
+            [Date] => velj 2, 2021 @ 12:13
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.59168
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => ISQtqCMMgz+22MDeA+BmCfGQnhRwW47goNrDfGJ6EYQ=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 403d42fa907461188f2a337bf7d1d020
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:13:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:13:18+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 922707e7e14696cb321dcba4174b2f13
+            [Date] => velj 2, 2021 @ 12:13
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48525
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => ISQtqCMMgz+22MDeA+BmCfGQnhRwW47goNrDfGJ6EYQ=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 922707e7e14696cb321dcba4174b2f13
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:13:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:14:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 13812d2c8b0b892bd8679f6e1e218068
+            [Date] => velj 2, 2021 @ 12:14
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.58645
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => BWOTvVUkHospjkOWjxutu15HwRQj1hjPZdOrdSLk3s4=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 13812d2c8b0b892bd8679f6e1e218068
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:14:19 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:14:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 45718ef20ca77352b55dcd3bfc6b3ffd
+            [Date] => velj 2, 2021 @ 12:14
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47123
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => BWOTvVUkHospjkOWjxutu15HwRQj1hjPZdOrdSLk3s4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 45718ef20ca77352b55dcd3bfc6b3ffd
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:14:19 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:17:32+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 74d0695d37a0c90baaf4c9c4e9210c30
+            [Date] => velj 2, 2021 @ 12:17
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.63781
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => tdRrAEoJRtpgSIxOS8t5L0wEA1VdtBJ1DgZhMPF8nZU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 74d0695d37a0c90baaf4c9c4e9210c30
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:17:32 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:19:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 6519addec2ae3b9f463e4d3bc364817f
+            [Date] => velj 2, 2021 @ 12:19
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.59195
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => tdRrAEoJRtpgSIxOS8t5L0wEA1VdtBJ1DgZhMPF8nZU=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 6519addec2ae3b9f463e4d3bc364817f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:19:19 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:31:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b4dceabf0439a04f6e6ee87ac0ab9eea
+            [Date] => velj 2, 2021 @ 12:31
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.61077
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => nX5LjHdlCmIqMVCQ5mHceyP458CnkkShtvclh2wqryo=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => b4dceabf0439a04f6e6ee87ac0ab9eea
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:31:17 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:31:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 93376c8d5ed34f10094dd8d0478eafde
+            [Date] => velj 2, 2021 @ 12:31
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.49444
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => nX5LjHdlCmIqMVCQ5mHceyP458CnkkShtvclh2wqryo=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 93376c8d5ed34f10094dd8d0478eafde
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:31:17 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:32:22+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7a56572be5caf7d5819761e2f9f8402f
+            [Date] => velj 2, 2021 @ 12:32
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.61279
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => nX5LjHdlCmIqMVCQ5mHceyP458CnkkShtvclh2wqryo=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 7a56572be5caf7d5819761e2f9f8402f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:32:22 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:38:38+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a776c07d683eb9de58564eec75c418e4
+            [Date] => velj 2, 2021 @ 12:38
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60808
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => AMrIFw24qHQRoNxa9VYdkIBe/CXV2msWnlBFYkwV5SM=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => a776c07d683eb9de58564eec75c418e4
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:38:38 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T12:38:39+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 33bbb04aa4bbf6b91503a88cb1bfe487
+            [Date] => velj 2, 2021 @ 12:38
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.45794
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => AMrIFw24qHQRoNxa9VYdkIBe/CXV2msWnlBFYkwV5SM=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 33bbb04aa4bbf6b91503a88cb1bfe487
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 12:38:39 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:08:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 5e9ec63db7523d44e141e99e3cd0e1a2
+            [Date] => velj 2, 2021 @ 13:08
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.61362
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 1pl3zLYuTQo3WTTt35ETKvP1z0Z/tLCDIVSAIroSr3k=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 5e9ec63db7523d44e141e99e3cd0e1a2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:08:19 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:16:04+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3a900e6a8d49f7178da4d0c9a66a11a9
+            [Date] => velj 2, 2021 @ 13:16
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.57899
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => hqlhRp8fTrbAr+RXaqzoYrr/NjR/E6PKi4L4d58afEY=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 3a900e6a8d49f7178da4d0c9a66a11a9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:16:04 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:16:04+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 210ac009c36fc45ed89f33d9d3a6cd53
+            [Date] => velj 2, 2021 @ 13:16
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47959
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => hqlhRp8fTrbAr+RXaqzoYrr/NjR/E6PKi4L4d58afEY=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 210ac009c36fc45ed89f33d9d3a6cd53
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:16:04 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:43:29+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 77af51e63505da4fa36c764e0f50d21f
+            [Date] => velj 2, 2021 @ 13:43
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.5824
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => l2Ba2251O51vv8c4GBjCpapFKIUSznqSWyeZBbRhYro=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 77af51e63505da4fa36c764e0f50d21f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:43:29 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:43:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 09c58bfe9b5796fedb5bd867f4c4bcac
+            [Date] => velj 2, 2021 @ 13:43
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47896
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => l2Ba2251O51vv8c4GBjCpapFKIUSznqSWyeZBbRhYro=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 09c58bfe9b5796fedb5bd867f4c4bcac
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:43:30 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:46:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 31a028023792a8439a0e14ae97fe294e
+            [Date] => velj 2, 2021 @ 13:46
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60755
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 48KBTCpxE6wOsx/IoWc648rl5J1pvxNNJ/CrWIXa2HQ=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 31a028023792a8439a0e14ae97fe294e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:46:30 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:46:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a89df01ec3e6c5213dac698246b6e554
+            [Date] => velj 2, 2021 @ 13:46
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48228
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 48KBTCpxE6wOsx/IoWc648rl5J1pvxNNJ/CrWIXa2HQ=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => a89df01ec3e6c5213dac698246b6e554
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:46:31 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:48:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4fa34770fab5f2fa27b51792b924f20a
+            [Date] => velj 2, 2021 @ 13:48
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.6141
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 48KBTCpxE6wOsx/IoWc648rl5J1pvxNNJ/CrWIXa2HQ=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 4fa34770fab5f2fa27b51792b924f20a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:48:43 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:50:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 947a2cf6f8fee5dea7d1af118c1cf8e1
+            [Date] => velj 2, 2021 @ 13:50
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.62243
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => qcjXNWAVmD0CnYbPt22w60GNp5Q6sPkC9jZ607w4rdI=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 947a2cf6f8fee5dea7d1af118c1cf8e1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:50:30 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:50:30+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0804eca08978a2dc2bd0b4535c337b84
+            [Date] => velj 2, 2021 @ 13:50
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.45754
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => qcjXNWAVmD0CnYbPt22w60GNp5Q6sPkC9jZ607w4rdI=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 0804eca08978a2dc2bd0b4535c337b84
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:50:30 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:53:22+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 57b0fc54057b617b75029d06baaec232
+            [Date] => velj 2, 2021 @ 13:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60545
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 6wVLWIVZiV6+rGMH+X3NPHZQJ7/h0DStt2zVn4sQqSg=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 57b0fc54057b617b75029d06baaec232
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:53:22 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:53:22+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b38ce6e597bfd573d91e54f70b127af0
+            [Date] => velj 2, 2021 @ 13:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47362
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 6wVLWIVZiV6+rGMH+X3NPHZQJ7/h0DStt2zVn4sQqSg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => b38ce6e597bfd573d91e54f70b127af0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:53:22 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:53:23+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b38ce6e597bfd573d91e54f70b127af0
+            [Date] => velj 2, 2021 @ 13:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.49883
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 6wVLWIVZiV6+rGMH+X3NPHZQJ7/h0DStt2zVn4sQqSg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => b38ce6e597bfd573d91e54f70b127af0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:53:23 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T13:54:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 05f70b9b7f9a3f27c3afb1842b67e20a
+            [Date] => velj 2, 2021 @ 13:54
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60615
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => d8IlxYSwMkW+umU2jWBOhLfXJcdlsB7eeCNm3alLqjE=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 05f70b9b7f9a3f27c3afb1842b67e20a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 13:54:43 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T14:21:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0e49c848d099be877206f95c09364cc4
+            [Date] => velj 2, 2021 @ 14:21
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.62396
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => Eoes7rPkhcDi2V6lhcn3aPMYmGtY6fCnmuuLVe9zGtY=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 0e49c848d099be877206f95c09364cc4
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 14:21:24 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T14:21:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4ca872f373dee7b7226b27b62c893735
+            [Date] => velj 2, 2021 @ 14:21
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48244
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => Eoes7rPkhcDi2V6lhcn3aPMYmGtY6fCnmuuLVe9zGtY=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 4ca872f373dee7b7226b27b62c893735
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 14:21:24 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T15:46:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 943249625464d237d477a43a8093d3bd
+            [Date] => velj 2, 2021 @ 15:46
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.62015
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => KR04+D5sHJa15VNRG10VhHjDfkIRLGvAt8mKN+3zemg=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 943249625464d237d477a43a8093d3bd
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 15:46:08 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T15:46:09+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 332ded71a10cd2b0ed396793c5c63620
+            [Date] => velj 2, 2021 @ 15:46
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48045
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => KR04+D5sHJa15VNRG10VhHjDfkIRLGvAt8mKN+3zemg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 332ded71a10cd2b0ed396793c5c63620
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 15:46:09 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:29:26+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b305a0bd2b488ab8245c8197d902a36b
+            [Date] => velj 2, 2021 @ 16:29
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.6392
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => RGH7I5y9DbJMiICHGzXxKH+86TASl0xXUNnEXRda7Jc=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => b305a0bd2b488ab8245c8197d902a36b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:29:26 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:29:26+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 63040296d6996d7e2ebcff119a3d523c
+            [Date] => velj 2, 2021 @ 16:29
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.4612
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => RGH7I5y9DbJMiICHGzXxKH+86TASl0xXUNnEXRda7Jc=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 63040296d6996d7e2ebcff119a3d523c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:29:26 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:49:42+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => cb9a27ab7d9846e93b912c6bfb222b99
+            [Date] => velj 2, 2021 @ 16:49
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 1.12572
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => ryryE4ZwcRf0EhowO1vYGhFAvej9Cg7H7SqG4+DIBio=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => cb9a27ab7d9846e93b912c6bfb222b99
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:49:42 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:49:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 15f75d2cf3ca919e1e410e98950acdfa
+            [Date] => velj 2, 2021 @ 16:49
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 1.85571
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => ryryE4ZwcRf0EhowO1vYGhFAvej9Cg7H7SqG4+DIBio=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 15f75d2cf3ca919e1e410e98950acdfa
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:49:44 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:53:35+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 3987f883d3315cd6ddcebb5f554feeea
+            [Date] => velj 2, 2021 @ 16:53
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 14.18174
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => MpbXTiFFUEmaudYEepwJnYBovIkd7ZBB7PyZRZG4VQg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 3987f883d3315cd6ddcebb5f554feeea
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:53:30 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:56:36+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ff6f82af36aa7079f3be5480b98fd57c
+            [Date] => velj 2, 2021 @ 16:56
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.9975
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => wd2A+xY1Ebgw5EScd3O1hCvHkHrRKNcCk/+C5Nx7KNw=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => ff6f82af36aa7079f3be5480b98fd57c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:56:36 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:56:36+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 35357d2032e440e451e53a3d1b5fb57f
+            [Date] => velj 2, 2021 @ 16:56
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47494
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => wd2A+xY1Ebgw5EScd3O1hCvHkHrRKNcCk/+C5Nx7KNw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 35357d2032e440e451e53a3d1b5fb57f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:56:37 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T16:59:23+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 32a4c83613a42f1ce03f25d15570b34d
+            [Date] => velj 2, 2021 @ 16:59
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.6131
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => wd2A+xY1Ebgw5EScd3O1hCvHkHrRKNcCk/+C5Nx7KNw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 32a4c83613a42f1ce03f25d15570b34d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 16:59:24 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T17:00:25+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b67ce4a925ab1828f5cb875bc4267e65
+            [Date] => velj 2, 2021 @ 17:00
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.61654
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => wd2A+xY1Ebgw5EScd3O1hCvHkHrRKNcCk/+C5Nx7KNw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => b67ce4a925ab1828f5cb875bc4267e65
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 17:00:25 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T17:05:45+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => cf65610e588ecb97777423c3f7b7993f
+            [Date] => velj 2, 2021 @ 17:05
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 1.17264
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 1oLyQciUxiUSMV8A4Uirx+wFQKgVdlnqOflrF/tuf0w=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => cf65610e588ecb97777423c3f7b7993f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 17:05:45 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T17:05:46+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f26d7966e161432a3b3366aa20078f6c
+            [Date] => velj 2, 2021 @ 17:05
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.94838
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 1oLyQciUxiUSMV8A4Uirx+wFQKgVdlnqOflrF/tuf0w=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => f26d7966e161432a3b3366aa20078f6c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 17:05:46 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T17:06:27+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => efdac3ac96e50842eef7709876043961
+            [Date] => velj 2, 2021 @ 17:06
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 7.09306
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 1oLyQciUxiUSMV8A4Uirx+wFQKgVdlnqOflrF/tuf0w=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => efdac3ac96e50842eef7709876043961
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 17:06:26 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T17:17:21+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 4f1e9a1654ffe714945c6c2fc5a525cb
+            [Date] => velj 2, 2021 @ 17:17
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 1.1039
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => hKkKujG7/kHSAk+xoyoMZlbaDbUU8Q4yLP1Avk+u+gM=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 4f1e9a1654ffe714945c6c2fc5a525cb
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 17:17:21 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T17:17:23+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => fbbe68565616c90b6ee5ca9124ed9a83
+            [Date] => velj 2, 2021 @ 17:17
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 2.01361
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => hKkKujG7/kHSAk+xoyoMZlbaDbUU8Q4yLP1Avk+u+gM=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => fbbe68565616c90b6ee5ca9124ed9a83
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 17:17:23 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:04:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c195c769e9a988ed86dead506d4eedb1
+            [Date] => velj 2, 2021 @ 18:04
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.59009
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => okKP7S6Kg2Y+mie0TDvIQfo//4RsK4Jl+U/e7wZZM2g=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => c195c769e9a988ed86dead506d4eedb1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:04:20 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:04:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ee01db601c090d97d30ea2656119fe85
+            [Date] => velj 2, 2021 @ 18:04
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.4591
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => okKP7S6Kg2Y+mie0TDvIQfo//4RsK4Jl+U/e7wZZM2g=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => ee01db601c090d97d30ea2656119fe85
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:04:20 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:06:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0320e7c0ef5fe2232a0331eafbab5b38
+            [Date] => velj 2, 2021 @ 18:06
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.60932
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => wULLjmM4oes2rBO16RTbKwlKoqcKImbh1yN+9DDSPjg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 0320e7c0ef5fe2232a0331eafbab5b38
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:06:20 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:08:09+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 23fba4591329304843331519d697673d
+            [Date] => velj 2, 2021 @ 18:08
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.61234
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => wULLjmM4oes2rBO16RTbKwlKoqcKImbh1yN+9DDSPjg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 23fba4591329304843331519d697673d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:08:09 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:21:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 727831ea425c30c8543e710aed158033
+            [Date] => velj 2, 2021 @ 18:21
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.61791
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => rUTNiaJeW7yg5xsztkamvxYk9Grzm2fAiEAdmLiz/V4=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 727831ea425c30c8543e710aed158033
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:21:41 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:21:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 21d7cd112c53f571c12cb271b895e992
+            [Date] => velj 2, 2021 @ 18:21
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47436
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => rUTNiaJeW7yg5xsztkamvxYk9Grzm2fAiEAdmLiz/V4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 21d7cd112c53f571c12cb271b895e992
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:21:42 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:42:37+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7fe13dea1431c09f108c371f1fc9ad47
+            [Date] => velj 2, 2021 @ 18:42
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.58984
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => LET4iNs2pY1NWX5z+K1Z0fcz/k/m7jnksBxbuiSPPHY=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => 7fe13dea1431c09f108c371f1fc9ad47
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:42:37 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:42:37+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 98b68d5be0fb78954c7fe9aa0ab42ca0
+            [Date] => velj 2, 2021 @ 18:42
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.456
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => LET4iNs2pY1NWX5z+K1Z0fcz/k/m7jnksBxbuiSPPHY=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 98b68d5be0fb78954c7fe9aa0ab42ca0
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:42:37 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T18:43:23+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1ffb58217820d3087e343bf137a2f00c
+            [Date] => velj 2, 2021 @ 18:43
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.58138
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => LET4iNs2pY1NWX5z+K1Z0fcz/k/m7jnksBxbuiSPPHY=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 1ffb58217820d3087e343bf137a2f00c
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 18:43:23 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T19:08:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f05b4087c86f707243ed5ff9edb48177
+            [Date] => velj 2, 2021 @ 19:08
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.82487
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => 50m6wOphf2rjRAA+05tpFSZQyua2UBcVv7NnWMdqfwc=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => f05b4087c86f707243ed5ff9edb48177
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 19:08:19 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T19:08:21+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 16e8ddc77d98a6a80ed3ae1b88a1f16e
+            [Date] => velj 2, 2021 @ 19:08
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 2.70622
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 50m6wOphf2rjRAA+05tpFSZQyua2UBcVv7NnWMdqfwc=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 16e8ddc77d98a6a80ed3ae1b88a1f16e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 19:08:22 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T19:22:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f2139674aa3229cea8671d6d9e262568
+            [Date] => velj 2, 2021 @ 19:22
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.62209
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => caXbcpJ+pgEtOqblXc8TYWTdVU1/cunoGK0tR8Z2oV0=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => f2139674aa3229cea8671d6d9e262568
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 19:22:17 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T19:22:18+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7c8c199325335dc730798676a831ae1a
+            [Date] => velj 2, 2021 @ 19:22
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.48922
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => caXbcpJ+pgEtOqblXc8TYWTdVU1/cunoGK0tR8Z2oV0=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 7c8c199325335dc730798676a831ae1a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 19:22:18 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T19:25:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b9a5ad4ace7715ceb8a4592f2551bca9
+            [Date] => velj 2, 2021 @ 19:25
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.6476
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => +mx8sShSQvOYltPtTwxT6IQnLWsmBIkz8fpz2+Rk9Ww=
+                            [X-WC-Webhook-ID] => 6
+                            [X-WC-Webhook-Delivery-ID] => b9a5ad4ace7715ceb8a4592f2551bca9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 19:25:49 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-02-02T19:25:49+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 9468460a173e6d0ea1bc4df6c45402d9
+            [Date] => velj 2, 2021 @ 19:25
+            [URL] => https://a.klaviyo.com/api/webhook/integration/woocommerce?c=Sgzjtc
+            [Duration] => 0.47879
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.3.4)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://mrmaks.eu/hr/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => +mx8sShSQvOYltPtTwxT6IQnLWsmBIkz8fpz2+Rk9Ww=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 9468460a173e6d0ea1bc4df6c45402d9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => text/html; charset=utf-8
+                                    [date] => Tue, 02 Feb 2021 19:25:49 GMT
+                                    [server] => nginx
+                                    [vary] => Cookie
+                                    [content-length] => 1
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

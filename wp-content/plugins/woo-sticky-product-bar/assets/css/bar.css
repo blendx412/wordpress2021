@@ -1,0 +1,220 @@
+body.wc-sticky-product-bar-displayed {
+	padding-bottom: 60px;
+}
+
+form.cart.wc-sticky-product-bar {
+	margin: 0;
+}
+
+div.wc-sticky-product-bar {
+	display: none;
+	flex-wrap: nowrap;
+	justify-content: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	z-index: 1000;
+	background: #242424;
+	opacity: 0.9;
+	padding: 5px;
+	font-family: Roboto, Arial, Helvetica, sans-serif;
+	letter-spacing: 0;
+}
+
+body.wc-sticky-product-bar-displayed div.wc-sticky-product-bar {
+	display: flex;
+}
+
+.wc-sticky-product-bar section {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	background: none;
+}
+
+.wc-sticky-product-bar section.button,
+.wc-sticky-product-bar section.quantity {
+	padding: 5px;
+}
+
+.wc-sticky-product-bar section.image, 
+.wc-sticky-product-bar section.name, 
+.wc-sticky-product-bar section.rating,
+.wc-sticky-product-bar section.price,
+.wc-sticky-product-bar section.total,
+.wc-sticky-product-bar section.terms {
+	white-space: nowrap;
+	overflow: hidden;
+	line-height: 50px;
+	/* hack to fix unexplainable height expansion caused by total */
+	margin-bottom: -10px;
+}
+
+.wc-sticky-product-bar section.rating {
+	padding: 7px;
+	margin-left: 3px;
+}
+  
+.wc-sticky-product-bar section.button button, 
+.wc-sticky-product-bar section.button a.action-button {
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	font-size: 19.5px;
+	text-transform: none;
+	letter-spacing: 0;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	border-radius: 5px;
+	text-decoration: none;
+	background: linear-gradient(to bottom,#f7dfa5,#f0c14b);
+	color: #111;
+	border: 1px solid #8D9096;
+	font-weight: normal; 
+}
+
+.wc-sticky-product-bar section.terms .woocommerce-form__label,
+.wc-sticky-product-bar section.terms .woocommerce-terms-and-conditions-link {
+  	color: #ffffff;
+}
+.wc-sticky-product-bar section.terms .woocommerce-terms-and-conditions-link {
+  	text-decoration: underline;
+}
+
+.wc-sticky-product-bar section.button a.action-button {
+  	text-decoration: none;
+}
+
+.wc-sticky-product-bar section.button a.action-button:hover {
+  	text-decoration: none;
+}
+
+.wc-sticky-product-bar section.image {
+  	width: 50px;
+}
+
+.wc-sticky-product-bar section.image img {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background: #ffffff;
+}
+
+.wc-sticky-product-bar section.name {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 5px;
+}
+
+.wc-sticky-product-bar section.quantity input {
+	height: 39px;
+	font-size: 16px;
+	border-radius: 5px;
+}
+
+.wc-sticky-product-bar section.price,
+.wc-sticky-product-bar section.total {
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.wc-sticky-product-bar.variable section.quantity {
+  	display: none;
+}
+
+.wc-sticky-product-bar section.price .from,
+.wc-sticky-product-bar section.total .total-label {
+	color: #ffffff;
+	font-weight: bold;  
+	font-size: 20px;
+}
+
+.price,
+.wc-sticky-product-bar section.price .woocommerce-Price-amount,
+.wc-sticky-product-bar section.total .woocommerce-Price-amount {
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.wc-sticky-product-bar del, .wc-sticky-product-bar ins {
+  	text-decoration: none;
+}
+
+.wc-sticky-product-bar del .woocommerce-Price-amount {
+	text-decoration: line-through;
+	display: none;/* hide for now */
+}
+
+.wc-sticky-product-bar .jq-ry-container svg {
+  	width: 20px;
+}
+
+.wc-sticky-product-bar .jq-ry-normal-group svg {
+  	fill: #ffffff;
+}
+
+.wc-sticky-product-bar .jq-ry-rated-group svg {
+  	fill: yellow;
+}
+
+.wc-sticky-product-bar .form-row.validate-required {
+  	margin: 0;
+}
+
+@media only screen and (max-width: 979px) {
+  	.wc-sticky-product-bar section.name {
+		width: 40%;
+		overflow: hidden;
+  	}
+
+  	.wc-sticky-product-bar section.price .from,
+  	.wc-sticky-product-bar section.total .total-label {
+    	font-size: 12px;
+  	}
+}
+
+@media only screen and (max-width: 768px) {
+	.wc-sticky-product-bar section.rating {
+		display: none;
+	}
+
+	.wc-sticky-product-bar section.terms {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	.wc-sticky-product-bar section.name {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.wc-sticky-product-bar section.image {
+		display: none;
+	}
+
+	.wc-sticky-product-bar section.rating {
+		display: none;
+	}
+
+	.wc-sticky-product-bar.display-price section.quantity {
+		display: none;
+	}
+
+	.wc-sticky-product-bar.display-quantity.display-price section.price,
+	.wc-sticky-product-bar section.price {
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+	.wc-sticky-product-bar section.total {
+		display: none;
+	}
+}

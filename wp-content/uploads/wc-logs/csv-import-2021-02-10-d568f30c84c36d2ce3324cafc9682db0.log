@@ -1,0 +1,77 @@
+2021-02-10T06:52:28+00:00 DEBUG ---[ New Import start at 2021-02-10 06:52:28 ] PHP Memory: 1 GB, WP Memory: 40 MB
+2021-02-10T06:52:29+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-02-10T06:52:29+00:00 DEBUG Parsing products CSV.
+2021-02-10T06:52:29+00:00 DEBUG Finished parsing products CSV.
+2021-02-10T06:52:29+00:00 DEBUG Processing products.
+2021-02-10T06:52:29+00:00 DEBUG > Row 1 - preparing for import.
+2021-02-10T06:52:29+00:00 DEBUG > Inserting DRZEMKI ÅpiwÃ³r dla dzieci
+2021-02-10T06:52:30+00:00 DEBUG > Inserted - post ID is 479707.
+2021-02-10T06:52:30+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/naslovna.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/naslovna.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/naslovna.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/colors-copy.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/colors-copy.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/colors-copy.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi4.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/nappi4.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi4.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi1.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/nappi1.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi1.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi2.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/nappi2.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi2.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi3.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/nappi3.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi3.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi5.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/nappi5.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/nappi5.jpg"
+2021-02-10T06:52:30+00:00 DEBUG > > Images set
+2021-02-10T06:52:30+00:00 DEBUG > Finished importing post ID 479707.
+2021-02-10T06:52:30+00:00 DEBUG > Row 2 - preparing for import.
+2021-02-10T06:52:30+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-10T06:52:30+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-10T06:52:30+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-10T06:52:30+00:00 DEBUG > Inserting DRZEMKI ÅpiwÃ³r dla dzieci - Zielony
+2021-02-10T06:52:30+00:00 DEBUG > Inserted - post ID is 479715.
+2021-02-10T06:52:31+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-1-min-2.jpg"
+2021-02-10T06:52:31+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/napper-1-min-2.jpg"
+2021-02-10T06:52:31+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-1-min-2.jpg"
+2021-02-10T06:52:31+00:00 DEBUG > > Images set
+2021-02-10T06:52:31+00:00 DEBUG > Finished importing post ID 479715.
+2021-02-10T06:52:31+00:00 DEBUG > Row 3 - preparing for import.
+2021-02-10T06:52:31+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-10T06:52:31+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-10T06:52:31+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-10T06:52:31+00:00 DEBUG > Inserting DRZEMKI ÅpiwÃ³r dla dzieci - BiaÅy
+2021-02-10T06:52:31+00:00 DEBUG > Inserted - post ID is 479717.
+2021-02-10T06:52:31+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-min.jpg"
+2021-02-10T06:52:31+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/napper-min.jpg"
+2021-02-10T06:52:31+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-min.jpg"
+2021-02-10T06:52:31+00:00 DEBUG > > Images set
+2021-02-10T06:52:31+00:00 DEBUG > Finished importing post ID 479717.
+2021-02-10T06:52:31+00:00 DEBUG > Row 4 - preparing for import.
+2021-02-10T06:52:31+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-10T06:52:31+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-10T06:52:31+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-10T06:52:31+00:00 DEBUG > Inserting DRZEMKI ÅpiwÃ³r dla dzieci - Å»Ã³Åty
+2021-02-10T06:52:31+00:00 DEBUG > Inserted - post ID is 479719.
+2021-02-10T06:52:32+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-2-min.jpg"
+2021-02-10T06:52:32+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/napper-2-min.jpg"
+2021-02-10T06:52:32+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-2-min.jpg"
+2021-02-10T06:52:32+00:00 DEBUG > > Images set
+2021-02-10T06:52:32+00:00 DEBUG > Finished importing post ID 479719.
+2021-02-10T06:52:32+00:00 DEBUG > Row 5 - preparing for import.
+2021-02-10T06:52:32+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-10T06:52:32+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-10T06:52:32+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-10T06:52:32+00:00 DEBUG > Inserting DRZEMKI ÅpiwÃ³r dla dzieci - RÃ³Å¼owy
+2021-02-10T06:52:32+00:00 DEBUG > Inserted - post ID is 479721.
+2021-02-10T06:52:32+00:00 DEBUG > > Importing image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-3-min-1.jpg"
+2021-02-10T06:52:32+00:00 DEBUG > > Inserted image attachment "https://mrmaks.pl/wp-content/uploads/2020/11/napper-3-min-1.jpg"
+2021-02-10T06:52:32+00:00 DEBUG > > Imported image "https://mrmaks.pl/wp-content/uploads/2020/11/napper-3-min-1.jpg"
+2021-02-10T06:52:32+00:00 DEBUG > > Images set
+2021-02-10T06:52:32+00:00 DEBUG > Finished importing post ID 479721.
+2021-02-10T06:52:32+00:00 DEBUG Finished processing products.
+2021-02-10T06:52:33+00:00 DEBUG ---[ Import end at 2021-02-10 06:52:33]---

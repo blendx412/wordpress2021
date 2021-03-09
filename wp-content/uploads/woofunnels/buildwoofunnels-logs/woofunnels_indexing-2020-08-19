@@ -1,0 +1,24 @@
+2020-08-19T05:35:05+00:00 - Order status changes from pending to cancelled for order id: 356413
+2020-08-19T06:22:10+00:00 - Updating changes in customer for cid: 14355, on thank you/order-edit: 0
+2020-08-19T06:42:01+00:00 - Updating changes in customer for cid: 14356, on thank you/order-edit: 0
+2020-08-19T08:30:09+00:00 - Order status changes from pending to cancelled for order id: 356464
+2020-08-19T09:20:11+00:00 - Order status changes from pending to cancelled for order id: 356484
+2020-08-19T10:06:08+00:00 - Updating changes in customer for cid: 14357, on thank you/order-edit: 0
+2020-08-19T10:35:09+00:00 - Order status changes from pending to cancelled for order id: 356515
+2020-08-19T10:55:41+00:00 - These 0 orders for user: 1, CID: 14 are retrieved: Array
+(
+)
+
+2020-08-19T11:34:01+00:00 - Updating changes in customer for cid: 14358, on thank you/order-edit: 2
+2020-08-19T12:18:32+00:00 - Updating changes in customer for cid: 14359, on thank you/order-edit: 2
+2020-08-19T13:21:12+00:00 - These 0 orders for user: 3, CID: 4876 are retrieved: Array
+(
+)
+
+2020-08-19T14:30:09+00:00 - Updating changes in customer for cid: 14361, on thank you/order-edit: 2
+2020-08-19T15:05:05+00:00 - Order status changes from pending to cancelled for order id: 356600
+2020-08-19T15:26:06+00:00 - Updating changes in customer for cid: 14362, on thank you/order-edit: 2
+2020-08-19T15:55:06+00:00 - Order status changes from pending to cancelled for order id: 356616
+2020-08-19T16:26:12+00:00 - Updating changes in customer for cid: 14363, on thank you/order-edit: 2
+2020-08-19T17:50:12+00:00 - Order status changes from pending to cancelled for order id: 356635
+2020-08-19T18:10:56+00:00 - Updating changes in customer for cid: 14364, on thank you/order-edit: 2

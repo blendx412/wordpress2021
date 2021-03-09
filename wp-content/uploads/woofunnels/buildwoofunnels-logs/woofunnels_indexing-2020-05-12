@@ -1,0 +1,54 @@
+2020-05-12T05:58:36+00:00 - Updating changes in customer for cid: 10080, on thank you/order-edit: 2
+2020-05-12T06:22:41+00:00 - Updating changes in customer for cid: 10081, on thank you/order-edit: 2
+2020-05-12T06:28:26+00:00 - Creating/Updating contact and customer in async request for batching order_id: 340257 and offer id: 198836 
+2020-05-12T07:34:37+00:00 - Updating changes in customer for cid: 10082, on thank you/order-edit: 2
+2020-05-12T08:07:39+00:00 - Updating changes in customer for cid: 10083, on thank you/order-edit: 2
+2020-05-12T08:22:51+00:00 - Updating changes in customer for cid: 10084, on thank you/order-edit: 2
+2020-05-12T08:42:40+00:00 - Updating changes in customer for cid: 10085, on thank you/order-edit: 2
+2020-05-12T08:58:46+00:00 - Updating changes in customer for cid: 10086, on thank you/order-edit: 2
+2020-05-12T09:35:08+00:00 - Updating changes in customer for cid: 10087, on thank you/order-edit: 2
+2020-05-12T09:42:37+00:00 - Updating changes in customer for cid: 8418, on thank you/order-edit: 2
+2020-05-12T09:46:40+00:00 - Updating changes in customer for cid: 10088, on thank you/order-edit: 2
+2020-05-12T09:58:37+00:00 - Updating changes in customer for cid: 10090, on thank you/order-edit: 2
+2020-05-12T10:10:36+00:00 - Updating changes in customer for cid: 10091, on thank you/order-edit: 2
+2020-05-12T10:22:42+00:00 - Updating changes in customer for cid: 10092, on thank you/order-edit: 2
+2020-05-12T10:29:09+00:00 - Order status changes from pending to cancelled for order id: 340304
+2020-05-12T10:35:16+00:00 - Updating changes in customer for cid: 3886, on thank you/order-edit: 2
+2020-05-12T10:46:41+00:00 - Updating changes in customer for cid: 10093, on thank you/order-edit: 2
+2020-05-12T11:22:37+00:00 - Updating changes in customer for cid: 10094, on thank you/order-edit: 2
+2020-05-12T11:38:48+00:00 - Updating changes in customer for cid: 10095, on thank you/order-edit: 2
+2020-05-12T11:38:48+00:00 - Updating changes in customer for cid: 10095, on thank you/order-edit: 0
+2020-05-12T11:55:27+00:00 - Updating changes in customer for cid: 10095, on thank you/order-edit: 2
+2020-05-12T12:14:41+00:00 - Updating changes in customer for cid: 10096, on thank you/order-edit: 2
+2020-05-12T12:18:48+00:00 - Updating changes in customer for cid: 10096, on thank you/order-edit: 0
+2020-05-12T12:38:48+00:00 - Updating changes in customer for cid: 10098, on thank you/order-edit: 2
+2020-05-12T12:38:48+00:00 - Updating changes in customer for cid: 10097, on thank you/order-edit: 2
+2020-05-12T12:54:56+00:00 - Updating changes in customer for cid: 3187, on thank you/order-edit: 2
+2020-05-12T12:58:35+00:00 - Updating changes in customer for cid: 10100, on thank you/order-edit: 2
+2020-05-12T13:02:45+00:00 - Updating changes in customer for cid: 10102, on thank you/order-edit: 2
+2020-05-12T13:02:45+00:00 - Updating changes in customer for cid: 10101, on thank you/order-edit: 2
+2020-05-12T13:18:35+00:00 - Updating changes in customer for cid: 10103, on thank you/order-edit: 0
+2020-05-12T13:33:14+00:00 - These 0 orders for user: 1, CID: 14 are retrieved: Array
+(
+)
+
+2020-05-12T13:39:42+00:00 - Updating changes in customer for cid: 10104, on thank you/order-edit: 2
+2020-05-12T14:34:36+00:00 - Updating changes in customer for cid: 10105, on thank you/order-edit: 0
+2020-05-12T14:51:00+00:00 - Order status changes from pending to cancelled for order id: 334215
+2020-05-12T15:22:42+00:00 - Updating changes in customer for cid: 10106, on thank you/order-edit: 2
+2020-05-12T15:22:43+00:00 - Updating changes in customer for cid: 10013, on thank you/order-edit: 2
+2020-05-12T15:31:12+00:00 - Updating changes in customer for cid: 10107, on thank you/order-edit: 2
+2020-05-12T15:34:41+00:00 - Updating changes in customer for cid: 10109, on thank you/order-edit: 0
+2020-05-12T15:34:41+00:00 - Updating changes in customer for cid: 10108, on thank you/order-edit: 2
+2020-05-12T16:10:57+00:00 - Updating changes in customer for cid: 8977, on thank you/order-edit: 2
+2020-05-12T16:55:32+00:00 - Order status changes from pending to cancelled for order id: 334222
+2020-05-12T17:08:16+00:00 - Updating changes in customer for cid: 1264, on thank you/order-edit: 2
+2020-05-12T18:09:02+00:00 - Updating changes in customer for cid: 1264, on thank you/order-edit: 2
+2020-05-12T18:15:22+00:00 - Order status changes from pending to cancelled for order id: 334225
+2020-05-12T18:15:23+00:00 - Updating changes in customer for cid: 10111, on thank you/order-edit: 2
+2020-05-12T18:18:43+00:00 - Updating changes in customer for cid: 10112, on thank you/order-edit: 2
+2020-05-12T18:45:45+00:00 - Order status changes from pending to cancelled for order id: 334231
+2020-05-12T20:19:14+00:00 - Updating changes in customer for cid: 10113, on thank you/order-edit: 2
+2020-05-12T20:50:48+00:00 - Updating changes in customer for cid: 10114, on thank you/order-edit: 2
+2020-05-12T21:30:45+00:00 - Updating changes in customer for cid: 10115, on thank you/order-edit: 2
+2020-05-12T22:32:42+00:00 - Updating changes in customer for cid: 10116, on thank you/order-edit: 2

@@ -1,0 +1,1663 @@
+# Translation of Plugins - YITH WooCommerce Deposits and Down Payments - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Deposits and Down Payments - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-09 01:24:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Deposits and Down Payments - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "YITHEMES"
+msgstr "YITHEMES"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:34
+msgid "Important Links"
+msgstr "Fontos hivatkozások"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:28
+msgid "FREE!"
+msgstr "Ingyenes!"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:24
+msgid "Despacho Theme - 100% FREE"
+msgstr "Despacho Theme - 100% FREE"
+
+#: plugin-fw/templates/panel/sidebar/widgets/widgets.php:17
+msgid "Join the club"
+msgstr "Csatlakozz a klubhoz"
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:425
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+msgid "Show sidebar"
+msgstr "Oldalsáv mutatása"
+
+#: plugin-fw/lib/yit-plugin-panel-sidebar.php:424
+#: plugin-fw/templates/panel/sidebar/sidebar.php:3
+msgid "Hide sidebar"
+msgstr "Oldalsáv elrejtése"
+
+#: templates/share.php:44
+msgid "I wanted you to see this site"
+msgstr "Szeretném, ha megtekintenéd ezt az oldalt"
+
+#: plugin-fw/templates/panel/types/upload.php:32
+msgid "Reset"
+msgstr "Visszaállítás"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+msgid "Renew license"
+msgstr "License megújítása"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+msgid "Order again"
+msgstr "Újrarendezés"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+msgid "Deactivate"
+msgstr "Deaktiválás"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+msgid "License Actions"
+msgstr "License aktiválás"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "Aktiválandó plugin"
+msgstr[1] "Aktiválandó pluginek"
+
+#: plugin-fw/licence/lib/yit-licence.php:678
+msgid "License key deactivated for website"
+msgstr "Licence kulcs deaktiválva ezen a honlapon"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "License successfully activated"
+msgstr "Licence sikeresen aktiválva"
+
+#: plugin-fw/licence/lib/yit-licence.php:677
+msgid "Great"
+msgstr "Nagyszerű"
+
+#: plugin-fw/licence/lib/yit-licence.php:188
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "Biztosan inaktiválni szeretnéd a licenset?"
+
+#: includes/class.yith-wcwl-admin-init.php:256
+msgid "Live Demo"
+msgstr "Élő demó"
+
+#: templates/admin/wishlist-panel-premium.php:275
+msgid "Your shop offers always a wide selection of products and wishlists of your users get more and more crowded everyday. Give them the possibility to select %1$ssome or all products%2$s in the wishlist and add them to cart just with one click."
+msgstr "A kedvencek listája hamar kezelhetetlenné nőhet. Engedélyezd a felhasználóknak, hogy egyszerre több terméket tudjanak a listáról a kosárba helyezni."
+
+#: templates/admin/wishlist-panel-premium.php:376
+msgid "Activating the %1$s\"Show date of addition\"%2$s option, users can see the date in which they have added a particular product to their list: a new way to keep you users informed about their operations."
+msgstr "A %1$s\"Dátum megjelenítése\"%2$s opcióval  megtekinthető hogy  felhasználó mikor adta a terméket a listához."
+
+#: templates/admin/wishlist-panel-premium.php:374
+msgid "DATE OF ADDITION TO A WISHLIST"
+msgstr "KEDVENCEKHEZ ADÁS DÁTUMA"
+
+#: templates/admin/wishlist-panel-premium.php:369
+msgid "DATE"
+msgstr "DÁTUM"
+
+#: templates/admin/wishlist-panel-premium.php:362
+msgid "FROM A WISHLIST"
+msgstr "EGY KEDVENCEK LISTÁRÓL"
+
+#: templates/admin/wishlist-panel-premium.php:359
+msgid "Who said that a product has to remain forever in the same wishlist? With the option %1$s\"Show \"Move to another wishlist\" dropdown menu\"%2$s, with just one click users will be free to move a product from a wishlist to another one, managing as they want their lists."
+msgstr "A %1$s\"Másik listához adás\"%2$s opcióval a termék áthelyezhetővé válik két lista között."
+
+#: templates/admin/wishlist-panel-premium.php:357
+msgid "FROM A WISHLIST TO ANOTHER"
+msgstr "EGYIK KEDVENCEK LISTÁRÓL EGY MÁSIKRA"
+
+#: templates/admin/wishlist-panel-premium.php:348
+msgid "If you want to give the right input to your users to persuade them to %1$spurchase the products%2$s they have in their wishlists, you need to use this feature! %1$sSend them an email%2$s: customize its whole content from the option panel and add a coupon they can use in your shop, so that they will know you are offering a unique offer!"
+msgstr "Ha szeretnéd meggyőzni a felhasználókat arról, hogy %1$megvásárolják%2$s a kedvencek közé helyezett termékeket, akkor ezt a funkciót kell használnod. %1$sKüldj nekik emailt%2$s: egy kupon kóddal személyesen nekik!"
+
+#: templates/admin/wishlist-panel-premium.php:341
+#: templates/admin/wishlist-panel-premium.php:346
+msgid "PROMOTIONAL EMAIL"
+msgstr "PROMÓCIÓS EMAIL"
+
+#: templates/admin/wishlist-panel-premium.php:334
+msgid "FUNCTIONALITIES"
+msgstr "FUNKCIÓK"
+
+#: templates/admin/wishlist-panel-premium.php:331
+msgid "Users have the possibility to search for a wishlist, create a new one or display those already created. Add these %1$sfunctionalities%2$s through the dedicated widgets or show them immediately after \"Wishlist\" table."
+msgstr "A felhasználók kereshetnek és létrehozhatnak kedvencek listákat. Engedélyezd ezeket a %1$sfunkciókat%2$s egy widgetben vagy a kedvencek táblázata alatt."
+
+#: templates/admin/wishlist-panel-premium.php:329
+msgid "FUNCTIONALITIES IN ONE CLICK"
+msgstr "FUNKCIÓK EGY KATTINTÁSNYIRA"
+
+#: templates/admin/wishlist-panel-premium.php:320
+msgid "Some products draw customer's attention more than others and they do not hesitate to add products to their wishlist. Table %1$s'Popular'%2$s allows you, as shop administrator, to track products that appear most frequently in their wishlists."
+msgstr "A %1$s'Népszerűségi'%2$s táblázat segítségével nyomon követheted a leggyakrabban kedvencnek jelölt termékeket."
+
+#: templates/admin/wishlist-panel-premium.php:313
+#: templates/admin/wishlist-panel-premium.php:318
+msgid "POPULAR TABLE"
+msgstr "NÉPSZERŰ TÁBLÁZAT"
+
+#: templates/admin/wishlist-panel-premium.php:306
+msgid "UNLOGGED USERS"
+msgstr "REGISZTRÁLATLANOK"
+
+#: templates/admin/wishlist-panel-premium.php:303
+msgid "Invite users that are visiting your shop to login if they want to fully benefit from Wishlist functionalities. Show a %1$scustomised message%2$s and redirect them to \"My Account\" page for registration."
+msgstr "Figyelmeztesd a felhasználókat, hogy a kedvencek funkció elégréséhez regisztrálniuk kell. irányítsd őket a regisztrációs oldalra."
+
+#: templates/admin/wishlist-panel-premium.php:301
+msgid "MESSAGE TO UNLOGGED USERS"
+msgstr "ÜZENET A REGISZTRÁLATLANOKNAK"
+
+#: templates/admin/wishlist-panel-premium.php:292
+msgid "Favour users that have registered to your shop and disable plugin functionalities for all users that have not. By disabling this option, each time they try to add a product to the wishlist, they will be %1$sredirected%2$s to \"My Account\" page and a message will invite them to log in."
+msgstr "Ennek a funkciónk a használatakor a nem regisztrált felhasználók át lesznek irányítva a regisztrációs oldalra valahányszor a kedvencek közé akarnak helyezni egy terméket."
+
+#: templates/admin/wishlist-panel-premium.php:290
+msgid "DISABLE WISHLIST FOR UNLOGGED USERS"
+msgstr "KEDVENCEK CSAK REGISZTRÁLTAKNAK"
+
+#: templates/admin/wishlist-panel-premium.php:285
+msgid "DISABLE WISHLIST"
+msgstr "KEDVENCEK KIKAPCSOLÁSA"
+
+#: templates/admin/wishlist-panel-premium.php:278
+msgid "'ADD TO CART'"
+msgstr "'KOSÁRBA'"
+
+#: templates/admin/wishlist-panel-premium.php:273
+msgid "'ADD TO CART' CHECKBOX"
+msgstr "'KOSÁRBA' JELÖLŐNÉGYZET"
+
+#: templates/admin/wishlist-panel-premium.php:264
+msgid "How many times have you been looking for the perfect gift for a important event but you had no idea of what to buy? %1$s'Search wishlists'%2$s allows your e-shop users to access public wishlists of anyone, by simply knowing their name or email. This way you can grant %1$shigher visibility%2$s to your products and even encourage users to purchase."
+msgstr "Engedélyezd a keresést a kívánság listák között, így a publikus listák ötletet adhatnak a felhasználóknak a vásárláshoz."
+
+#: templates/admin/wishlist-panel-premium.php:257
+#: templates/admin/wishlist-panel-premium.php:262
+msgid "Search Wishlists"
+msgstr "Kedvencek keresése"
+
+#: templates/admin/wishlist-panel-premium.php:247
+msgid "Thanks to the useful Admin panel, accessible directly among the WooCommerce submenu pages, you will have total control on users' wishlists. In addition to that, evaluating the degree of appreciation for your products has never been so easy, now that %1$syou can see a useful report,%2$s available directly in the product page, which registers the occurrences of the product in customers' wish lists."
+msgstr "Az admin panelnek köszönhetően teljes mértékben kontrollálhatod a felhasználók kedvencek listáját. Tudd meg melyik terméked a legnépszerűbb."
+
+#: templates/admin/wishlist-panel-premium.php:245
+#: templates/admin/wishlist-panel-premium.php:250
+msgid "Admin Panel"
+msgstr "Admin Panel"
+
+#: templates/admin/wishlist-panel-premium.php:236
+msgid "%1$sDo you want to add the possibility to ask for estimates of costs into your catalogue?%3$s Do you want to manage customised packets for faithful customers in your store?%2$s%3$sThanks to the feature \"estimate cost\" of %1$sYITH WooCommerce Wishlist%2$s, each registered user will be able to ask for an estimate of their own products in the wishlist and add a text in the popup window that will open just after clicking. Then, they can confirm the text and send an email with all necessary information directly to the address that you have previously set."
+msgstr "Egyedi ajánlatokat szeretnél tenni a hűséges felhasználóidnak? Engedélyezd a \"Kérj ajánlatot\" funkciót, így a felhasználó egyedi ajánlatot kéret tőled a kedven termékeire."
+
+#: templates/admin/wishlist-panel-premium.php:229
+#: templates/admin/wishlist-panel-premium.php:234
+msgid "Estimate Cost"
+msgstr "Ajánlat"
+
+#: templates/admin/wishlist-panel-premium.php:218
+msgid "%1$sprivate:%2$s only the wish list creator can see it."
+msgstr "%1$sprivát:%2$s csak a lista készítője láthatja."
+
+#: templates/admin/wishlist-panel-premium.php:217
+msgid "%1$sshared:%2$s only users possessing a direct link to the wish list page can display it;"
+msgstr "%1$smegosztott:%2$s csak a linket ismerők számára publikus;"
+
+#: templates/admin/wishlist-panel-premium.php:216
+msgid "%1$spublic:%2$s all users can look for your wish list and see it;"
+msgstr "%1$spublikus:%2$s minden felhasználó láthatja;"
+
+#: templates/admin/wishlist-panel-premium.php:214
+msgid "By enabling the option wishlist, users will also have the possibility to %1$smanage the visibility%2$s of their wish lists according to one of the following options:"
+msgstr "Ha engedélyezed, akkor a felhasználók maguk állíthatják be a listájuk láthatóságát:"
+
+#: templates/admin/wishlist-panel-premium.php:212
+#: templates/admin/wishlist-panel-premium.php:222
+msgid "Wishlist Private"
+msgstr "Privát lista"
+
+#: templates/admin/wishlist-panel-premium.php:203
+msgid "%1$sDoes it ever happened to you to have too many wishes for a single wish list?%2$s%3$s The possibility to manage one's wishes is a fundamental feature in a modern e-commerce store and it also lets users' degree of satisfaction increase.%3$sThe option \"multiple wishlist\" of %1$sYITH Wishlist%2$s makes this feature and many others on your online store available, and thanks to this plugin your customers will be able to create, manage and share their own wish lists."
+msgstr "%1$sElőfordult már, hogy túl sok elem volt a kedvencek listádon?%2$s%3$s Ha engedélyezed több lista létrehozását, akkor azzal növelheted a vásárlói elégedettséget."
+
+#: templates/admin/wishlist-panel-premium.php:196
+#: templates/admin/wishlist-panel-premium.php:201
+msgid "Multiple Wishlist"
+msgstr "Több lista"
+
+#: templates/admin/wishlist-panel-premium.php:193
+msgid "Premium Features"
+msgstr "Prémium funkciók"
+
+#: templates/admin/wishlist-panel-premium.php:187
+#: templates/admin/wishlist-panel-premium.php:385
+msgid "%1$sUPGRADE%2$s%3$s to the premium version%2$s"
+msgstr "%1$sFRISSÍTS%2$s%3$s a prémium verzióra%2$s"
+
+#: templates/admin/wishlist-panel-premium.php:185
+#: templates/admin/wishlist-panel-premium.php:383
+msgid "Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce Wishlist%2$s to benefit from all features!"
+msgstr "Frissíts a %1$sprémium verzióra%2$s%3$: %1$sYITH WooCommerce Wishlist%2$s az extra funkciók eléréséhez!"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "Elrendezés: %s"
+
+#. Author URI of the plugin/theme
+msgid "http://yithemes.com/"
+msgstr "http://yithemes.com/"
+
+#. Description of the plugin/theme
+msgid "YITH WooCommerce Wishlist allows you to add Wishlist functionality to your e-commerce."
+msgstr "A YITH WooCommerce Wishlist segítségével kedvencek listát hozhatnak létre a felhasználók."
+
+#. Plugin URI of the plugin/theme
+msgid "http://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+msgstr "http://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+
+#: templates/wishlist-view.php:264 templates/wishlist-view.php:310
+msgid "Ask for an estimate"
+msgstr "Egyedi ajánlatot kérek"
+
+#: templates/wishlist-view.php:256
+msgid "Add the selected products to the cart"
+msgstr "A kiválasztott termékek kosárba helyezése"
+
+#: templates/wishlist-view.php:215
+msgid "Public"
+msgstr "Nyilvános"
+
+#: templates/wishlist-view.php:212
+msgid "Private"
+msgstr "Privát"
+
+#: templates/wishlist-view.php:209
+msgid "Shared"
+msgstr "Megosztott"
+
+#: templates/wishlist-view.php:197
+msgid "Move"
+msgstr "Áthelyezés"
+
+#: templates/wishlist-view.php:185
+msgid "Added on : %s"
+msgstr "Hozzáadva : %s"
+
+#: templates/wishlist-view.php:176
+msgid "In Stock"
+msgstr "Készleten"
+
+#: templates/wishlist-view.php:176
+msgid "Out of Stock"
+msgstr "Nincs készleten"
+
+#: templates/wishlist-view.php:170
+msgid "Free!"
+msgstr "Ingyenes"
+
+#: templates/wishlist-view.php:152 templates/wishlist-view.php:229
+msgid "Remove this product"
+msgstr "Termék eltávolítása"
+
+#: templates/wishlist-view.php:102
+msgid "Stock Status"
+msgstr "Készlet állapota"
+
+#: templates/wishlist-view.php:89
+msgid "Unit Price"
+msgstr "Egységár"
+
+#: templates/wishlist-view.php:45
+msgid "Cancel"
+msgstr "Mégse"
+
+#: templates/wishlist-view.php:41
+msgid "Save"
+msgstr "Mentés"
+
+#: templates/wishlist-view.php:32
+msgid "Edit title"
+msgstr "Cím szerkesztése"
+
+#: templates/share.php:38
+msgid "Google+"
+msgstr "Google+"
+
+#: templates/share.php:32
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+msgid "Reset Defaults"
+msgstr "Alaphelyzet visszaállítása"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:100
+msgid "Italic bold"
+msgstr "Vastag, dőlt"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:99
+msgid "Italic"
+msgstr "Dőlt"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:98
+msgid "Extra bold"
+msgstr "Extra vastag"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:97
+msgid "Bold"
+msgstr "Vastag"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:96
+msgid "Regular"
+msgstr "Normál"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:71
+msgid "Google fonts"
+msgstr "Google fonts"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:59
+#: plugin-fw/templates/metaboxes/types/typography.php:153
+#: plugin-fw/templates/metaboxes/types/typography.php:217
+msgid "Web fonts"
+msgstr "Web fonts"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:45
+msgid "rem"
+msgstr "rem"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:44
+msgid "pt"
+msgstr "pt"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:43
+msgid "em"
+msgstr "em"
+
+#: plugin-fw/templates/metaboxes/types/typography.php:42
+msgid "px"
+msgstr "px"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:62
+msgid "Right Sidebar"
+msgstr "Jobb oldalsáv"
+
+#: plugin-fw/templates/metaboxes/types/sidebars.php:51
+msgid "Left Sidebar"
+msgstr "Bal oldalsáv"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:34
+#: plugin-fw/templates/metaboxes/types/sidebars.php:53
+#: plugin-fw/templates/metaboxes/types/sidebars.php:64
+msgid "Choose a sidebar"
+msgstr "Oldalsáv választás"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:31
+#: plugin-fw/templates/metaboxes/types/sidebars.php:39
+msgid "Right sidebar"
+msgstr "Jobb oldalsáv"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:28
+#: plugin-fw/templates/metaboxes/types/sidebars.php:42
+#: plugin-fw/templates/metaboxes/types/sidebars.php:45
+msgid "No sidebar"
+msgstr "Nincs oldalsáv"
+
+#: plugin-fw/templates/metaboxes/types/sidebar-layout.php:25
+#: plugin-fw/templates/metaboxes/types/sidebars.php:36
+msgid "Left sidebar"
+msgstr "Bal oldalsáv"
+
+#: plugin-fw/templates/metaboxes/types/images.php:75
+msgid "Are you sure you want to remove this image?"
+msgstr "Biztosan eltávolítja a képet?"
+
+#: plugin-fw/templates/metaboxes/types/images.php:42
+msgid "Upload new images"
+msgstr "Új képek feltöltése"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Delete"
+msgstr "Törlés"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add images"
+msgstr "Kép hozzáadása"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add to gallery"
+msgstr "Galériához adás"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+msgid "Add Images to Gallery"
+msgstr "Képek hozzáadása a galériához"
+
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:40
+#: plugin-fw/templates/metaboxes/types/image-gallery.php:45
+#: plugin-fw/templates/metaboxes/types/images.php:38
+#: plugin-fw/templates/metaboxes/types/images.php:64
+msgid "Delete image"
+msgstr "Kép törlése"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:91
+msgid "(Default: <i %s></i> )"
+msgstr "(Alap: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:89
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Törlés: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:107
+msgid "Do you want to remove the custom tab?"
+msgstr "Eltávolítod az egyedi fület?"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Egyedi fül hozzáadása"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:53
+#: plugin-fw/templates/metaboxes/types/customtabs.php:96
+msgid "Content of the tab. (HTML is supported)"
+msgstr "A fül tartalma (HTML kódok támogatottak)"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:52
+#: plugin-fw/templates/metaboxes/types/customtabs.php:95
+msgid "Value"
+msgstr "Érték"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Expand all"
+msgstr "Összes megjelenítése"
+
+#: plugin-fw/templates/metaboxes/types/customtabs.php:28
+msgid "Close all"
+msgstr "Összes bezárása"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:247
+#: plugin-fw/templates/metaboxes/types/contactform.php:421
+msgid "Set field length."
+msgstr "A mező maximális hossza"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:222
+#: plugin-fw/templates/metaboxes/types/contactform.php:409
+msgid "Width"
+msgstr "Szélesség"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:217
+#: plugin-fw/templates/metaboxes/types/contactform.php:405
+msgid "Insert an icon for more personalization."
+msgstr "Adj hozzá egy ikont."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:209
+#: plugin-fw/templates/metaboxes/types/contactform.php:397
+#: plugin-fw/templates/metaboxes/types/icon-list.php:75
+#: plugin-fw/templates/metaboxes/types/select-icon.php:39
+msgid "Image preview"
+msgstr "Kép előnézet"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:203
+#: plugin-fw/templates/metaboxes/types/contactform.php:391
+#: plugin-fw/templates/metaboxes/types/icon-list.php:69
+#: plugin-fw/templates/metaboxes/types/select-icon.php:33
+#: plugin-fw/templates/metaboxes/types/upload.php:21
+#: plugin-fw/templates/panel/types/upload.php:31
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:175
+#: plugin-fw/templates/metaboxes/types/contactform.php:367
+msgid "Icon"
+msgstr "Ikon"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:170
+#: plugin-fw/templates/metaboxes/types/contactform.php:362
+msgid "Insert additional class(es) (separated by commas) for more personalization."
+msgstr "Adj hozzá class-t, vagy class-okat, hogy igazán egyedivé tehesd."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:166
+#: plugin-fw/templates/metaboxes/types/contactform.php:358
+msgid "Class"
+msgstr "Class"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:161
+#: plugin-fw/templates/metaboxes/types/contactform.php:353
+msgid "Select this if it is the email you can reply to."
+msgstr "Pipáld ki, hogy ha ez az email cím válasz cím is."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:157
+#: plugin-fw/templates/metaboxes/types/contactform.php:349
+msgid "Reply To"
+msgstr "Válasz:"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:152
+#: plugin-fw/templates/metaboxes/types/contactform.php:344
+msgid "Select this option if the email must be valid."
+msgstr "Pipáld ki, ha az email címek hitelességének vizsgálatához."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:143
+#: plugin-fw/templates/metaboxes/types/contactform.php:335
+msgid "Select this option if it must be required."
+msgstr "Pipáld ki, ha a megadását kötelezővé akarod tenni."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:139
+#: plugin-fw/templates/metaboxes/types/contactform.php:331
+msgid "Required"
+msgstr "Szükséges"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:134
+#: plugin-fw/templates/metaboxes/types/contactform.php:326
+msgid "Insert the error message for validation."
+msgstr "Add meg a hitelesítés hibaüzenetét."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:130
+#: plugin-fw/templates/metaboxes/types/contactform.php:322
+msgid "Error Message"
+msgstr "Hiba üzenet"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:124
+#: plugin-fw/templates/metaboxes/types/contactform.php:316
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Delete option"
+msgstr "Opció törlése"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:121
+#: plugin-fw/templates/metaboxes/types/contactform.php:313
+#: plugin-fw/templates/metaboxes/types/contactform.php:436
+msgid "Selected"
+msgstr "Kiválasztott"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:118
+#: plugin-fw/templates/metaboxes/types/contactform.php:310
+msgid "Add option"
+msgstr "Opció hozzáadása"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:117
+#: plugin-fw/templates/metaboxes/types/contactform.php:309
+msgid "Add options "
+msgstr "Opciók hozzáadása"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:112
+#: plugin-fw/templates/metaboxes/types/contactform.php:304
+msgid "Select this option if you want this field appears as already checked."
+msgstr "Pipáld ki, ha szeretnéd, hogy a mező automatikusan ki legyen pipálva."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:108
+#: plugin-fw/templates/metaboxes/types/contactform.php:300
+msgid "Checked"
+msgstr "Kipipálva"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:103
+#: plugin-fw/templates/metaboxes/types/contactform.php:295
+msgid "Select the type for this field."
+msgstr "Válassza ki a mező típusát"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:95
+#: plugin-fw/templates/metaboxes/types/contactform.php:287
+msgid "Field Type"
+msgstr "Mező típusa"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:90
+#: plugin-fw/templates/metaboxes/types/contactform.php:282
+msgid "REQUIRED: Field identification name to be entered into email body. <strong>Note:</strong>Use only lowercase characters and underscores."
+msgstr "KÖTELEZŐ: A mező azonosító név beírása az email törzsébe. <strong> Megjegyzés : </strong> Csak a kisbetűs karakterek és aláhúzás lejetséges."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:86
+#: plugin-fw/templates/metaboxes/types/contactform.php:278
+msgid "Data Name"
+msgstr "Adat neve"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:81
+#: plugin-fw/templates/metaboxes/types/contactform.php:273
+msgid "Insert the title for the field."
+msgstr "Add meg a mező címét."
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:77
+#: plugin-fw/templates/metaboxes/types/contactform.php:269
+msgid "Field Title"
+msgstr "Mező címe"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:70
+#: plugin-fw/templates/metaboxes/types/contactform.php:262
+msgid "Click to toggle"
+msgstr "Klikk a váltáshoz"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:69
+#: plugin-fw/templates/metaboxes/types/contactform.php:261
+#: plugin-fw/templates/metaboxes/types/customtabs.php:37
+#: plugin-fw/templates/metaboxes/types/customtabs.php:82
+#: templates/wishlist-view.php:229
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:60
+msgid "Add field"
+msgstr "Mező hozzáadása"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:49
+#: plugin-fw/templates/metaboxes/types/responsivesliders.php:24
+msgid "None"
+msgstr "Nincs"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:48
+msgid "Custom Icon"
+msgstr "Egyedi ikon"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:47
+msgid "Theme Icon"
+msgstr "Téma ikonja"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:13
+msgid "File Upload"
+msgstr "File feltöltése"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:12
+msgid "Password Field"
+msgstr "Jelszómező"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:11
+msgid "Radio Input"
+msgstr "Rádiógomb"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:10
+msgid "Textarea"
+msgstr "Szövegmező"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:9
+msgid "Select"
+msgstr "Választás"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:8
+msgid "Checkbox"
+msgstr "Jelölőnégyzet"
+
+#: plugin-fw/templates/metaboxes/types/contactform.php:7
+msgid "Text Input"
+msgstr "Szövegbevitel"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:46
+msgid "Add"
+msgstr "Hozzáad"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:42
+msgid "+ Add New Category"
+msgstr "+ Új kategória"
+
+#: plugin-fw/templates/metaboxes/types/categories.php:36
+msgid "No categories."
+msgstr "Nincs kategória."
+
+#: plugin-fw/templates/metaboxes/types/ajax-products.php:23
+msgid "Search for a product"
+msgstr "Termék keresése"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+msgid "Expired"
+msgstr "Lejárt"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+msgid "Banned"
+msgstr "Tiltott"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+msgid "%1s out of %2s"
+msgstr "%1s a %2s-ból/ből"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+msgid "Renew"
+msgstr "Megújítás"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr "Maradt"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+msgid "Expires"
+msgstr "Lejár"
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+msgid "License Key"
+msgstr "License kulcs"
+
+#: plugin-fw/licence/lib/yit-licence.php:186
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+#: plugin-fw/templates/metaboxes/types/contactform.php:148
+#: plugin-fw/templates/metaboxes/types/contactform.php:340
+#: templates/share.php:44
+msgid "Email"
+msgstr "Email"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+#: templates/wishlist-view.php:82
+msgid "Product Name"
+msgstr "Termék neve"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+msgid "Activated"
+msgstr "Aktiválva"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+msgid "Activate"
+msgstr "Aktivál"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+msgid "Update license information"
+msgstr "License információk frissítése"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr "Frissítette a license-t? Igényelt hosszabbítást? Frissítse a termékre vonatkozó információkat."
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+"Ha 2015. január 27. előtt vásárolta meg a plugint, akkor 2016. január 27-ig élvezheti a terméktámogatást. Ezután a támogatás lejár, de a license-t nem kell\n"
+"                    újra megvásárolni. Azonban, ha ezután is szeretnél terméktámogatást, akkor újra meg kell vegyed és aktiválnod kell a license-t."
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "Hol találom meg a license kulcsot?"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid "Yithemes License Activation"
+msgstr "Yithemes license aktiválás"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "License aktiválása"
+
+#: plugin-fw/licence/lib/yit-licence.php:675
+msgid "License key has been banned"
+msgstr "Licence kulcs letiltva"
+
+#: plugin-fw/licence/lib/yit-licence.php:674
+msgid "License key has expired"
+msgstr "Licence kulcs lejárt"
+
+#: plugin-fw/licence/lib/yit-licence.php:673
+msgid "Invalid security key"
+msgstr "Érvénytelen kulcs"
+
+#: plugin-fw/licence/lib/yit-licence.php:672
+msgid "Invalid instance ID"
+msgstr "Érvénytelen ID"
+
+#: plugin-fw/licence/lib/yit-licence.php:671
+msgid "Maximum number of activations exceeded"
+msgstr "Elérted az aktiválható Wishlist pluginek maximális számát "
+
+#: plugin-fw/licence/lib/yit-licence.php:670
+msgid "Software has been deactivated"
+msgstr "A software deaktiválva lett"
+
+#: plugin-fw/licence/lib/yit-licence.php:669
+msgid "Invalid license key"
+msgstr "Érvénytelen licence kulcs"
+
+#: plugin-fw/licence/lib/yit-licence.php:668
+msgid "Invalid Request"
+msgstr "Érvénytelen kérés"
+
+#: plugin-fw/licence/lib/yit-licence.php:185
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "A szerver nem érhető el. Próbálja meg később!"
+
+#: plugin-fw/licence/lib/yit-licence.php:184
+msgid "%s and %s fields cannot be empty"
+msgstr "%s és %s mezők nem lehetnek üresek"
+
+#: plugin-fw/licence/lib/yit-licence.php:183
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr "%s mező nem lehet üres"
+
+#: plugin-fw/lib/yit-upgrade.php:537
+msgid "Update Plugin"
+msgstr "Plugin frissítése"
+
+#: plugin-fw/lib/yit-upgrade.php:530
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "Nem rendelkezik megfelelő jogosultsággal , hogy frissítse a plugint ezen az oldalon."
+
+#: plugin-fw/lib/yit-upgrade.php:526
+msgid "You can't update the plugins for this site."
+msgstr "Nem lehetséges a frissítés ezen az oldalon."
+
+#: plugin-fw/lib/yit-upgrade.php:287
+msgid "Could not create Temporary file."
+msgstr "Nem lehet ideiglenes fájlokat létrehozni."
+
+#: plugin-fw/lib/yit-upgrade.php:274
+msgid "Invalid URL Provided."
+msgstr "Hibás URL"
+
+#: plugin-fw/lib/yit-upgrade.php:240
+msgid "YIThemes Repository"
+msgstr "YIThemes Repository"
+
+#: plugin-fw/lib/yit-upgrade.php:139
+msgid "Update now."
+msgstr "Frissítés most."
+
+#: plugin-fw/lib/yit-upgrade.php:138
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "<a href=\"%activate_link%\">Aktiválja</a> a(z) %plugin_name% plugint."
+
+#: plugin-fw/lib/yit-upgrade.php:137
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "Az automatikus frissítés nem elérhető ehhez  pluginhez."
+
+#: plugin-fw/lib/yit-upgrade.php:136
+msgid "View version %latest% details."
+msgstr "%latest% verzió részleteit."
+
+#: plugin-fw/lib/yit-upgrade.php:135
+msgid "There is a new version of %plugin_name% available."
+msgstr "Új verzió érhető el: %plugin_name%"
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Frissített pluginek"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "és"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Fedezd fel összes pluginünket:"
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Aktivált pluginek"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:149
+msgid "If you continue with this action, you will reset all the options in this page."
+msgstr "Minden opció alaphelyzetbe fog állni."
+
+#: plugin-fw/lib/yit-plugin-panel.php:563
+msgid "Sorting successful."
+msgstr "Rendezés sikeres."
+
+#: plugin-fw/lib/yit-plugin-panel.php:562
+msgid "Sorry, import is disabled."
+msgstr "Az importálás tiltva van."
+
+#: plugin-fw/lib/yit-plugin-panel.php:561
+msgid "The added file is not valid."
+msgstr "A file hibás."
+
+#: plugin-fw/lib/yit-plugin-panel.php:560
+msgid "An error has occurred during import. Please try again."
+msgstr "Hiba az importáláskor. Próbáld meg újra!"
+
+#: plugin-fw/lib/yit-plugin-panel.php:559
+msgid "Database imported correctly."
+msgstr "Adatbázis sikeresen importálva."
+
+#: plugin-fw/lib/yit-plugin-panel.php:557
+#: plugin-fw/lib/yit-plugin-panel.php:558
+msgid "Element updated correctly."
+msgstr "Az elem sikeresen frissítve."
+
+#: plugin-fw/lib/yit-plugin-panel.php:556
+msgid "Element deleted correctly."
+msgstr "Az elem sikeresen törölve."
+
+#: plugin-fw/lib/yit-plugin-panel.php:555
+msgid "Settings reset"
+msgstr "Visszaállítva"
+
+#: plugin-fw/lib/yit-plugin-panel.php:554
+msgid "Settings saved"
+msgstr "Mentve"
+
+#: plugin-fw/lib/yit-plugin-panel.php:553
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "Ilyen elem már létezik. Adj meg más nevet!"
+
+#: plugin-fw/lib/yit-plugin-panel.php:357
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:19
+msgid "Are you sure?"
+msgstr "Biztos?"
+
+#: plugin-fw/lib/yit-plugin-panel.php:357
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+msgid "Reset to default"
+msgstr "Visszaállítás"
+
+#: plugin-fw/lib/yit-plugin-panel.php:355
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:15
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Ez a lehetőség minden opciót alaphelyzetbe állít vissza."
+
+#: plugin-fw/lib/yit-plugin-panel.php:352
+#: plugin-fw/lib/yit-plugin-subpanel.php:146
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:12
+msgid "Save Changes"
+msgstr "Mentés"
+
+#: plugin-fw/lib/yit-plugin-panel.php:73
+msgid "Plugin Settings"
+msgstr "Pugin beállításai"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:374
+msgid "The changes you have made will be lost if you leave this page."
+msgstr " változtatások elvesznek, ha elhagyod az oldalt."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "Több file feltöltése"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "%s hozzáadása a képekhez"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/metaboxes/types/customtabs.php:46
+#: plugin-fw/templates/metaboxes/types/customtabs.php:90
+msgid "Name"
+msgstr "Név"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "Fehasználói felólet megtekintése: %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "Gyors linkek"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "elrendezés beállításai"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "A porfólió oldalak elrendezése"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "Egységes elrendezés"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "Egyedi nevet adj minden kategória URL-nek."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "Taxonómiák újraírása"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "Ha szeretné kategóriákat használni a portfólióknál, akkor adj meg URL barát (kisbetűk, speciális karakterek és ékezetek nélkül, maximum 32 karakter) taxonómia neveket."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "Taxonómiák"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Adjon meg egy címkét többes számban (A portfólió neve lesz az, ha üresen hagyod)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "Címke többesszámban"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Adjon meg egy címkét egyes számban (A portfólió neve lesz az, ha üresen hagyod)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "Címke egyesszámban"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Egyedi URL azonosító minden termékhez"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "Feülírás"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "Típus"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s beállítások"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "Kategória"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "Kategória"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "Új kategória neve"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "Új kategória hozzáadása"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "Kategória frissítése"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "Kategória szerkesztése"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "Szülő kategória:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "Szülő kategória"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "Összes kategória"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+msgid "Search Categories"
+msgstr "Kategória keresése"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Kategória"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s Kategória"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "Nincs a lomtárban: %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "Nincs találat: %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "Keresés %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "Megtekintés %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "Összes %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "Új %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "Szerkesztés %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "Új hozzáadása %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "Hozzáadás %s"
+
+#: init.php:138
+msgid "You can't activate the free version of YITH WooCommerce Wishlist while you are using the premium one."
+msgstr "Nem aktiválhatod a YITH WooCommerce Wishlist ingyenes plugint, mert már a prémium verziót használod."
+
+#: init.php:128
+msgid "YITH WooCommerce Wishlist is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "A YITH WooCommerce Wishlist engedélyezve lett, de a működéséhez WooCommerce szükséges."
+
+#: includes/class.yith-wcwl.php:1615
+msgid "An error as occurred."
+msgstr "Hiba történt."
+
+#: includes/class.yith-wcwl.php:1573 templates/wishlist-view.php:239
+msgid "No products were added to the wishlist"
+msgstr "Nincs még hozzáadva termék"
+
+#: includes/class.yith-wcwl.php:1569
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr "Hiba. Nem sikerült a termék eltávolítása."
+
+#: includes/class.yith-wcwl.php:1565
+msgid "Product successfully removed."
+msgstr "Sikeresen eltávolítva."
+
+#: includes/class.yith-wcwl.php:774
+msgid "You need to log in before creating a new wishlist"
+msgstr "Be kell jelentkezned a kedvencek funkció használatához."
+
+#: includes/class.yith-wcwl.php:332
+msgid "An error occurred while removing products from the wishlist"
+msgstr "Hiba. Nem sikerült a termék eltávolítása."
+
+#: includes/class.yith-wcwl.php:285
+msgid "The \"Remove\" option now does not require any parameter"
+msgstr "Az eltávolítás opció most már nem követel egyéb paramétert"
+
+#: includes/class.yith-wcwl.php:268
+msgid "An error occurred while adding products to wishlist."
+msgstr "Nem sikerült a terméket hozzáadni."
+
+#: includes/class.yith-wcwl.php:177
+msgid "An error occurred while adding products to the wishlist."
+msgstr "Nem sikerült a terméket hozzáadni."
+
+#: includes/class.yith-wcwl-ui.php:180
+msgid "email"
+msgstr "email"
+
+#: includes/class.yith-wcwl-ui.php:171 templates/share.php:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class.yith-wcwl-ui.php:168 templates/share.php:20
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class.yith-wcwl-ui.php:118 includes/class.yith-wcwl-ui.php:200
+msgid "Select options"
+msgstr "Opciók választása"
+
+#: includes/class.yith-wcwl-shortcode.php:259
+#: includes/class.yith-wcwl-ui.php:164
+msgid "Share on:"
+msgstr "Megosztás:"
+
+#: includes/class.yith-wcwl-install.php:243
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr "kedvencek"
+
+#: includes/class.yith-wcwl-init.php:374
+msgid "Product correctly added to cart"
+msgstr "Hozzáadva a kosárhoz"
+
+#: includes/class.yith-wcwl-init.php:373
+msgid "We are sorry, but this feature is available only if cookies are enabled on your browser."
+msgstr "Ehhez a funkcióhoz engedélyezned kell a cookie-kat."
+
+#: includes/class.yith-wcwl-admin-init.php:1562
+msgid "From now on, you can find all the options of Wishlist under YIT Plugin -> Wishlist instead of WooCommerce -> Settings -> Wishlist, as in the previous version. When one of our plugins is updated, a new voice will be added to this menu. Wishlist has been updated with new available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+msgstr "Mostantól a Wishlist under YIT Plugin beállításait a YIT Plugin -> Wishlist instead of WooCommerce -> Settings -> Wishlist útvonalon találod. A Wishlist újabb funkcióval bővült. <a href=\"%s\">Tekintsd meg a PRÉMIUM verzió lehetőségeit.</a>"
+
+#: includes/class.yith-wcwl-admin-init.php:1561
+msgid "Wishlist Updated"
+msgstr "Kedvencek frissítve"
+
+#: includes/class.yith-wcwl-admin-init.php:1550
+msgid "In the YIT Plugin tab you can find the Wishlist options. With this menu, you can access to all the settings of our plugins that you have activated. Wishlist is available in an outstanding PREMIUM version with many new options, <a href=\"%s\">discover it now</a>."
+msgstr "A Wishlist plugin beállításai a YIT Plugin menüpontban találhatóak. Itt minden aktivált YIT pugin megtalálható. A Wishlist PRÉMIUM verziójának<a href=\"%s\">felfedezése</a>."
+
+#: includes/class.yith-wcwl-admin-init.php:1549
+msgid "Wishlist Activated"
+msgstr "Kedvencek listája aktív"
+
+#: includes/class.yith-wcwl-admin-init.php:1459
+msgid "Background color"
+msgstr "Háttérszín"
+
+#: includes/class.yith-wcwl-admin-init.php:1456
+msgid "Headers"
+msgstr "Fejléc"
+
+#: includes/class.yith-wcwl-admin-init.php:1447
+msgid "Wishlist table"
+msgstr "Kedvencek táblázat"
+
+#: includes/class.yith-wcwl-admin-init.php:1429
+msgid "\"Style 2\" button"
+msgstr "\"Style 2\" gomb"
+
+#: includes/class.yith-wcwl-admin-init.php:1411
+msgid "\"Style 1\" button"
+msgstr "\"Style 1\" gomb"
+
+#: includes/class.yith-wcwl-admin-init.php:1393
+msgid "\"Add to Cart\" button"
+msgstr "\"Kosárba\" gomb"
+
+#: includes/class.yith-wcwl-admin-init.php:1389
+#: includes/class.yith-wcwl-admin-init.php:1407
+#: includes/class.yith-wcwl-admin-init.php:1425
+#: includes/class.yith-wcwl-admin-init.php:1443
+msgid "Border (hover)"
+msgstr "Keret (hover)"
+
+#: includes/class.yith-wcwl-admin-init.php:1388
+#: includes/class.yith-wcwl-admin-init.php:1406
+#: includes/class.yith-wcwl-admin-init.php:1424
+#: includes/class.yith-wcwl-admin-init.php:1442
+msgid "Text (hover)"
+msgstr "Szöveg (hover)"
+
+#: includes/class.yith-wcwl-admin-init.php:1387
+#: includes/class.yith-wcwl-admin-init.php:1405
+#: includes/class.yith-wcwl-admin-init.php:1423
+#: includes/class.yith-wcwl-admin-init.php:1441
+msgid "Background (hover)"
+msgstr "Háttér (hover)"
+
+#: includes/class.yith-wcwl-admin-init.php:1380
+#: includes/class.yith-wcwl-admin-init.php:1398
+#: includes/class.yith-wcwl-admin-init.php:1416
+#: includes/class.yith-wcwl-admin-init.php:1434
+#: includes/class.yith-wcwl-admin-init.php:1452
+msgid "Border"
+msgstr "Keret"
+
+#: includes/class.yith-wcwl-admin-init.php:1379
+#: includes/class.yith-wcwl-admin-init.php:1397
+#: includes/class.yith-wcwl-admin-init.php:1415
+#: includes/class.yith-wcwl-admin-init.php:1433
+#: includes/class.yith-wcwl-admin-init.php:1451
+msgid "Text"
+msgstr "Szöveg"
+
+#: includes/class.yith-wcwl-admin-init.php:1378
+#: includes/class.yith-wcwl-admin-init.php:1396
+#: includes/class.yith-wcwl-admin-init.php:1414
+#: includes/class.yith-wcwl-admin-init.php:1432
+#: includes/class.yith-wcwl-admin-init.php:1450
+msgid "Background"
+msgstr "Háttér"
+
+#: includes/class.yith-wcwl-admin-init.php:1375
+msgid "\"Add to wishlist\" button"
+msgstr "\"Kedvencek\" gomb"
+
+#: includes/class.yith-wcwl-admin-init.php:1339
+msgid "Choose to enable product slider in wishlist page with linked products (<a href=\"%s\" class=\"thickbox\">Example</a>). %s"
+msgstr "Ezzel engedélyezed a termék slidert a kedvencek listájában (<a href=\"%s\" class=\"thickbox\">Példa</a>). %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1338
+msgid "Enable slider in wishlist"
+msgstr "Engedélyezi a slidert a kedvencek listájában"
+
+#: includes/class.yith-wcwl-admin-init.php:1331
+msgid "YITH WooCommerce Frequently Bought Together Integration"
+msgstr "YITH WooCommerce Frequently Bought Together Integráció"
+
+#: includes/class.yith-wcwl-admin-init.php:1326
+msgid "If you want to take advantage of this feature, you could consider to purchase the %s."
+msgstr "Ha szükséged van erre a funkcióra, akkor vásárold meg: %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1311
+msgid "Social image URL"
+msgstr "Közösségi ikon URL"
+
+#: includes/class.yith-wcwl-admin-init.php:1303
+msgid "Social text"
+msgstr "Közösségi szöveg"
+
+#: includes/class.yith-wcwl-admin-init.php:1296
+msgid "Social title"
+msgstr "Közösségi cím"
+
+#: includes/class.yith-wcwl-admin-init.php:1290
+msgid "Show \"Share by Email\" button"
+msgstr "\"Email megosztás\" gomb megtekintése"
+
+#: includes/class.yith-wcwl-admin-init.php:1289
+msgid "Share by Email"
+msgstr "Megosztás: email"
+
+#: includes/class.yith-wcwl-admin-init.php:1283
+msgid "Show \"Share on Google+\" button"
+msgstr "\"Google+ megosztás\" gomb megtekintése"
+
+#: includes/class.yith-wcwl-admin-init.php:1282
+msgid "Share on Google+"
+msgstr "Megosztás: Google+"
+
+#: includes/class.yith-wcwl-admin-init.php:1276
+msgid "Show \"Pin on Pinterest\" button"
+msgstr "\"Pinterest megosztás\" gomb megtekintése"
+
+#: includes/class.yith-wcwl-admin-init.php:1275
+msgid "Pin on Pinterest"
+msgstr "Megosztás: Pinterest"
+
+#: includes/class.yith-wcwl-admin-init.php:1269
+msgid "Show \"Tweet on Twitter\" button"
+msgstr "\"Twitter megosztás\" gomb megtekintése"
+
+#: includes/class.yith-wcwl-admin-init.php:1268
+msgid "Tweet on Twitter"
+msgstr "Megosztás: Twitter"
+
+#: includes/class.yith-wcwl-admin-init.php:1262
+msgid "Show \"Share on Facebook\" button"
+msgstr "\"Facebook megosztás\" gomb megtekintése"
+
+#: includes/class.yith-wcwl-admin-init.php:1261
+msgid "Share on Facebook"
+msgstr "Megosztás: Facebook"
+
+#: includes/class.yith-wcwl-admin-init.php:1254
+msgid "Social Networks & Share"
+msgstr "Megosztás közösségi oldalon"
+
+#: includes/class.yith-wcwl-admin-init.php:1236
+msgid "Add an icon to the \"Add to Cart\" button"
+msgstr "Ikon hozzáadása a \"Kosárba\" gombhoz"
+
+#: includes/class.yith-wcwl-admin-init.php:1235
+msgid "\"Add to Cart\" icon"
+msgstr "\"Kosárba\" ikon"
+
+#: includes/class.yith-wcwl-admin-init.php:1225
+msgid "Add an icon to the \"Add to Wishlist\" button"
+msgstr "Ikon hozzáadása a \"Kedvencek\" gombhoz"
+
+#: includes/class.yith-wcwl-admin-init.php:1224
+msgid "\"Add to Wishlist\" icon"
+msgstr "\"Kedvencekhez adom\" ikon"
+
+#: includes/class.yith-wcwl-admin-init.php:1218
+msgid "Make button corners rounded"
+msgstr "A gombok sarkai le lesznek kerekítve"
+
+#: includes/class.yith-wcwl-admin-init.php:1217
+msgid "Rounded buttons"
+msgstr "Lekerekített gombok"
+
+#: includes/class.yith-wcwl-admin-init.php:1211
+msgid "Use the theme style."
+msgstr "A téma stílusának használata."
+
+#: includes/class.yith-wcwl-admin-init.php:1210
+msgid "Use theme style"
+msgstr "Téma stílusának használata"
+
+#: includes/class.yith-wcwl-admin-init.php:1203
+msgid "Custom CSS"
+msgstr "Egyedi CSS"
+
+#: includes/class.yith-wcwl-admin-init.php:1197
+msgid "Use buttons instead of simple anchors."
+msgstr "Horgonyok helyett, inkább gombok használata."
+
+#: includes/class.yith-wcwl-admin-init.php:1196
+msgid "Use buttons"
+msgstr "Gombok használata"
+
+#: includes/class.yith-wcwl-admin-init.php:1189
+msgid "Styles"
+msgstr "Stílusok"
+
+#: includes/class.yith-wcwl-admin-init.php:1174
+msgid "Add a second remove button in the last column, with extended label"
+msgstr "Hozzáad még egy eltávolítás gombot az utolsó oszlophoz"
+
+#: includes/class.yith-wcwl-admin-init.php:1173
+msgid "Add second remove button"
+msgstr "Második eltávolítás gomb hozzáadása"
+
+#: includes/class.yith-wcwl-admin-init.php:1166
+msgid "Show the date when users have added a product to the wishlist"
+msgstr "Megjeleníti a termék kedvencekhez adásának dátumát"
+
+#: includes/class.yith-wcwl-admin-init.php:1165
+msgid "Show Date of addition"
+msgstr "A hozzáadás dátumának megjelenítése"
+
+#: includes/class.yith-wcwl-admin-init.php:1158
+msgid "Show \"In stock\" or \"Out of stock\" label for each product in wishlist"
+msgstr "Megjeleníti a kedvencek listájában szereplő tárgyak készlet információit"
+
+#: includes/class.yith-wcwl-admin-init.php:1157
+msgid "Show Stock status"
+msgstr "Készlet megjeenítése"
+
+#: includes/class.yith-wcwl-admin-init.php:1150
+msgid "Show \"Add to Cart\" button for each product in wishlist"
+msgstr "\"Kosárba\" gomb megtekintése minden kedvenc termékhez"
+
+#: includes/class.yith-wcwl-admin-init.php:1149
+msgid "Show \"Add to Cart\" button"
+msgstr "\"Kosárba\" gomb megtekintése"
+
+#: includes/class.yith-wcwl-admin-init.php:1142
+msgid "Show unit price for each product in wishlist"
+msgstr "Megjeleníti az egységárat mindegyik termékhez"
+
+#: includes/class.yith-wcwl-admin-init.php:1141
+msgid "Show Unit price"
+msgstr "Egységár megjelenítése"
+
+#: includes/class.yith-wcwl-admin-init.php:1136
+msgid "Add to Cart"
+msgstr "Kosárba"
+
+#: includes/class.yith-wcwl-admin-init.php:1134
+msgid "\"Add to Cart\" text"
+msgstr "\"Kosárba\" szöveg"
+
+#: includes/class.yith-wcwl-admin-init.php:1129
+#: includes/class.yith-wcwl-ui.php:82
+msgid "Product added!"
+msgstr "Termék hozzáadva!"
+
+#: includes/class.yith-wcwl-admin-init.php:1127
+msgid "\"Product added\" text"
+msgstr "\"Termék hozzáadva\" szöveg"
+
+#: includes/class.yith-wcwl-admin-init.php:1122
+#: includes/class.yith-wcwl-ui.php:83
+msgid "The product is already in the wishlist!"
+msgstr "A termék már hozzá lett adva!"
+
+#: includes/class.yith-wcwl-admin-init.php:1120
+msgid "\"Product already in wishlist\" text"
+msgstr "\"A termék már hozzá lett adva\" szöveg"
+
+#: includes/class.yith-wcwl-admin-init.php:1115
+#: includes/class.yith-wcwl-ui.php:82 includes/class.yith-wcwl-ui.php:83
+msgid "Browse Wishlist"
+msgstr "Kedvencek megtekintése"
+
+#: includes/class.yith-wcwl-admin-init.php:1113
+msgid "\"Browse wishlist\" text"
+msgstr "A kedvencek megtekintésének szövege"
+
+#: includes/class.yith-wcwl-admin-init.php:1108
+msgid "Add to Wishlist"
+msgstr "Kedvencekhez"
+
+#: includes/class.yith-wcwl-admin-init.php:1106
+msgid "\"Add to Wishlist\" text"
+msgstr "A kedvencekhez adás szövege"
+
+#: includes/class.yith-wcwl-admin-init.php:1100
+msgid "Remove the product from the wishlist if it has been added to the cart."
+msgstr "Törli a terméket a kedvencek közül, amikor a kosárba kerül."
+
+#: includes/class.yith-wcwl-admin-init.php:1099
+msgid "Remove if added to the cart"
+msgstr "Törli, ha a kosárba lett téve"
+
+#: includes/class.yith-wcwl-admin-init.php:1093
+msgid "Redirect to cart page if \"Add to cart\" button is clicked in the wishlist page."
+msgstr "Ha a kedvencek listáján meg lett nyomva a \"Kosárba\" gomb, akkor átnavigál a kosárhoz"
+
+#: includes/class.yith-wcwl-admin-init.php:1092
+msgid "Redirect to cart"
+msgstr "Kosárhoz itányítás"
+
+#: includes/class.yith-wcwl-admin-init.php:1087
+msgid "Use shortcode"
+msgstr "Beillesztőkód"
+
+#: includes/class.yith-wcwl-admin-init.php:1086
+msgid "After summary"
+msgstr "Összegzés után"
+
+#: includes/class.yith-wcwl-admin-init.php:1085
+msgid "After thumbnails"
+msgstr "Bélyegképek után"
+
+#: includes/class.yith-wcwl-admin-init.php:1084
+msgid "After \"Add to cart\""
+msgstr "\"Kosárba\" után"
+
+#: includes/class.yith-wcwl-admin-init.php:1078
+msgid "You can add the button in variable products only after the \"Add to Cart\" button or using the shortcode [yith_wcwl_add_to_wishlist]."
+msgstr "A gombot csak a \"Kosárba\" gomb után adhatod hozzá, vagy a [yith_wcwl_add_to_wishlist] kód beillesztésével."
+
+#: includes/class.yith-wcwl-admin-init.php:1077
+msgid "Position"
+msgstr "Pozíció"
+
+#: includes/class.yith-wcwl-admin-init.php:1061
+#: includes/class.yith-wcwl-admin-init.php:1062
+#: includes/class.yith-wcwl-admin-init.php:1298
+msgid "My wishlist on %s"
+msgstr "Kedvencek listám: %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1059
+msgid "Default wishlist title"
+msgstr "Alapértelmezett kedvencek lista név"
+
+#: includes/class.yith-wcwl-admin-init.php:1052
+msgid "Enable YITH Wishlist"
+msgstr "YITH Wishlist engedélyezése"
+
+#: includes/class.yith-wcwl-admin-init.php:1045
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: includes/class.yith-wcwl-admin-init.php:1035
+msgid "By purchasing the premium version of the plugin, you will take advantage of the advanced features of the product and you will get one year of free updates and support through our platform available 24h/24."
+msgstr "A prémium verzió megvásárlásával számos tovább funkció érhető el és még 1 év ingyenes terméktámogatás is jár mellé."
+
+#: includes/class.yith-wcwl-admin-init.php:1034
+msgid "Get Support and Pro Features"
+msgstr "Prémium funkciók és terméktámogatás"
+
+#: includes/class.yith-wcwl-admin-init.php:1027
+msgid "Discover the Advanced Features"
+msgstr "A prémium lehetőségek felfedezése"
+
+#. #-#-#-#-#  yith-woocommerce-wishlist-code.pot (YITH WooCommerce Wishlist
+#. 2.1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class.yith-wcwl-admin-init.php:1026
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1023
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "PRÉMIUM verzióra váltás"
+
+#: includes/class.yith-wcwl-admin-init.php:1068
+msgid "Page contents: [yith_wcwl_wishlist]"
+msgstr "Oldal tartalmába illesztendő: [yith_wcwl_wishlist]"
+
+#: includes/class.yith-wcwl-admin-init.php:1067
+msgid "Wishlist Page"
+msgstr "Kedvencek oldal"
+
+#: includes/class.yith-wcwl-admin-init.php:288
+msgid "Plugin Documentation"
+msgstr "Bővítmény dokumentációja"
+
+#: includes/class.yith-wcwl-admin-init.php:283
+msgid "WARNING: This plugin requires at least WooCommerce 2.2!"
+msgstr "FIGYELEM: Legalább a WooCommerce 2.2 verziójára van szükség a plugin működéséhez!"
+
+#: includes/class.yith-wcwl-admin-init.php:280
+msgid "WARNING: This plugin requires at least WooCommerce 2.2! Please, use this link to update it."
+msgstr "FIGYELEM: Legalább a WooCommerce 2.2 verziójára van szükség a plugin működéséhez! Frissíts!"
+
+#: includes/class.yith-wcwl-admin-init.php:163
+#: includes/class.yith-wcwl-admin-init.php:255
+msgid "Premium Version"
+msgstr "Prémium verzió"
+
+#: includes/class.yith-wcwl-admin-init.php:162
+#: includes/class.yith-wcwl-admin-init.php:236
+msgid "Colors"
+msgstr "Színek"
+
+#: includes/class.yith-wcwl-admin-init.php:161
+#: includes/class.yith-wcwl-admin-init.php:251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:74
+msgid "Settings"
+msgstr "Beállítások"
+
+#: includes/class.yith-wcwl-admin-init.php:159
+#: includes/class.yith-wcwl-admin-init.php:1483
+#: includes/class.yith-wcwl-admin-init.php:1484
+#: includes/class.yith-wcwl-install.php:244
+msgid "Wishlist"
+msgstr "Kedvenek"

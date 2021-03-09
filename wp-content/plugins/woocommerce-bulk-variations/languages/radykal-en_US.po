@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bulk Variations\n"
+"POT-Creation-Date: 2018-01-03 11:39+0100\n"
+"PO-Revision-Date: 2018-01-03 11:39+0100\n"
+"Last-Translator: Rafael Dery <webmaster@radykal.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../admin/class-admin-product.php:25 ../admin/class-admin-product.php:37
+#: ../admin/class-admin-settings.php:38
+msgid "Bulk Variations"
+msgstr ""
+
+#: ../admin/class-admin-product.php:26
+msgid "Enable Bulk Variations."
+msgstr ""
+
+#: ../admin/class-admin-settings.php:21
+msgid "Label: Quantity"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:28
+msgid "Label: Add Variation"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:41
+msgid "Button CSS Class"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:42
+msgid ""
+"So the buttons are having the same style as in your theme, you can set an "
+"own CSS class for the buttons."
+msgstr ""
+
+#: ../admin/class-admin-settings.php:50
+msgid "Include Select2 JS/CSS"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:51
+msgid ""
+"To avoid conflicts in the frontend, uncheck this option if your theme or "
+"another plugin already includes the Select2 library."
+msgstr ""
+
+#: ../admin/class-admin-settings.php:109
+msgid "After Title"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:110
+msgid "After Short Description"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:111
+msgid "After Product Summary"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:114
+msgid "Fit In One Row (Attributes Head)"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:115
+msgid "Fit In One Row (Without Attributes Head)"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:116
+msgid "Selects: One Column"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:117
+msgid "Selects: Two Columns"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:118
+msgid "Selects: Three Columns"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:119
+msgid "Selects: Four Columns"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:120
+msgid "Selects: Five Columns"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:121
+msgid "Selects: Six Columns"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:129
+msgid "Before Fancy Product Designer"
+msgstr ""
+
+#: ../admin/class-admin-settings.php:130
+msgid "After Fancy Product Designer"
+msgstr ""
+
+#: ../admin/class-admin.php:40
+msgid ""
+"<a href=\"http://wordpress.org/plugins/woocommerce/\" target=\"_blank"
+"\">WooCommerce plugin</a> is required for WooCommerce Bulk Variations plugin!"
+msgstr ""
+
+#: ../admin/class-admin.php:46
+msgid "Fancy Product Designer V"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:5
+msgid "Position"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:16
+msgid "Layout"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:27
+msgid "Enable Select2"
+msgstr ""
+
+#: ../admin/views/html-admin-meta-box.php:33
+msgid "Select Placeholder = Attribute Name"
+msgstr ""

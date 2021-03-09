@@ -1,0 +1,133 @@
+{
+    "operation-mode": "varied-image-responses",
+    "image-types": 1,
+    "destination-folder": "separate",
+    "destination-extension": "append",
+    "cache-control": "no-header",
+    "cache-control-custom": "public, max-age=86400, stale-while-revalidate=604800, stale-if-error=604800",
+    "cache-control-max-age": "one-week",
+    "cache-control-public": false,
+    "enable-redirection-to-converter": true,
+    "only-redirect-to-converter-on-cache-miss": false,
+    "only-redirect-to-converter-for-webp-enabled-browsers": true,
+    "do-not-pass-source-in-query-string": true,
+    "redirect-to-existing-in-htaccess": true,
+    "forward-query-string": true,
+    "enable-redirection-to-webp-realizer": true,
+    "jpeg-encoding": "auto",
+    "jpeg-enable-near-lossless": true,
+    "jpeg-near-lossless": 60,
+    "quality-auto": true,
+    "max-quality": 80,
+    "quality-specific": 70,
+    "png-encoding": "auto",
+    "png-enable-near-lossless": true,
+    "png-near-lossless": 60,
+    "png-quality": 85,
+    "alpha-quality": 80,
+    "converters": [
+        {
+            "converter": "vips",
+            "options": {
+                "smart-subsample": false,
+                "preset": "none"
+            }
+        },
+        {
+            "converter": "gd",
+            "options": {
+                "png": {
+                    "skip": true
+                }
+            },
+            "working": true
+        },
+        {
+            "converter": "cwebp",
+            "options": {
+                "use-nice": true,
+                "try-common-system-paths": true,
+                "try-supplied-binary-for-os": true,
+                "method": 6,
+                "size-in-percentage": 45,
+                "low-memory": false,
+                "command-line-options": "-low_memory"
+            },
+            "deactivated": true,
+            "working": false,
+            "error": "Found no cwebp binaries in any common system locations. Tried executing supplied binary for Linux, but that failed too (same error)"
+        },
+        {
+            "converter": "imagick",
+            "deactivated": true,
+            "working": false,
+            "error": "Required iMagick extension is not available.",
+            "options": []
+        },
+        {
+            "converter": "gmagick",
+            "deactivated": true,
+            "working": false,
+            "error": "Required Gmagick extension is not available.",
+            "options": []
+        },
+        {
+            "converter": "wpc",
+            "deactivated": true,
+            "working": false,
+            "error": "Not configured",
+            "options": {
+                "api-key": "",
+                "api-version": 1
+            }
+        },
+        {
+            "converter": "ewww",
+            "deactivated": true,
+            "working": false,
+            "error": "Missing API key.",
+            "options": []
+        },
+        {
+            "converter": "imagemagick",
+            "options": {
+                "use-nice": true
+            },
+            "deactivated": true,
+            "working": false,
+            "error": "webp delegate missing"
+        },
+        {
+            "converter": "graphicsmagick",
+            "options": {
+                "use-nice": true
+            }
+        }
+    ],
+    "metadata": "none",
+    "convert-on-upload": true,
+    "fail": "original",
+    "success-response": "converted",
+    "alter-html": {
+        "enabled": false,
+        "replacement": "picture",
+        "hooks": "ob",
+        "only-for-webp-enabled-browsers": false,
+        "only-for-webps-that-exists": false,
+        "alter-html-add-picturefill-js": true
+    },
+    "web-service": {
+        "enabled": false,
+        "whitelist": []
+    },
+    "base-htaccess-on-these-capability-tests": {
+        "passThroughHeaderWorking": true,
+        "passThroughEnvWorking": true,
+        "modHeaderWorking": true
+    },
+    "paths-used-in-htaccess": {
+        "existing": "wp-content/webp-express/webp-images/doc-root/.",
+        "wod-url-path": "wp-content/plugins/webp-express/wod/webp-on-demand.php",
+        "config-dir-rel": "wp-content/webp-express/config"
+    }
+}

@@ -1,0 +1,328 @@
+# Translation of Plugins - Custom Product Tabs for WooCommerce - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Custom Product Tabs for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-03 13:36:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Custom Product Tabs for WooCommerce - Stable (latest release)\n"
+
+#: admin/class.premium.php:109
+msgid "Create global tabs, add tabs to products based on categories or tags, add tab content to search results, and more!"
+msgstr "Vytvářejte globální záložky, přidávejte záložky k produktům dle kategorií či štítků, zahrňte obsah záložek do výsledků vyhledávání a využijte mnoha dalších funkcí!"
+
+#: admin/page.yikes-woo-saved-tabs.php:5
+msgid "Custom Product Tabs for WooCommerce | Saved Tabs"
+msgstr "Custom Product Tabs pro WooCommerce | Uložené záložky"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:69
+msgid "This is for your reference only."
+msgstr "Slouží pouze pro vaši orientaci."
+
+#: admin/page.yikes-woo-saved-tabs-single.php:66
+#: admin/page.yikes-woo-saved-tabs.php:56
+#: admin/page.yikes-woo-saved-tabs.php:76
+msgid "Tab Name"
+msgstr "Jméno záložky"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:8
+msgid "It looks like something went wrong. Please %1sgo back%2s. and try again"
+msgstr "Zřejmě se něco pokazilo. %1sVraťte se zpět%2s. a zkuste to znovu"
+
+#: admin/page.support.php:6
+msgid "Custom Product Tabs for WooCommerce | Support"
+msgstr "Custom Product Tabs pro WooCommerce | Zákaznická podpora"
+
+#: admin/page.premium.php:86
+msgid "Premium support with a ticket form accessible directly from your dashboard"
+msgstr "Prémiová podpora prostřednictvím formuláře dostupného přímo z vaší nástěnky."
+
+#: admin/page.premium.php:84
+msgid " Premium Support"
+msgstr "Prémiová zákaznická podpora"
+
+#: admin/page.premium.php:80
+msgid "Make WordPress' and/or WooCommerce's search aware of Custom Product Tab information"
+msgstr "Začlenit obsah vlastních záložek do výsledků vyhledávání WordPressu a/nebo WooCommerce."
+
+#: admin/page.premium.php:79
+msgid "Remove the tab title from tab content site-wide without needing a filter"
+msgstr "Odstraňte název záložky z obsahu záložky v rámci celého webu bez nutnosti použití filtru."
+
+#: admin/page.premium.php:77
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/page.premium.php:73
+msgid "Assign saved tabs to products via the product's default bulk edit screen."
+msgstr "Přiřadit uložené záložky k produktům pomocí výchozí obrazovky pro hromadné úpravy produktů."
+
+#: admin/page.premium.php:71
+msgid "WooCommerce Bulk Edit"
+msgstr "Hromadné úpravy WooCommerce"
+
+#: admin/page.premium.php:66
+msgid "Assign taxonomy terms to tabs or set tabs as global so they apply to all products."
+msgstr "Přiřadit výrazy taxonomií záložkám nebo nastavit záložky jako globální pro použití u všech produktů."
+
+#: admin/page.premium.php:62
+msgid "Global Tabs & Taxonomy Tabs"
+msgstr "Globální záložky a záložky taxonomií"
+
+#: admin/page.premium.php:56
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>And More!</strong>"
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>A další!</strong>"
+
+#: admin/page.premium.php:50
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Premium Support</strong> - Get support via our form directly from your dashboard."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Prémiová zákaznická podpora</strong> - Žádejte o zákaznickou podporu přímo z vaší nástěnky pomocí našeho formuláře."
+
+#: admin/page.premium.php:44
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Search</strong> - Make tab content searchable by WordPress' standard search or WooCommerce's search widget."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Vyhledávání</strong> - Umožněte prohledávání obsahu vlastních záložek pomocí standardního WordPress hledání nebo WooCommerce widgetu."
+
+#: admin/page.premium.php:38
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>WooCommerce Bulk Edit</strong> - Assign tabs to products via WooCommerce's bulk editor."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Hromadné úpravy WooCommerce </strong> - Přiřaďte vlastní záložky k produktům pomocí hromadných úprav WooCommerce."
+
+#: admin/page.premium.php:32
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Category/Tag Tabs</strong> - Assign tabs to products by category or tag."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Záložky dle kategorií/štítků</strong> - Přiřaďte vlastní záložky k produktům dle kategorií či štítků."
+
+#: admin/page.premium.php:26
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Global Tabs</strong> - Apply saved tabs to all of your products."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Globální záložky</strong> - Použijte uložené záložky pro všechny produkty."
+
+#: admin/page.premium.php:19
+msgid "Upgrade to %1sCustom Product Tabs Pro%2s for complete control of Tabs and enhanced features."
+msgstr "Chcete-li získat úplnou kontrolu nad vlastními záložkami a další rozšířené funkce, upgradujte na %1sCustom Product Tabs Pro%2s."
+
+#: admin/page.premium.php:13
+msgid "Upgrade to Pro"
+msgstr "Přejít na verzi Pro"
+
+#: admin/page.premium.php:5
+msgid "Custom Product Tabs for WooCommerce | Go Pro"
+msgstr "Custom Product Tabs pro WooCommerce | Přejít na verzi Pro"
+
+#: admin/class.yikes-woo-saved-tabs.php:502
+#: admin/class.yikes-woo-saved-tabs.php:503
+msgid "Custom Product Tabs"
+msgstr "Custom Product Tabs"
+
+#: admin/class.yikes-woo-saved-tabs.php:288
+msgid "Uh oh. Something went wrong."
+msgstr "Jejda, něco se pokazilo."
+
+#: admin/class.yikes-woo-saved-tabs.php:284
+msgid "Could not find the tab. Please try again."
+msgstr "Záložka nenalezena. Zkuste to znovu."
+
+#: admin/class.support.php:96
+msgid "Submit a Support Request"
+msgstr "Podat žádost o podporu"
+
+#: admin/class.support.php:89
+msgid "If you need help with free Custom Product Tabs, please post questions to %1sour support forum on the WordPress Plugin Directory%2s. We aim to respond to support requests within a week."
+msgstr "Potřebujete-li pomoct s neplacenou verzí Custom Product Tab, vložte dotaz na %1snaše fórum podpory WordPress pluginů%2s. Snažíme se odpovídat na vaše dotazy do týdne."
+
+#: admin/class.support.php:84
+msgid "WordPress.org Support Forums"
+msgstr "Podpora na fórech Wordpress.org"
+
+#: admin/class.support.php:75
+msgid "Custom Product Tabs Pro users qualify for premium support. Check out %1sCustom Product Tabs Pro%2s!"
+msgstr "Uživatelé Custom Product Tabs Pro mají nárok na prémiovou zákaznickou podporu. Prohlédněte si %1sCustom Product Tabs Pro%2s!"
+
+#: admin/class.support.php:68
+msgid "Before submitting a support request, please visit our %1sKnowledge Base%2s where we have step-by-step guides and troubleshooting help."
+msgstr "Před odesláním žádosti o podporu navštivte %1sZnalostní bázi%2s, která obsahuje podrobné průvodce řešením problémů a nápovědu."
+
+#: admin/class.support.php:41 admin/class.support.php:42
+msgid "Support"
+msgstr "Zákaznická podpora"
+
+#: admin/class.premium.php:111
+msgid "Custom Product Tabs Pro"
+msgstr "Vlastní produktové záložky Pro"
+
+#: admin/class.premium.php:108
+msgid "Check out Custom Product Tabs Pro!"
+msgstr "Prohlédněte si Custom Product Tabs Pro!"
+
+#: admin/class.premium.php:98
+msgid "Tweet"
+msgstr "Tweetnout"
+
+#: admin/class.premium.php:94
+msgid "Tweet about us!"
+msgstr "Tweetujte o nás!"
+
+#: admin/class.premium.php:49 admin/class.premium.php:50
+msgid "Go Pro"
+msgstr "Verze Pro"
+
+#: admin/class.premium.php:82
+msgid "Leave a review!"
+msgstr "Napište o nás recenzi!"
+
+#: admin/class.yikes-woo-generate-html.php:285
+msgid "Override Saved Tab"
+msgstr "Přepsat uloženou záložku"
+
+#: admin/class.yikes-woo-generate-html.php:166
+msgid " Override Saved Tab"
+msgstr "Přepsat uloženou záložku"
+
+#: admin/class.yikes-woo-tabs.php:62 admin/class.yikes-woo-tabs.php:71
+#: admin/class.yikes-woo-saved-tabs.php:63
+msgid "Sorry! An error has occurred while trying to retrieve the editor. Please refresh the page and try again."
+msgstr "Při pokusu o spuštění editoru nastala chyba. Prosíme, obnovte stránku a zkuste to znovu."
+
+#: admin/page.yikes-woo-saved-tabs.php:133
+msgid "There are no saved tabs. Add one!"
+msgstr "Nejsou uloženy žádné záložky. Přidejte první záložku!"
+
+#: admin/page.yikes-woo-saved-tabs.php:110
+#: admin/page.yikes-woo-saved-tabs.php:122
+msgid "Edit Tab"
+msgstr "Upravit záložku"
+
+#: admin/page.yikes-woo-saved-tabs.php:59
+#: admin/page.yikes-woo-saved-tabs.php:79
+msgid "Tab Content Preview"
+msgstr "Náhled obsahu záložky"
+
+#: admin/page.yikes-woo-saved-tabs.php:49
+#: admin/page.yikes-woo-saved-tabs.php:69
+msgid "Select All"
+msgstr "Označit vše"
+
+#: admin/page.yikes-woo-saved-tabs.php:41
+msgid "Apply"
+msgstr "Použít"
+
+#: admin/page.yikes-woo-saved-tabs.php:39
+msgid "Delete"
+msgstr "Smazat"
+
+#: admin/page.yikes-woo-saved-tabs.php:38
+msgid "Bulk Actions"
+msgstr "Hromadné akce"
+
+#: admin/page.yikes-woo-saved-tabs.php:36
+msgid "Select bulk action"
+msgstr "Vyberte hromadnou akci"
+
+#: admin/page.yikes-woo-saved-tabs.php:25
+msgid "Create and save tabs you can add to multiple products."
+msgstr "Vytvořte a uložte záložky, které pak bude možno přidat k vícero produktům."
+
+#: admin/page.yikes-woo-saved-tabs.php:16
+msgid "Tab deleted!"
+msgstr "Záložka byla smazána!"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:29
+#: admin/page.yikes-woo-saved-tabs.php:7
+msgid "Add Tab"
+msgstr "Přidat záložku"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:91
+#: admin/page.yikes-woo-saved-tabs.php:113
+msgid "Delete Tab"
+msgstr "Smazat záložku"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:87
+msgid "Save Tab"
+msgstr "Uložit záložku"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:75
+msgid "Tab Content"
+msgstr "Obsah záložky"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:36
+msgid "Go Back to All Saved Tabs list"
+msgstr "Zpět na seznam všech uložených záložek"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:46
+msgid "Any updates made here will apply to all products using this tab."
+msgstr "Všechny zde provedené úpravy budou aplikovány na všechny produkty, které používají tuto záložku."
+
+#: admin/class.yikes-woo-generate-html.php:341
+msgid "Add a Saved Tab"
+msgstr "Přidat uloženou záložku"
+
+#: admin/class.yikes-woo-generate-html.php:336
+msgid "Add a Tab"
+msgstr "Přidat záložku"
+
+#: admin/class.yikes-woo-generate-html.php:164
+#: admin/class.yikes-woo-generate-html.php:284
+msgid "Check this box to override the saved tab"
+msgstr "Zaškrtnět, chcete-li přepsat uloženou záložku"
+
+#: admin/class.yikes-woo-generate-html.php:137
+msgid "For help using Custom Tabs please visit our <a href='https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/' target='_blank'>Knowledge Base</a>"
+msgstr "Pro nápovědu k Vlastním záložkám navštivte naši <a href='https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/' target='_blank'>znalostní bázi</a>"
+
+#: admin/class.yikes-woo-generate-html.php:71
+#: admin/class.yikes-woo-generate-html.php:215
+msgid "Custom Tab Title"
+msgstr "Název vlastní záložky"
+
+#. Author of the plugin
+msgid "YIKES, Inc."
+msgstr "YIKES, Inc-"
+
+#. Description of the plugin
+msgid "Extend WooCommerce to add and manage custom product tabs. Create as many product tabs as needed per product."
+msgstr "Rozšiřte si WooCommerce o vlastní záložky. Vytvořte si u každého produktu tolik záložek, kolik potřebujete."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.yikesinc.com"
+msgstr "http://www.yikesinc.com"
+
+#. Plugin Name of the plugin
+msgid "Custom Product Tabs for WooCommerce"
+msgstr "YIKES Custom Product Tabs pro WooCommerce"
+
+#: admin/class.yikes-woo-generate-html.php:231
+#: admin/class.yikes-woo-generate-html.php:269
+msgid "HTML and text to display."
+msgstr "HTML a text, který se zobrazí v záložce"
+
+#: admin/class.yikes-woo-generate-html.php:230
+#: admin/class.yikes-woo-generate-html.php:269
+msgid "Content"
+msgstr "Obsah"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:58
+#: admin/class.yikes-woo-generate-html.php:71
+#: admin/class.yikes-woo-generate-html.php:215
+#: admin/page.yikes-woo-saved-tabs.php:53
+#: admin/page.yikes-woo-saved-tabs.php:73
+msgid "Tab Title"
+msgstr "Název záložky"
+
+#: admin/class.yikes-woo-generate-html.php:180
+#: admin/class.yikes-woo-generate-html.php:254
+#: admin/class.yikes-woo-generate-html.php:296
+msgid "Remove Tab"
+msgstr "Odstranit záložku"
+
+#: admin/class.yikes-woo-generate-html.php:139
+msgid "Help Me!"
+msgstr "Pomoc!"
+
+#: admin/class.yikes-woo-tabs.php:88
+msgid "Custom Tabs"
+msgstr "Vlastní záložky"
+
+#: yikes-inc-easy-custom-woocommerce-product-tabs.php:52
+msgid "Custom Product Tabs for WooCommerce could not be activated because WooCommerce is not installed and active."
+msgstr "YIKES Custom Product Tabs for WooCommerce nemohl být aktivován, protože v systému není nainstalován WooCommerce."

@@ -1,0 +1,168 @@
+# Translation of Plugins - Disable Comments - Development (trunk) in Czech
+# This file is distributed under the same license as the Plugins - Disable Comments - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-22 11:08:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Disable Comments - Development (trunk)\n"
+
+#: includes/settings-page.php:44
+msgctxt "settings page title"
+msgid "Disable Comments"
+msgstr "Disable Comments"
+
+#: disable-comments.php:418
+msgctxt "settings menu title"
+msgid "Disable Comments"
+msgstr "Disable Comments"
+
+#: includes/tools-page.php:109
+msgid "Total Comments:"
+msgstr "Celkem komentářů:"
+
+#: includes/tools-page.php:104
+msgid "%s: Deleting comments will remove existing comment entries in the database and cannot be reverted without a database backup."
+msgstr "%s: Odstranění komentářů smaže současné databázové záznamy komentářů a bez zálohy databáze nelze záznamy obnovit."
+
+#: includes/tools-page.php:92
+msgid "For certain post types"
+msgstr "Pro určité typy obsahu"
+
+#: includes/tools-page.php:90
+msgid "%s: This function and will affect your entire site. Use it only if you want to delete comments <em>everywhere</em>."
+msgstr "%s: Tato funkce ovlivní celý váš web. Použijte ji jen v případě chcete-li odstranit komentáře <em>odevšad</em>."
+
+#: includes/tools-page.php:89
+msgid "Delete all comments in WordPress."
+msgstr "Odstranit veškeré komentáře z WordPressu."
+
+#: includes/tools-page.php:73
+msgid "Comment Deletion Complete"
+msgstr "Odstranění komentářů bylo dokončeno"
+
+#: includes/tools-page.php:67
+msgid "All comments have been deleted for %s."
+msgstr "Pro %s byly odstraněny veškeré komentáře."
+
+#: includes/tools-page.php:42 includes/tools-page.php:45
+msgid "Internal error occured. Please try again later."
+msgstr "Nastala vnitřní chyba. Zkuste to prosím později."
+
+#: includes/tools-page.php:40
+msgid "All comments have been deleted."
+msgstr "Veškeré komentáře byly úspěšně odstraněny."
+
+#: includes/tools-page.php:14 includes/tools-page.php:80
+msgid "No comments available for deletion."
+msgstr "Žádné komentáře k odstranění."
+
+#: includes/settings-page.php:68 includes/tools-page.php:102
+msgid "Custom post types:"
+msgstr "Vlastní typy obsahu:"
+
+#: includes/tools-page.php:7 includes/tools-page.php:110
+#: disable-comments.php:431
+msgid "Delete Comments"
+msgstr "Odstranit komentáře"
+
+#: disable-comments.php:410
+msgid "Tools"
+msgstr "Nástroje"
+
+#. Author URI of the plugin
+msgid "http://www.rayofsolaris.net/"
+msgstr "http://www.rayofsolaris.net/"
+
+#. Author of the plugin
+msgid "Samir Shah"
+msgstr "Samir Shah"
+
+#. Description of the plugin
+msgid "Allows administrators to globally disable comments on their site. Comments can be disabled according to post type."
+msgstr "Umožňuje administrátorům globálně zakazovat komentáře na webu. Komentáře lze zakázat pro jednotlivé typy obsahu."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://cs.wordpress.org/plugins/disable-comments/"
+
+#: includes/settings-page.php:75
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: includes/settings-page.php:70
+msgid "Disabling comments will also disable trackbacks and pingbacks. All comment-related fields will also be hidden from the edit/quick-edit screens of the affected posts. These settings cannot be overridden for individual posts."
+msgstr "Zakázáním komentářů také zablokujete trackbacky a pingbacky. Z nastavení vám také zmizí veškerá pole spojená s komentáři. Tato nastavení nemohou být přepsána pro jednotlivé příspěvky."
+
+#: includes/settings-page.php:67 includes/tools-page.php:101
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "Výše se zobrazí pouze výchozí typy obsahu. Pokud chcete zakázat komentáře u vlastních typů obsahu v celé síti, napište níže čárkami oddělený seznam typů obsahu (použijte název v URL, který identifikuje typ obsahu)."
+
+#: includes/settings-page.php:58
+msgid "On certain post types"
+msgstr "Na určitých typech obsahu"
+
+#: includes/settings-page.php:56 includes/tools-page.php:90
+#: includes/tools-page.php:104
+msgid "Warning"
+msgstr "Varování"
+
+#: includes/settings-page.php:56
+msgid "%1$s: This option is global and will affect your entire site. Use it only if you want to disable comments <em>everywhere</em>. A complete description of what this option does is <a href=\"%2$s\" target=\"_blank\">available here</a>."
+msgstr "%1$s: Tato volba je globální a ovlivní celý váš web. Použijte ji pouze pokud chcete komentáře zakázat úplně <em>všude</em>. Úplný popis této volby najdete <a href=\"%2$s\" target=\"_blank\">zde</a> (anglicky)."
+
+#: includes/settings-page.php:55
+msgid "Disable all comment-related controls and settings in WordPress."
+msgstr "Zablokuje všechna nastavení komentářů ve WordPressu."
+
+#: includes/settings-page.php:55 includes/tools-page.php:89
+msgid "Everywhere"
+msgstr "Všude"
+
+#: includes/settings-page.php:50
+msgid "It seems that a caching/performance plugin is active on this site. Please manually invalidate that plugin's cache after making any changes to the settings below."
+msgstr "Pravděpodobně na tomto webu používáte plugin pro vylepšení výkonu/cachování. Vymažte prosím paměť po provedení jakýchkoliv změn v následujícím nastavení."
+
+#: includes/settings-page.php:47
+msgid "<em>Disable Comments</em> is Network Activated. The settings below will affect <strong>all sites</strong> in this network."
+msgstr "Plugin <em>Disable Comments</em> je aktivní v síti webů. Následující nastavení ovlivní <strong>veškeré weby</strong> v této síti."
+
+#: includes/settings-page.php:39
+msgid "Options updated. Changes to the Admin Menu and Admin Bar will not appear until you leave or reload this page."
+msgstr "Nastavení bylo aktualizováno. Změny v administračním menu a v administrační liště se projeví až po opětovném přihlášení, nebo po aktualizaci této stránky."
+
+#: includes/settings-page.php:38
+msgid "If a caching/performance plugin is active, please invalidate its cache to ensure that changes are reflected immediately."
+msgstr "Pokud je aktivní nějaký plugin pro optimalizaci webu/paměti, pro okamžitou aplikaci veškerých změn, prosím vymažte jeho paměť."
+
+#. Plugin Name of the plugin
+msgid "Disable Comments"
+msgstr "Disable Comments"
+
+#: disable-comments.php:409
+msgid "Settings"
+msgstr "Nastavení"
+
+#: disable-comments.php:331
+msgid "The <em>Disable Comments</em> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "Plugin <em>Disable Comments</em> je aktivni, ale zatím není nijak nastaven. Přejděte na <a href=\"%s\">nastavení pluginu</a> a vyberte si kde chcete komentáře zakázat."
+
+#: disable-comments.php:305
+msgid ", "
+msgstr ", "
+
+#: disable-comments.php:305
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Poznámka: Plugin <em>Disable Comments</em> je momentálně aktivní a komentáře jsou úplně vyplé u: %s. Většina nastavení zobrazeného níže nebude použita pro tyto typyobsahu."
+
+#: disable-comments.php:241 disable-comments.php:339 disable-comments.php:346
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: disable-comments.php:59
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Disable Comments vyžaduje WordPress verze %s nebo vyšší."

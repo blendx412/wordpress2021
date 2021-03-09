@@ -1,0 +1,1647 @@
+# Translation of Plugins - YITH WooCommerce Wishlist - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Wishlist - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-30 15:46:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Wishlist - Stable (latest release)\n"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:82
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class.yith-wcwl-admin-init.php:1300
+msgid "Show \"Share Url\" field on wishlist page"
+msgstr "Zobrazit pole „Sdílet adresu URL“ na stránce Oblíbené"
+
+#: includes/class.yith-wcwl-admin-init.php:1299
+msgid "Share by Url"
+msgstr "Sdílet Url"
+
+#: templates/share.php:61
+msgid "this wishlist link and share it anywhere)"
+msgstr "tento odkaz na seznam oblíbených a sdílet jej kdekoli)"
+
+#: templates/share.php:61
+msgid "copy"
+msgstr "kopírovat"
+
+#: templates/share.php:61
+msgid "(Now"
+msgstr "(Nyní"
+
+#: plugin-fw/lib/yith-system-status.php:114
+msgid "Iconv Module"
+msgstr "Iconv Modul"
+
+#: plugin-fw/templates/fields/ajax-customers.php:83
+#: plugin-fw/templates/fields/ajax-customers.php:93
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: plugin-fw/templates/fields/ajax-customers.php:57
+msgid "Search Customers"
+msgstr "Hledat zákazníky"
+
+#: plugin-fw/lib/yith-system-status.php:292
+msgid "The system check has detected some compatibility issues on your installation. %sClick here%s to know more"
+msgstr "Kontrola systému zjistila některé problémy s kompatibilitou vaší instalace. %sKliknutím sem%s se dozvíte více"
+
+#: plugin-fw/lib/yith-system-status.php:291
+msgid "Warning!"
+msgstr "Varování!"
+
+#: plugin-fw/lib/yith-system-status.php:174
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/lib/yith-system-status.php:116
+msgid "URL FOpen"
+msgstr "URL FOpen"
+
+#: plugin-fw/lib/yith-system-status.php:115
+msgid "OPCache Save Comments"
+msgstr "OPCache Uložit komentáře"
+
+#: plugin-fw/lib/yith-system-status.php:113
+msgid "GD Library"
+msgstr "Knihovna GD"
+
+#: plugin-fw/lib/yith-system-status.php:112
+msgid "ImageMagick Version"
+msgstr "Verze ImageMagick"
+
+#: plugin-fw/lib/yith-system-status.php:111
+msgid "MultiByte String"
+msgstr "MultiByte String"
+
+#: plugin-fw/lib/yith-system-status.php:110
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/lib/yith-system-status.php:109
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+#: plugin-fw/lib/yith-system-status.php:108
+msgid "TLS Version"
+msgstr "Verze TLS"
+
+#: plugin-fw/lib/yith-system-status.php:107
+msgid "PHP Version"
+msgstr "Verze PHP"
+
+#: plugin-fw/lib/yith-system-status.php:106
+msgid "Available Memory"
+msgstr "Dostupná paměť"
+
+#: plugin-fw/lib/yith-system-status.php:105
+msgid "WooCommerce Version"
+msgstr "Verze WooCommerce"
+
+#: plugin-fw/lib/yith-system-status.php:104
+msgid "WordPress Version"
+msgstr "Verze WordPress"
+
+#: plugin-fw/lib/yith-system-status.php:97
+#: plugin-fw/lib/yith-system-status.php:98
+msgid "System Status"
+msgstr "Stav systému"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:193
+msgid "Back to top"
+msgstr "Zpět nahoru"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:176
+msgid "Back to System panel"
+msgstr "Zpět na panel Systém"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:172
+msgid "Show full PHPInfo"
+msgstr "Zobrazit celý PHPInfo"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:102
+#: plugin-fw/templates/sysinfo/system-information-panel.php:137
+#: plugin-fw/templates/sysinfo/system-information-panel.php:151
+msgid "Read more %s here%s or contact your hosting company in order to increase it."
+msgstr "Přečtěte si více %s zde %s nebo se obraťte na svůj hosting, aby to zvýšit."
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:134
+msgid "Contact your hosting company in order to enable it."
+msgstr "Chcete-li to povolit, kontaktujte svůj hosting."
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:126
+msgid "Remove %s from %s file"
+msgstr "Odebrat %s ze souboru%s"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:122
+msgid "Contact your hosting company in order to update it."
+msgstr "Chcete-li ji aktualizovat, kontaktujte svůj hosting."
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:116
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "Aktualizujte na nejnovější verzi, abyste mohli využívat všechny nové funkce a aktualizace zabezpečení."
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:105
+msgid "%s needs at least %s version"
+msgstr "%s potřebuje alespoň %s verzi"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:100
+#: plugin-fw/templates/sysinfo/system-information-panel.php:149
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "Pro optimální fungování našich pluginů doporučujeme nastavit alespoň %s dostupné paměti"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:98
+msgid "%s needs at least %s of available memory"
+msgstr "%s potřebuje alespoň %s dostupné paměti"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:96
+msgid "%s needs %s enabled"
+msgstr "%s potřebuje %s povoleno"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:76
+msgid "Disabled"
+msgstr "Zakázáno"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:76
+msgid "Enabled"
+msgstr "Povoleno"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:30
+msgid "YITH System Information"
+msgstr "YITH Systémové informace"
+
+#: plugin-fw/templates/fields/date-format.php:50
+msgid "Custom:"
+msgstr "Vlastní:"
+
+#: plugin-fw/templates/fields/select-buttons.php:34
+msgid "Remove All"
+msgstr "Odebrat vše"
+
+#: plugin-fw/templates/fields/select-buttons.php:21
+msgid "Add All"
+msgstr "Přidat vše"
+
+#: includes/class.yith-wcwl-admin-init.php:1293
+msgid "Show \"Share by WhatsApp\" button ( only on phones )"
+msgstr "Zobrazit tlačítko „Sdílet na WhatsApp“ (pouze na telefonech)"
+
+#: includes/class.yith-wcwl-admin-init.php:1292
+msgid "Share by WhatsApp"
+msgstr "Sdílet na WhatsApp"
+
+#: templates/share.php:51
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: templates/share.php:51
+msgid "My wishlist on "
+msgstr "Můj seznam oblíbených na"
+
+#: plugin-fw/lib/yith-dashboard.php:143
+msgctxt "Button label"
+msgid "Close"
+msgstr "Zavřít"
+
+#: plugin-fw/lib/yith-dashboard.php:100
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "Poslední aktualizace vydána dne"
+
+#: plugin-fw/lib/yith-dashboard.php:99
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "Zobrazit Changelog"
+
+#: plugin-fw/lib/yith-dashboard.php:71
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Došlo k chybě, což pravděpodobně znamená, že je zdroj nefunkční. Zkuste to později znovu."
+
+#: plugin-fw/lib/yith-dashboard.php:65
+msgid "RSS Error:"
+msgstr "Chyba RSS:"
+
+#: plugin-fw/lib/yith-dashboard.php:41
+msgid "Latest news from YITH Blog"
+msgstr "Nejnovější zprávy z YITH Blogu"
+
+#: plugin-fw/lib/yith-dashboard.php:40
+msgid "YITH Latest Updates"
+msgstr "YITH Poslední aktualizace"
+
+#: init.php:130
+msgid "is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "Je povoleno, ale není účinné. Aby to fungovalo, vyžaduje WooCommerce."
+
+#: includes/class.yith-wcwl-admin-init.php:1012
+msgctxt "[Part Of]: Also, please read the plugin documentation"
+msgid "documentation"
+msgstr "dokumentaci"
+
+#: includes/class.yith-wcwl-admin-init.php:1011
+msgctxt "[Part of]: Also, please read the plugin documentation"
+msgid "Also, please read the plugin"
+msgstr "Přečtěte si také plugin"
+
+#: includes/class.yith-wcwl-admin-init.php:1010
+msgid "Be sure to select at least one option in the Wishlist page menu in this settings page"
+msgstr "Nezapomeňte vybrat alespoň jednu možnost v nabídce Seznamu oblíbených na této stránce nastavení"
+
+#: includes/class.yith-wcwl-admin-init.php:1009
+msgid "Enable all plugin features"
+msgstr "Povolit všechny funkce pluginu"
+
+#: includes/class.yith-wcwl-shortcode.php:114
+msgid "ID of the wishlist to show (EG: K6EOWXB888ZD)"
+msgstr "ID seznamu oblíbených k zobrazení (EG: K6EOWXB888ZD)"
+
+#: includes/class.yith-wcwl-shortcode.php:109
+msgid "Number of items to show for each page"
+msgstr "Počet položek, které se mají zobrazit pro každou stránku"
+
+#: includes/class.yith-wcwl-shortcode.php:104
+msgid "Do not paginate"
+msgstr "Nerozdělovat na více stránek"
+
+#: includes/class.yith-wcwl-shortcode.php:103
+msgid "Paginate"
+msgstr "Stránkovat"
+
+#: includes/class.yith-wcwl-shortcode.php:100
+msgid "Choose whether to paginate items in the wishlist or show them all"
+msgstr "Vyberte, zda chcete zobrazit položky v seznamu oblíbených nebo je zobrazit všechny"
+
+#: includes/class.yith-wcwl-shortcode.php:95
+msgctxt "[gutenberg]: block description"
+msgid "Shows list of products in wishlist"
+msgstr "Zobrazí seznam produktů v oblíbených"
+
+#: includes/class.yith-wcwl-shortcode.php:94
+msgctxt "[gutenberg]: block name"
+msgid "YITH Wishlist"
+msgstr "YITH Oblíbené"
+
+#: includes/class.yith-wcwl-shortcode.php:86
+msgid "Additional css classes for the button (leave empty to use default)"
+msgstr "Další třídy css pro tlačítko (ponechte prázdné, chcete-li použít výchozí)"
+
+#: includes/class.yith-wcwl-shortcode.php:81
+msgid "Icon for the button (use any FontAwesome valid class, or leave empty to use default)"
+msgstr "Ikona tlačítka (použijte libovolnou platnou třídu FontAwesome nebo ponechte prázdné, chcete-li použít výchozí)"
+
+#: includes/class.yith-wcwl-shortcode.php:76
+msgid "\"Product added to wishlist\" label (leave empty to use default)"
+msgstr "Popis „Produkt byl přidán do seznamu oblíbených“ (ponechejte prázdné, chcete-li použít výchozí)"
+
+#: includes/class.yith-wcwl-shortcode.php:71
+msgid "\"Product already in wishlist\" label (leave empty to use default)"
+msgstr "Popis „Produkt již v seznamu oblíbených“ (ponechte prázdné, chcete-li použít výchozí)"
+
+#: includes/class.yith-wcwl-shortcode.php:66
+msgid "\"Browse wishlist\" label (leave empty to use default)"
+msgstr "Popis \"Procházet oblíbené\" (ponechte prázdné, chcete-li použít výchozí)"
+
+#: includes/class.yith-wcwl-shortcode.php:61
+msgid "Button label (leave empty to use default)"
+msgstr "Popis tlačítka (ponechte prázdné, chcete-li použít výchozí)"
+
+#: includes/class.yith-wcwl-shortcode.php:56
+msgid "Url of wishlist page (leave empty to use default)"
+msgstr "Adresa URL seznamu oblíbených (ponechte prázdné, chcete-li použít výchozí)"
+
+#: includes/class.yith-wcwl-shortcode.php:51
+msgid "ID of the product to add to wishlist (leave empty to use global product)"
+msgstr "ID produktu, který se má přidat do seznamu oblíbených (ponechte prázdné pro použití globálního produktu)"
+
+#: includes/class.yith-wcwl-shortcode.php:46
+msgctxt "[gutenberg]: block description"
+msgid "Shows Add to Wishlist button"
+msgstr "Zobrazí tlačítko Přidat k oblíbeným"
+
+#: includes/class.yith-wcwl-shortcode.php:45
+msgctxt "[gutenberg]: block name"
+msgid "YITH Add to Wishlist"
+msgstr "YITH Přidat k oblíbeným"
+
+#: plugin-fw/lib/yith-gutenberg.php:134
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Description of the plugin
+msgid "<code><strong>YITH WooCommerce Wishlist</strong></code> gives your users the possibility to create, fill, manage and share their wishlists allowing you to analyze their interests and needs to improve your marketing strategies. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH</strong></a>"
+msgstr "<code><strong>YITH WooCommerce Oblíbené</strong></code> poskytuje uživatelům možnost vytvářet, naplňovat, spravovat a sdílet jejich seznamy přání, což vám umožní analyzovat jejich zájmy a potřeby a zlepšit marketingové strategie. <a href=\"https://yithemes.com/\" target=\"_blank\">Získejte více pluginů pro svůj obchod na <strong>YITH</strong></a>"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#: plugin-fw/yit-plugin.php:193
+msgid "License"
+msgstr "Licence"
+
+#: plugin-fw/yit-plugin.php:189
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Nastavení"
+
+#: plugin-fw/yit-plugin.php:98
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Premium verze"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Podpora"
+
+#: plugin-fw/yit-plugin.php:88
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: plugin-fw/yit-plugin.php:83
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Ukázkový web"
+
+#: init.php:140
+msgid "You can't activate the free version of"
+msgstr "Nemůžete aktivovat bezplatnou verzi"
+
+#: init.php:140
+msgid "while you are using the premium one."
+msgstr "zatímco používáte prémiovou."
+
+#: plugin-fw/lib/privacy/yit-privacy.php:72
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Platby"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:69
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Co sdílíme s ostatními"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:66
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Kdo v našem týmu má přístup"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:63
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Co shromažďujeme a ukládáme"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:59
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Tento příklad obsahuje základní informace o tom, jaká osobní data může váš obchod shromažďovat, ukládat a sdílet, a kdo může mít k těmto datům přístup. V závislosti na tom, jaká nastavení jsou povolena a jaké další pluginy jsou použity, se konkrétní informace sdílené v obchodě budou lišit. Při rozhodování, jaké informace zveřejnit ve vašich zásadách ochrany osobních údajů, doporučujeme poradit se s právníkem."
+
+#: plugin-fw/lib/privacy/yit-privacy.php:24
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "YITH Pluginy"
+
+#: includes/class.yith-wcwl-privacy.php:233
+msgid "Items Added"
+msgstr "Položka byla přidána"
+
+#: includes/class.yith-wcwl-privacy.php:232
+msgid "Visibility"
+msgstr "Viditelnost"
+
+#: includes/class.yith-wcwl-privacy.php:231
+msgctxt "date wishlist was created"
+msgid "Created on"
+msgstr "Vytvořeno dne"
+
+#: includes/class.yith-wcwl-privacy.php:230
+msgid "Title"
+msgstr "Název"
+
+#: includes/class.yith-wcwl-privacy.php:229
+msgid "Wishlist url"
+msgstr "url seznamu oblíbených"
+
+#: includes/class.yith-wcwl-privacy.php:228
+msgid "Token"
+msgstr "Token"
+
+#: includes/class.yith-wcwl-privacy.php:210
+msgid "Removed default user's wishlist"
+msgstr "Odebraný výchozí seznam oblíbených uživatele"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcwl-privacy.php:199
+msgid "Wishlist %s has been retained."
+msgstr "Seznam oblíbených %s byl zachován."
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcwl-privacy.php:195
+msgid "Removed wishlist %s."
+msgstr "Odebraný seznam oblíbených %s."
+
+#: includes/class.yith-wcwl-privacy.php:133
+msgid "Wishlists"
+msgstr "Seznamy oblíbených"
+
+#: includes/class.yith-wcwl-privacy.php:82
+#: includes/class.yith-wcwl-privacy.php:98
+msgid "Customer Wishlists"
+msgstr "Seznamy oblíbených zákazníka"
+
+#: includes/class.yith-wcwl-privacy.php:62
+msgid "Our team members have access to this information to offer you better deals for the products you love."
+msgstr "Členové našeho týmu mají přístup k těmto informacím, aby vám mohli nabídnout lepší nabídky produktů, které máte rádi."
+
+#: includes/class.yith-wcwl-privacy.php:60
+msgid "Wishlist details, such as products added, date of addition, name and privacy settings of your wishlists"
+msgstr "Podrobnosti seznamu oblíbených, jako jsou přidané produkty, datum přidání, název a nastavení ochrany osobních údajů vašich seznamů oblíbených"
+
+#: includes/class.yith-wcwl-privacy.php:58
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:"
+msgstr "Členové našeho týmu mají přístup k informacím, které nám poskytnete. Například administrátoři i vedoucí obchodu mají přístup:"
+
+#: includes/class.yith-wcwl-privacy.php:55
+msgid "We’ll also use cookies to keep track of wishlist contents while you’re browsing our site."
+msgstr "Při procházení našich stránek budeme také používat cookies k sledování obsahu seznamu oblíbených."
+
+#: includes/class.yith-wcwl-privacy.php:53
+msgid "Wishlists you’ve created: we’ll keep track of the wishlists you create, and make them visible to the store’s staff"
+msgstr "Seznamy oblíbených, které jste vytvořili: budeme sledovat seznamy oblíbených, které vytvoříte, a zviditelníme je pracovníkům obchodu."
+
+#: includes/class.yith-wcwl-privacy.php:52
+msgid "Products you’ve added to the wishlist: we’ll use this to show you and other users your favourite products, and to create targeted email campaigns."
+msgstr "Produkty, které jste přidali do seznamu oblíbených: použijeme to k tomu, abychom vám a ostatním uživatelům ukázali vaše oblíbené produkty a vytvořili cílené emailové kampaně."
+
+#: includes/class.yith-wcwl-privacy.php:50
+msgid "While you visit our site, we’ll track:"
+msgstr "Při návštěvě našeho webu sledujeme:"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search Product"
+msgstr "Hledat produkty"
+
+#: plugin-fw/templates/fields/ajax-posts.php:57
+msgid "Search Posts"
+msgstr "Hledat články"
+
+#: plugin-fw/templates/fields/icons.php:58
+msgid "Set Default"
+msgstr "Vrátit nastavení"
+
+#: templates/wishlist-view.php:303
+msgid "Your email"
+msgstr "Váš email"
+
+#: plugin-fw/lib/yit-plugin-panel.php:424
+#: plugin-fw/lib/yit-plugin-panel.php:427
+msgid "How to install premium version"
+msgstr "Jak nainstalovat premium verzi"
+
+#: includes/class.yith-wcwl-admin-init.php:1322
+msgid "It will be used by Pinterest."
+msgstr "Bude použito na Pinterestu"
+
+#: plugin-fw/templates/fields/upload.php:29
+msgid "Reset"
+msgstr "Resetovat"
+
+#: templates/admin/wishlist-panel-premium.php:275
+msgid "Your shop offers always a wide selection of products and wishlists of your users get more and more crowded everyday. Give them the possibility to select %1$ssome or all products%2$s in the wishlist and add them to cart just with one click."
+msgstr "Váš obchod nabízí vždy široký výběr produktů a Oblíbené vašich uživatelů se plní každým dnem. Dejte jim mořnost vybrat si %1$sněkteré nebo všechny%2$s z vašich produktu v oblíbených a přidat je do košíku jediným kliknutím."
+
+#: templates/admin/wishlist-panel-premium.php:376
+msgid "Activating the %1$s\"Show date of addition\"%2$s option, users can see the date in which they have added a particular product to their list: a new way to keep you users informed about their operations."
+msgstr "Aktivováním volby %1$s\"Zobrazit datum přidání\"%2$s uvidí uživatel datum, kdy přidal konkrůtní produkt do oblíbených. Nový způsob jak informovat uživatele o jejich akcích."
+
+#: templates/admin/wishlist-panel-premium.php:374
+msgid "DATE OF ADDITION TO A WISHLIST"
+msgstr "Datum přidání do oblíbených"
+
+#: templates/admin/wishlist-panel-premium.php:369
+msgid "DATE"
+msgstr "Datum"
+
+#: templates/admin/wishlist-panel-premium.php:362
+msgid "FROM A WISHLIST"
+msgstr "Z oblíbených"
+
+#: templates/admin/wishlist-panel-premium.php:359
+msgid "Who said that a product has to remain forever in the same wishlist? With the option %1$s\"Show \"Move to another wishlist\" dropdown menu\"%2$s, with just one click users will be free to move a product from a wishlist to another one, managing as they want their lists."
+msgstr "Kdo řekl, že produkt musí zůstat vždy ve stejném seznamu oblíbených? S možností %1$s\"Ukázat \"Přesunout na jiný seznam oblíbených\" rozbalovací nabídku\"%2$s, pouhým jedním kliknutím uživatelé budou mít možnost přesunout produkt z jednoho seznamu oblíbených do jiného a spravovat tak své seznamy."
+
+#: templates/admin/wishlist-panel-premium.php:357
+msgid "FROM A WISHLIST TO ANOTHER"
+msgstr "Z Oblibených do dalších"
+
+#: templates/admin/wishlist-panel-premium.php:348
+msgid "If you want to give the right input to your users to persuade them to %1$spurchase the products%2$s they have in their wishlists, you need to use this feature! %1$sSend them an email%2$s: customize its whole content from the option panel and add a coupon they can use in your shop, so that they will know you are offering a unique offer!"
+msgstr "Pokud chcete svým uživatelům poskytnout správný vstup, aby je přesvědčili k %1$snákupu produktů%2$s co mají ve svých seznamech přání, musíte použít tuto funkci! %1$sPošlete jim e-mail%2$s: přizpůsobte celý obsah z panelu voleb a přidejte kupón, který mohou použít ve vašem obchodě, aby věděli, že nabízíte jedinečnou nabídku!"
+
+#: templates/admin/wishlist-panel-premium.php:341
+#: templates/admin/wishlist-panel-premium.php:346
+msgid "PROMOTIONAL EMAIL"
+msgstr "Reklamní email"
+
+#: templates/admin/wishlist-panel-premium.php:334
+msgid "FUNCTIONALITIES"
+msgstr "Funkcionality"
+
+#: templates/admin/wishlist-panel-premium.php:331
+msgid "Users have the possibility to search for a wishlist, create a new one or display those already created. Add these %1$sfunctionalities%2$s through the dedicated widgets or show them immediately after \"Wishlist\" table."
+msgstr "Uživatelé mají možnost vyhledávat seznam oblíbených, vytvořit nový nebo zobrazit již vytvořené. Přidat tyto %1$sfunkce%2$s prostřednictvím specializovaných widgetů nebo  zobrazit je hned za tabulkou „Oblíbené“."
+
+#: templates/admin/wishlist-panel-premium.php:329
+msgid "FUNCTIONALITIES IN ONE CLICK"
+msgstr "Funkcionality jediným kliknutím"
+
+#: templates/admin/wishlist-panel-premium.php:320
+msgid "Some products draw customer's attention more than others and they do not hesitate to add products to their wishlist. Table %1$s'Popular'%2$s allows you, as shop administrator, to track products that appear most frequently in their wishlists."
+msgstr "Některé produkty přitahují pozornost více než jiné a zákazníky neváhají přidávat produkty do svého seznamu oblíbených. Tabulka %1$s'Populární'%2$s vám jako správci obchodu umožňuje sledovat produkty, které se nejčastěji objevují v jejich seznamech."
+
+#: templates/admin/wishlist-panel-premium.php:313
+#: templates/admin/wishlist-panel-premium.php:318
+msgid "POPULAR TABLE"
+msgstr "Tabulka populárních"
+
+#: templates/admin/wishlist-panel-premium.php:306
+msgid "UNLOGGED USERS"
+msgstr "Nepříhlášený uživatel"
+
+#: templates/admin/wishlist-panel-premium.php:303
+msgid "Invite users that are visiting your shop to login if they want to fully benefit from Wishlist functionalities. Show a %1$scustomised message%2$s and redirect them to \"My Account\" page for registration."
+msgstr "Vyzvěte uživatele, kteří navštěvují váš obchod, aby se přihlásili, pokud chtějí plně využívat funkce seznamu oblíbených. Zobrazit %1$spřizpůsobenou zprávu%2$s a přesměrovat je na stránku \"Můj účet\" pro registraci."
+
+#: templates/admin/wishlist-panel-premium.php:301
+msgid "MESSAGE TO UNLOGGED USERS"
+msgstr "Zpráva nepřihlášeným uživatelům"
+
+#: templates/admin/wishlist-panel-premium.php:292
+msgid "Favour users that have registered to your shop and disable plugin functionalities for all users that have not. By disabling this option, each time they try to add a product to the wishlist, they will be %1$sredirected%2$s to \"My Account\" page and a message will invite them to log in."
+msgstr "Upřednostňujte uživatele, kteří se zaregistrovali do vašeho obchodu, a deaktivujte funkce pluginů pro všechny uživatele, kteří tak neučinili. Pokud tuto možnost zakážete, pokaždé, když se pokusí přidat produkt do seznamu přání, budou %1$spřesměrováni%2$s na stránku „Můj účet“ a zpráva je vyzve k přihlášení."
+
+#: templates/admin/wishlist-panel-premium.php:290
+msgid "DISABLE WISHLIST FOR UNLOGGED USERS"
+msgstr "Vypnout oblíbené pro nepřihlášené uživatele"
+
+#: templates/admin/wishlist-panel-premium.php:285
+msgid "DISABLE WISHLIST"
+msgstr "Vypnout Oblíbené"
+
+#: templates/admin/wishlist-panel-premium.php:278
+msgid "'ADD TO CART'"
+msgstr "Přidat do košíku"
+
+#: templates/admin/wishlist-panel-premium.php:273
+msgid "'ADD TO CART' CHECKBOX"
+msgstr "\"Přidat do košíku\" pole"
+
+#: templates/admin/wishlist-panel-premium.php:264
+msgid "How many times have you been looking for the perfect gift for a important event but you had no idea of what to buy? %1$s'Search wishlists'%2$s allows your e-shop users to access public wishlists of anyone, by simply knowing their name or email. This way you can grant %1$shigher visibility%2$s to your products and even encourage users to purchase."
+msgstr "Kolikrát jste hledali perfektní dárek pro důležitou událost, ale nevěděli jste, co koupit? %1$s'Vyhledat seznamy oblíbených'%2$s umožňuje uživatelům vašeho e-shopu přístup k veřejným seznamům oblíbených kohokoli jednoduše tím, že zná jejich jméno nebo e-mail. Tímto způsobem můžete svým produktům poskytnout %1$světší viditelnost%2$s a dokonce povzbudit uživatele k nákupu."
+
+#: templates/admin/wishlist-panel-premium.php:257
+#: templates/admin/wishlist-panel-premium.php:262
+msgid "Search Wishlists"
+msgstr "Prohledat Wishlist"
+
+#: templates/admin/wishlist-panel-premium.php:247
+msgid "Thanks to the useful Admin panel, accessible directly among the WooCommerce submenu pages, you will have total control on users' wishlists. In addition to that, evaluating the degree of appreciation for your products has never been so easy, now that %1$syou can see a useful report,%2$s available directly in the product page, which registers the occurrences of the product in customers' wish lists."
+msgstr "Díky užitečnému panelu Správce, který je přístupný přímo na stránkách podnabídky WooCommerce, budete mít úplnou kontrolu nad seznamy uživatelů. Kromě toho hodnocení stupně ocenění vašich produktů nebylo nikdy tak snadné. Nyní, když %1$smůžete vidět užitečnou zprávu,%2$s je k dispozici přímo na stránce produktu, která zaznamenává výskyt produktu v seznamech zákazníků."
+
+#: templates/admin/wishlist-panel-premium.php:245
+#: templates/admin/wishlist-panel-premium.php:250
+msgid "Admin Panel"
+msgstr "Administrace"
+
+#: templates/admin/wishlist-panel-premium.php:236
+msgid "%1$sDo you want to add the possibility to ask for estimates of costs into your catalogue?%3$s Do you want to manage customised packets for faithful customers in your store?%2$s%3$sThanks to the feature \"estimate cost\" of %1$sYITH WooCommerce Wishlist%2$s, each registered user will be able to ask for an estimate of their own products in the wishlist and add a text in the popup window that will open just after clicking. Then, they can confirm the text and send an email with all necessary information directly to the address that you have previously set."
+msgstr "%1$sChcete do svého katalogu přidat možnost požádat o cenovou nabídku?%3$s Chcete spravovat přizpůsobené balíčky pro věrné zákazníky ve vašem obchodě? %2$s%3$sDíky funkci \"cenová nabídka\" v %1$sYITH WooCommerce Oblíbené%2$s, si bude každý registrovaný uživatel moci vyžádat cenovou nabídku vlastních produktů ze seznamu oblíbených a přidat text do vyskakovacího okna, které se otevře hned po kliknutí. Poté mohou text potvrdit a odeslat e-mail se všemi potřebnými informacemi přímo na adresu, kterou jste dříve nastavili."
+
+#: templates/admin/wishlist-panel-premium.php:229
+#: templates/admin/wishlist-panel-premium.php:234
+msgid "Estimate Cost"
+msgstr "Odhad ceny"
+
+#: templates/admin/wishlist-panel-premium.php:218
+msgid "%1$sprivate:%2$s only the wish list creator can see it."
+msgstr "%1$sprivate:%2$s zobrazeno pouze tvůrci oblíbených."
+
+#: templates/admin/wishlist-panel-premium.php:217
+msgid "%1$sshared:%2$s only users possessing a direct link to the wish list page can display it;"
+msgstr "%1$sshared:%2$s oblíbené může zobrazit pouze uživatel s přímým odkazem."
+
+#: templates/admin/wishlist-panel-premium.php:216
+msgid "%1$spublic:%2$s all users can look for your wish list and see it;"
+msgstr "%1$spublic:%2$s všichni uživatelé mohou vidět váše oblíbené."
+
+#: templates/admin/wishlist-panel-premium.php:214
+msgid "By enabling the option wishlist, users will also have the possibility to %1$smanage the visibility%2$s of their wish lists according to one of the following options:"
+msgstr ""
+"Povolením této volby budou moci uživatelé %1$sspravovat viditelnost%2$s svých oblíbených\n"
+"a to dle následujících možností:"
+
+#: templates/admin/wishlist-panel-premium.php:212
+#: templates/admin/wishlist-panel-premium.php:222
+msgid "Wishlist Private"
+msgstr "Soukromé Oblíbené"
+
+#: templates/admin/wishlist-panel-premium.php:203
+msgid "%1$sDoes it ever happened to you to have too many wishes for a single wish list?%2$s%3$s The possibility to manage one's wishes is a fundamental feature in a modern e-commerce store and it also lets users' degree of satisfaction increase.%3$sThe option \"multiple wishlist\" of %1$sYITH Wishlist%2$s makes this feature and many others on your online store available, and thanks to this plugin your customers will be able to create, manage and share their own wish lists."
+msgstr "%1$sStalo se vám někdy, že máte příliš mnoho oblíbených pro jeden seznam oblíbených?%2$s%3$s Možnost spravovat své oblíbené produkty je základním prvkem v moderním e-commerce obchodě a umožňuje také zvyšovat míru spokojenosti uživatelů.%3$sMožnost \"více seznamů oblíbených\" %1$sYITH Oblíbené%2$s zpřístupní tuto funkci a mnoho dalších ve vašem internetovém obchodě a díky tomuto pluginu budou vaši zákazníci moci vytvářet, spravovat a sdílet své vlastní seznamy oblíbených."
+
+#: templates/admin/wishlist-panel-premium.php:196
+#: templates/admin/wishlist-panel-premium.php:201
+msgid "Multiple Wishlist"
+msgstr "Mnohonásobné Oblíbené"
+
+#: templates/admin/wishlist-panel-premium.php:193
+msgid "Premium Features"
+msgstr "Premium funkce"
+
+#: templates/admin/wishlist-panel-premium.php:187
+#: templates/admin/wishlist-panel-premium.php:385
+msgid "%1$sUPGRADE%2$s%3$s to the premium version%2$s"
+msgstr "%1$sUPGRADE%2$s%3$s na premium verzi%2$s"
+
+#: templates/admin/wishlist-panel-premium.php:185
+#: templates/admin/wishlist-panel-premium.php:383
+msgid "Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce Wishlist%2$s to benefit from all features!"
+msgstr "Upgrade na %1$spremium verzi%2$s%3$sof %1$sYITH WooCommerce Wishlist%2$s pro zpřístupnění všech funkcí!"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "Rozvržení pro tuto %s"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+
+#: templates/wishlist-view.php:267 templates/wishlist-view.php:313
+msgid "Ask for an estimate"
+msgstr "Požádejte o odhad"
+
+#: templates/wishlist-view.php:259
+msgid "Add the selected products to the cart"
+msgstr "Přidat vybrané položky do košíku"
+
+#: includes/class.yith-wcwl-privacy.php:289 templates/wishlist-view.php:218
+msgid "Public"
+msgstr "Veřejné"
+
+#: includes/class.yith-wcwl-privacy.php:286 templates/wishlist-view.php:215
+msgid "Private"
+msgstr "Soukromé"
+
+#: includes/class.yith-wcwl-privacy.php:283 templates/wishlist-view.php:212
+msgid "Shared"
+msgstr "Sdíleno"
+
+#: templates/wishlist-view.php:200
+msgid "Move"
+msgstr "Přesunout"
+
+#: templates/wishlist-view.php:188
+msgid "Added on : %s"
+msgstr "Přidáno do : %s"
+
+#: templates/wishlist-view.php:179
+msgid "In Stock"
+msgstr "Skladem"
+
+#: templates/wishlist-view.php:179
+msgid "Out of Stock"
+msgstr "Není skladem"
+
+#: templates/wishlist-view.php:172
+msgid "Free!"
+msgstr "Zdarma!"
+
+#: templates/wishlist-view.php:152 templates/wishlist-view.php:232
+msgid "Remove this product"
+msgstr "Odstranit tento produkt"
+
+#: templates/wishlist-view.php:102
+msgid "Stock Status"
+msgstr "Stav skladu"
+
+#: templates/wishlist-view.php:89
+msgid "Unit Price"
+msgstr "Cena za kus"
+
+#: templates/wishlist-view.php:45
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: templates/wishlist-view.php:41
+msgid "Save"
+msgstr "Uložit"
+
+#: templates/wishlist-view.php:32
+msgid "Edit title"
+msgstr "Upravit nadpis"
+
+#: templates/share.php:38
+msgid "Google+"
+msgstr "Google+"
+
+#: templates/share.php:32
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:20
+msgid "Reset Defaults"
+msgstr "Resetovat do továrního nastavení"
+
+#: plugin-fw/templates/fields/sidebars.php:52
+msgid "Right Sidebar"
+msgstr "Pravý postranní panel"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Levý postranní panel"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Choose a sidebar"
+msgstr "Vyberte postranní panel"
+
+#: plugin-fw/templates/fields/sidebars.php:25
+msgid "Right sidebar"
+msgstr "Pravý postranní panel"
+
+#: plugin-fw/templates/fields/sidebars.php:28
+#: plugin-fw/templates/fields/sidebars.php:31
+msgid "No sidebar"
+msgstr "Bez postranního panelu"
+
+#: plugin-fw/templates/fields/sidebars.php:22
+msgid "Left sidebar"
+msgstr "Levý postranní panel"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete"
+msgstr "Smazat"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "Přidat obrázky"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add to gallery"
+msgstr "Přidat do galerie"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add Images to Gallery"
+msgstr "Přidat obrázky do galerie"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete image"
+msgstr "Smazat obrázek"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:92
+msgid "(Default: <i %s></i> )"
+msgstr "(Default: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:90
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Default: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/fields/customtabs.php:106
+msgid "Do you want to remove the custom tab?"
+msgstr "Přejete si odstranit vlastní záložku?"
+
+#: plugin-fw/templates/fields/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Přidat vlastní záložku produktu"
+
+#: plugin-fw/templates/fields/customtabs.php:53
+#: plugin-fw/templates/fields/customtabs.php:95
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Obsah záložky (HTML je podporováno)"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+#: plugin-fw/templates/fields/customtabs.php:94
+msgid "Value"
+msgstr "Hodnota"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Expand all"
+msgstr "Rozbalit vše"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Close all"
+msgstr "Sbalit vše"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:76
+msgid "Image preview"
+msgstr "Náhled obrázku"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+#: plugin-fw/templates/fields/upload.php:27
+#: plugin-fw/templates/metaboxes/types/icon-list.php:70
+msgid "Upload"
+msgstr "Nahrát"
+
+#: plugin-fw/templates/fields/customtabs.php:37
+#: plugin-fw/templates/fields/customtabs.php:81 templates/wishlist-view.php:232
+msgid "Remove"
+msgstr "Smazat"
+
+#: templates/share.php:44
+msgid "Email"
+msgstr "E-mail"
+
+#: templates/wishlist-view.php:82
+msgid "Product Name"
+msgstr "Název produktu"
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"Od nynějška najdete panel voleb YITH pluginů v nabídce YITH Pluginy.\n"
+"                                    Pokaždé, když je přidán jeden z našich pluginů, bude do této nabídky přidán nový záznam.\n"
+"                                    Například, po aktualizaci, možnosti pluginu (například YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search atd.)\n"
+"                                    budou přesunuty z předchozího umístění na kartu YITH Pluginy."
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Aktualizace pluginu"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "a"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Prozkoumejte všechna rozšíření dostupná na:"
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"Od teď naleznete všechna nastavení rozšíření v YITH Plugins menu.\n"
+"Nastavení rozšíření bude dostupné jako nová položka v YITH Plugins menu."
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Rozšíření aktivována"
+
+#: plugin-fw/lib/yit-plugin-panel.php:784
+msgid "Sorting successful."
+msgstr "Seřezeno."
+
+#: plugin-fw/lib/yit-plugin-panel.php:783
+msgid "Sorry, import is disabled."
+msgstr "Import deaktivován."
+
+#: plugin-fw/lib/yit-plugin-panel.php:782
+msgid "The added file is not valid."
+msgstr "Přidaný soubor není platný."
+
+#: plugin-fw/lib/yit-plugin-panel.php:781
+msgid "An error has occurred during import. Please try again."
+msgstr "Během importu se vyskytla chyba. Prosím opakujte."
+
+#: plugin-fw/lib/yit-plugin-panel.php:780
+msgid "Database imported correctly."
+msgstr "Databáze importována."
+
+#: plugin-fw/lib/yit-plugin-panel.php:778
+#: plugin-fw/lib/yit-plugin-panel.php:779
+msgid "Element updated correctly."
+msgstr "Prvek aktualizován."
+
+#: plugin-fw/lib/yit-plugin-panel.php:777
+msgid "Element deleted correctly."
+msgstr "Prvek smazán."
+
+#: plugin-fw/lib/yit-plugin-panel.php:776
+msgid "Settings reset"
+msgstr "Reset nastavení"
+
+#: plugin-fw/lib/yit-plugin-panel.php:775
+msgid "Settings saved"
+msgstr "Nastavení uloženo"
+
+#: plugin-fw/lib/yit-plugin-panel.php:774
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "Vložené prvky již existují. Prosím vložte jiné jméno."
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:157
+#: plugin-fw/lib/yit-plugin-panel.php:576
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:21
+msgid "Are you sure?"
+msgstr "Jste si jisti?"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:156
+#: plugin-fw/lib/yit-plugin-panel.php:575
+msgid "Reset to default"
+msgstr "Reset do základního nastavení"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:154
+#: plugin-fw/lib/yit-plugin-panel.php:573
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Pokud budete pokračovat, resetujete všechna nastavení na této stránce."
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:151
+#: plugin-fw/lib/yit-plugin-panel.php:570
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: plugin-fw/lib/yith-system-status.php:173
+msgid "YITH Plugins"
+msgstr "YITH pluginy"
+
+#: plugin-fw/lib/yit-plugin-panel.php:79
+msgid "Plugin Settings"
+msgstr "Nastavení modulu:"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:397
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Pokud opustíte tuto stránku, provedené změny budou ztraceny"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1636
+msgid "Upload multiple files"
+msgstr "Nahrát více souborů"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Add %s from images"
+msgstr "Přidat %s z obrázků"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/fields/customtabs.php:46
+#: plugin-fw/templates/fields/customtabs.php:89
+msgid "Name"
+msgstr "Jméno"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "Zobrazit frontend %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "Rychlé odkazy"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "Nastavení rozvržení"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "Rozvržení pro jednoduchou stranu portfolia"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "Jednoduché rozvržení"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "Pro každou adresu URL stránky kategorie nastavte jednoznačný název."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "Přepis taxonomie"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "Pokud chcete používat v portfoliu kategorie, nastavte jméno taxonomie. Jménu by měla být výstižná zkratka (bez mezer a velkých písmen) a nesmí mít více než 32 zanků dlouhé (omezení struktury databáze)."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Nastavte popisek v množném čísle (nadpis portolia pokud je prázné)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "štítek u jednotného čísla"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Nastavit popis v jednotném čísle (název portfolia, pokud je prázdný)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "štítek u množného čísla"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Jednoznačné identifikační jméno v URL pro každý produkt (slug z příspěvku, je-li prázdný)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "Přepsat"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "Typ"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s nastavení"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "Rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "Rubrika"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "Název nové rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "Přidejte novou rubriku"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "Aktualizovat rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "Upravit rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "Nadřazená rubrika:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "Nadřízená rubrika"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "Všechny rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+#: plugin-fw/templates/fields/ajax-terms.php:56
+msgid "Search Categories"
+msgstr "Prohledat rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s rubriky"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "%s nenalezeny v koši"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "%s nenalezeny"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "Vyhledat %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "Zobrazit %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "Všechny %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "Nové %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "Upravit %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "Přidat nové %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1634
+msgid "Add %s"
+msgstr "Přidat %s"
+
+#: includes/class.yith-wcwl.php:1677
+msgid "An error as occurred."
+msgstr "Vyskytla se chyba"
+
+#: includes/class.yith-wcwl.php:1635 templates/wishlist-view.php:242
+msgid "No products were added to the wishlist"
+msgstr "Do oblíbených nebyly přidány žádné produkty"
+
+#: includes/class.yith-wcwl.php:1631
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr "Chyba, produkt nebylo možné z oblíbených odebrat."
+
+#: includes/class.yith-wcwl.php:1627
+msgid "Product successfully removed."
+msgstr "Produkt odebrán."
+
+#: includes/class.yith-wcwl.php:825
+msgid "You need to log in before creating a new wishlist"
+msgstr "Pro vytvoření nového seznamu oblíbených se musíte nejprve přihlásit."
+
+#: includes/class.yith-wcwl.php:359
+msgid "An error occurred while removing products from the wishlist"
+msgstr "Při odebírání produktů z oblíbených nastala chyba."
+
+#: includes/class.yith-wcwl.php:310
+msgid "The \"Remove\" option now does not require any parameter"
+msgstr "Funkce \"Odebrat\" nevyžaduje žádný parametr"
+
+#: includes/class.yith-wcwl.php:293
+msgid "An error occurred while adding products to wishlist."
+msgstr "Při přidávání produktů do oblíbených nastala chyba"
+
+#: includes/class.yith-wcwl.php:201
+msgid "An error occurred while adding products to the wishlist."
+msgstr "Při přidávání produktů do oblíbených nastala chyba"
+
+#: includes/class.yith-wcwl-ui.php:180
+msgid "email"
+msgstr "email"
+
+#: includes/class.yith-wcwl-ui.php:171 templates/share.php:26
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class.yith-wcwl-ui.php:168 templates/share.php:20
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class.yith-wcwl-ui.php:118 includes/class.yith-wcwl-ui.php:200
+msgid "Select options"
+msgstr "Vyberte možnosti"
+
+#: includes/class.yith-wcwl-shortcode.php:387
+#: includes/class.yith-wcwl-ui.php:164
+msgid "Share on:"
+msgstr "Sdílejte:"
+
+#: includes/class.yith-wcwl-install.php:244
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr "oblíbené"
+
+#: includes/class.yith-wcwl-init.php:449
+msgid "Product correctly added to cart"
+msgstr "Produkt přidán do košíku"
+
+#: includes/class.yith-wcwl-init.php:448
+msgid "We are sorry, but this feature is available only if cookies are enabled on your browser."
+msgstr "Omlouváme se, ale tato funkce je dostupná pouze pokud máte v prohlížeči povoleny cookies."
+
+#: includes/class.yith-wcwl-admin-init.php:1572
+msgid "From now on, you can find all the options of Wishlist under YIT Plugin -> Wishlist instead of WooCommerce -> Settings -> Wishlist, as in the previous version. When one of our plugins is updated, a new voice will be added to this menu. Wishlist has been updated with new available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+msgstr "Od této chvíle naleznete všechna nastavení Oblíbených pod YIT Plugin -> Wishlist namísto WooCommerce -> Settings -> Wishlist, jako v přechozí verzi. Pokud bude jeden z našich pluginů aktualizován, do menu bude přidána nová nabídka. Oblíbené byly aktualizovány s novým nastavením, <a href=\"%s\">objevte PREMIUM verzo.</a>"
+
+#: includes/class.yith-wcwl-admin-init.php:1571
+msgid "Wishlist Updated"
+msgstr "Oblíbené aktualizovány"
+
+#: includes/class.yith-wcwl-admin-init.php:1560
+msgid "In the YIT Plugin tab you can find the Wishlist options. With this menu, you can access to all the settings of our plugins that you have activated. Wishlist is available in an outstanding PREMIUM version with many new options, <a href=\"%s\">discover it now</a>."
+msgstr "Na kartě YIT Plugin najdete možnosti Seznamu oblíbených. V této nabídce máte přístup ke všem nastavením našich pluginů, které jste aktivovali. Seznam oblíbených je k dispozici ve vynikající verzi PREMIUM s mnoha novými možnostmi, <a href=\"%s\">objevte to hned</a>."
+
+#: includes/class.yith-wcwl-admin-init.php:1559
+msgid "Wishlist Activated"
+msgstr "Oblibené aktivovány"
+
+#: includes/class.yith-wcwl-admin-init.php:1469
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: includes/class.yith-wcwl-admin-init.php:1466
+msgid "Headers"
+msgstr "Záhlaví"
+
+#: includes/class.yith-wcwl-admin-init.php:1457
+msgid "Wishlist table"
+msgstr "Tabulka oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1439
+msgid "\"Style 2\" button"
+msgstr "Tlačítko \"Styl 2\""
+
+#: includes/class.yith-wcwl-admin-init.php:1421
+msgid "\"Style 1\" button"
+msgstr "Tlačítko \"Styl 1\""
+
+#: includes/class.yith-wcwl-admin-init.php:1403
+msgid "\"Add to Cart\" button"
+msgstr "Tlačítko \"Vložit do košíku\""
+
+#: includes/class.yith-wcwl-admin-init.php:1399
+#: includes/class.yith-wcwl-admin-init.php:1417
+#: includes/class.yith-wcwl-admin-init.php:1435
+#: includes/class.yith-wcwl-admin-init.php:1453
+msgid "Border (hover)"
+msgstr "Orámování"
+
+#: includes/class.yith-wcwl-admin-init.php:1398
+#: includes/class.yith-wcwl-admin-init.php:1416
+#: includes/class.yith-wcwl-admin-init.php:1434
+#: includes/class.yith-wcwl-admin-init.php:1452
+msgid "Text (hover)"
+msgstr "Text"
+
+#: includes/class.yith-wcwl-admin-init.php:1397
+#: includes/class.yith-wcwl-admin-init.php:1415
+#: includes/class.yith-wcwl-admin-init.php:1433
+#: includes/class.yith-wcwl-admin-init.php:1451
+msgid "Background (hover)"
+msgstr "Pozadí"
+
+#: includes/class.yith-wcwl-admin-init.php:1390
+#: includes/class.yith-wcwl-admin-init.php:1408
+#: includes/class.yith-wcwl-admin-init.php:1426
+#: includes/class.yith-wcwl-admin-init.php:1444
+#: includes/class.yith-wcwl-admin-init.php:1462
+msgid "Border"
+msgstr "Ohraničení"
+
+#: includes/class.yith-wcwl-admin-init.php:1389
+#: includes/class.yith-wcwl-admin-init.php:1407
+#: includes/class.yith-wcwl-admin-init.php:1425
+#: includes/class.yith-wcwl-admin-init.php:1443
+#: includes/class.yith-wcwl-admin-init.php:1461
+msgid "Text"
+msgstr "Text"
+
+#: includes/class.yith-wcwl-admin-init.php:1388
+#: includes/class.yith-wcwl-admin-init.php:1406
+#: includes/class.yith-wcwl-admin-init.php:1424
+#: includes/class.yith-wcwl-admin-init.php:1442
+#: includes/class.yith-wcwl-admin-init.php:1460
+msgid "Background"
+msgstr "Pozadí"
+
+#: includes/class.yith-wcwl-admin-init.php:1385
+msgid "\"Add to wishlist\" button"
+msgstr "tlačítko \"Přidat k oblíbeným\""
+
+#: includes/class.yith-wcwl-admin-init.php:1349
+msgid "Choose to enable product slider in wishlist page with linked products (<a href=\"%s\" class=\"thickbox\">Example</a>). %s"
+msgstr "Zvolte, zda chcete na stránce seznamu oblíbených povolit slider produktu s propojenými produkty (<a href=\"%s\" class=\"thickbox\">Příklad</a>). %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1348
+msgid "Enable slider in wishlist"
+msgstr "Aktivovat posuvník v oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1341
+msgid "YITH WooCommerce Frequently Bought Together Integration"
+msgstr "YITH WooCommerce nejčastěji kupované společně"
+
+#: includes/class.yith-wcwl-admin-init.php:1336
+msgid "If you want to take advantage of this feature, you could consider to purchase the %s."
+msgstr "Pokud chcete využít tyto doplňky, měli byste zvážit zakoupení %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1321
+msgid "Social image URL"
+msgstr "Sociální obrázek URL"
+
+#: includes/class.yith-wcwl-admin-init.php:1314
+msgid "It will be used by Twitter and Pinterest. Use <strong>%wishlist_url%</strong> where you want to show the URL of your wishlist."
+msgstr "Použijí to Twitter a Pinterest. Použijte <strong>%wishlist_url%</strong> kde chcete zobrazit URL vašeho seznamu oblíbených."
+
+#: includes/class.yith-wcwl-admin-init.php:1313
+msgid "Social text"
+msgstr "Sociální text"
+
+#: includes/class.yith-wcwl-admin-init.php:1306
+msgid "Social title"
+msgstr "Sociální nadpis"
+
+#: includes/class.yith-wcwl-admin-init.php:1286
+msgid "Show \"Share by Email\" button"
+msgstr "Zobrazit tlačítko \"Sdílet emailem\""
+
+#: includes/class.yith-wcwl-admin-init.php:1285
+msgid "Share by Email"
+msgstr "Sdílejte emailem"
+
+#: includes/class.yith-wcwl-admin-init.php:1279
+msgid "Show \"Share on Google+\" button"
+msgstr "Zobrazit \"Sdílet na Google+\" tlačítko"
+
+#: includes/class.yith-wcwl-admin-init.php:1278
+msgid "Share on Google+"
+msgstr "Sdílet na Google+"
+
+#: includes/class.yith-wcwl-admin-init.php:1272
+msgid "Show \"Pin on Pinterest\" button"
+msgstr "Zobrazit tlačítko \"Sdílet na Pinterest\""
+
+#: includes/class.yith-wcwl-admin-init.php:1271
+msgid "Pin on Pinterest"
+msgstr "Sdílet na Pinterest"
+
+#: includes/class.yith-wcwl-admin-init.php:1265
+msgid "Show \"Tweet on Twitter\" button"
+msgstr "Zobrazit tlačítko \"Tweetnout na Twitteru\""
+
+#: includes/class.yith-wcwl-admin-init.php:1264
+msgid "Tweet on Twitter"
+msgstr "Tweetnout na Twitteru"
+
+#: includes/class.yith-wcwl-admin-init.php:1258
+msgid "Show \"Share on Facebook\" button"
+msgstr "Zobrazit tlačítko \"Sdílet na Facebooku\""
+
+#: includes/class.yith-wcwl-admin-init.php:1257
+msgid "Share on Facebook"
+msgstr "Sdílet na Facebooku"
+
+#: includes/class.yith-wcwl-admin-init.php:1250
+msgid "Social Networks & Share"
+msgstr "Sociální sitě a sdílení"
+
+#: includes/class.yith-wcwl-admin-init.php:1232
+msgid "Add an icon to the \"Add to Cart\" button"
+msgstr "Přidat ikonu do tlačítka \"Vložit do košíku\""
+
+#: includes/class.yith-wcwl-admin-init.php:1231
+msgid "\"Add to Cart\" icon"
+msgstr "Ikona \"Vložit do košíku\""
+
+#: includes/class.yith-wcwl-admin-init.php:1221
+msgid "Add an icon to the \"Add to Wishlist\" button"
+msgstr "Přidat ikonu do tlačítka \"Přidat do oblíbených\""
+
+#: includes/class.yith-wcwl-admin-init.php:1220
+msgid "\"Add to Wishlist\" icon"
+msgstr "Ikona \"Přidat do oblíbených\""
+
+#: includes/class.yith-wcwl-admin-init.php:1214
+msgid "Make button corners rounded"
+msgstr "Kulaté rohy tlačítek"
+
+#: includes/class.yith-wcwl-admin-init.php:1213
+msgid "Rounded buttons"
+msgstr "Kulatá tlačítka"
+
+#: includes/class.yith-wcwl-admin-init.php:1207
+msgid "Use the theme style."
+msgstr "Použít styl šablony"
+
+#: includes/class.yith-wcwl-admin-init.php:1206
+msgid "Use theme style"
+msgstr "Použít styl šablony"
+
+#: includes/class.yith-wcwl-admin-init.php:1199
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: includes/class.yith-wcwl-admin-init.php:1193
+msgid "Use buttons instead of simple anchors."
+msgstr "Použít tlačítka místo jednoduchých kotev"
+
+#: includes/class.yith-wcwl-admin-init.php:1192
+msgid "Use buttons"
+msgstr "Použít tlačítka"
+
+#: includes/class.yith-wcwl-admin-init.php:1185
+msgid "Styles"
+msgstr "Styly"
+
+#: includes/class.yith-wcwl-admin-init.php:1170
+msgid "Add a second remove button in the last column, with extended label"
+msgstr "Přidat druhé tlačítko odstranit v posledním sloupci s rozšířeným popiskem"
+
+#: includes/class.yith-wcwl-admin-init.php:1169
+msgid "Add second remove button"
+msgstr "Přidat druhé tlačítko odstranit"
+
+#: includes/class.yith-wcwl-admin-init.php:1162
+msgid "Show the date when users have added a product to the wishlist"
+msgstr "Zobrazit datum v připadě, že uživatel přidá produkt do oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1161
+msgid "Show Date of addition"
+msgstr "Zobzrazit datum přidání"
+
+#: includes/class.yith-wcwl-admin-init.php:1154
+msgid "Show \"In stock\" or \"Out of stock\" label for each product in wishlist"
+msgstr "Zobrazit stav \"Skladem\" nebo \"Není skladem\" pro každý produkt v oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1153
+msgid "Show Stock status"
+msgstr "Zobrazit status skladu"
+
+#: includes/class.yith-wcwl-admin-init.php:1146
+msgid "Show \"Add to Cart\" button for each product in wishlist"
+msgstr "Zobrazit tlačítko \"Přidat do košíku\" pro každý produkt v oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1145
+msgid "Show \"Add to Cart\" button"
+msgstr "Zobrazit tlačítko \"Přidat do košíku\""
+
+#: includes/class.yith-wcwl-admin-init.php:1138
+msgid "Show unit price for each product in wishlist"
+msgstr "Zobrazit jedn. cenu pro každý produkt v oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1137
+msgid "Show Unit price"
+msgstr "Zobrazit jedn. cenu"
+
+#: includes/class.yith-wcwl-admin-init.php:1132
+msgid "Add to Cart"
+msgstr "Vložit do košíku"
+
+#: includes/class.yith-wcwl-admin-init.php:1130
+msgid "\"Add to Cart\" text"
+msgstr "text \"Vložit do košíku\""
+
+#: includes/class.yith-wcwl-admin-init.php:1125
+#: includes/class.yith-wcwl-ui.php:82
+msgid "Product added!"
+msgstr "Produkt vložen!"
+
+#: includes/class.yith-wcwl-admin-init.php:1123
+msgid "\"Product added\" text"
+msgstr "text \"Produkt vložen\""
+
+#: includes/class.yith-wcwl-admin-init.php:1118
+#: includes/class.yith-wcwl-ui.php:83
+msgid "The product is already in the wishlist!"
+msgstr "Produkt je již v oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1116
+msgid "\"Product already in wishlist\" text"
+msgstr "text \"Produkt je již v oblíbených\""
+
+#: includes/class.yith-wcwl-admin-init.php:1111
+#: includes/class.yith-wcwl-ui.php:82 includes/class.yith-wcwl-ui.php:83
+msgid "Browse Wishlist"
+msgstr "Procházet oblíbené"
+
+#: includes/class.yith-wcwl-admin-init.php:1109
+msgid "\"Browse wishlist\" text"
+msgstr "text \"Procházet oblíbené\""
+
+#: includes/class.yith-wcwl-admin-init.php:1104
+msgid "Add to Wishlist"
+msgstr "Přidat do oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1102
+msgid "\"Add to Wishlist\" text"
+msgstr "text \"Přidat do oblíbených\""
+
+#: includes/class.yith-wcwl-admin-init.php:1096
+msgid "Remove the product from the wishlist if it has been added to the cart."
+msgstr "Odebrat produkt z oblíbených pokud byl vložen do košíku"
+
+#: includes/class.yith-wcwl-admin-init.php:1095
+msgid "Remove if added to the cart"
+msgstr "Odebrat pokud bylo vloženo do košíku"
+
+#: includes/class.yith-wcwl-admin-init.php:1089
+msgid "Redirect to cart page if \"Add to cart\" button is clicked in the wishlist page."
+msgstr "Přesměrovat na stránku košíku pokud je na tlačítko \"vložit do košíku\" kliknuto na stránce oblíbených."
+
+#: includes/class.yith-wcwl-admin-init.php:1088
+msgid "Redirect to cart"
+msgstr "Přesměrovat do košíku"
+
+#: includes/class.yith-wcwl-admin-init.php:1083
+msgid "Use shortcode"
+msgstr "Použít shortcode"
+
+#: includes/class.yith-wcwl-admin-init.php:1082
+msgid "After summary"
+msgstr "Po souhrnu"
+
+#: includes/class.yith-wcwl-admin-init.php:1081
+msgid "After thumbnails"
+msgstr "Po náhledech"
+
+#: includes/class.yith-wcwl-admin-init.php:1080
+msgid "After \"Add to cart\""
+msgstr "Po \"vložit do košíku\""
+
+#: includes/class.yith-wcwl-admin-init.php:1074
+msgid "You can add the button in variable products only after the \"Add to Cart\" button or using the shortcode [yith_wcwl_add_to_wishlist]."
+msgstr "Můžete přidat tlačítko v produktech s variantami pouze po tlačítku \"vložit do košíku\" nebo za použití shortcode [yith_wcwl_add_to_wishlist]"
+
+#: includes/class.yith-wcwl-admin-init.php:1073
+msgid "Position"
+msgstr "Pozice"
+
+#: includes/class.yith-wcwl-admin-init.php:1057
+#: includes/class.yith-wcwl-admin-init.php:1058
+#: includes/class.yith-wcwl-admin-init.php:1308
+msgid "My wishlist on %s"
+msgstr "Moje Oblíbené %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1055
+msgid "Default wishlist title"
+msgstr "Výchozí nadpis Oblíbených"
+
+#: includes/class.yith-wcwl-admin-init.php:1048
+msgid "Enable YITH Wishlist"
+msgstr "Aktivovat YITH Oblíbené"
+
+#: includes/class.yith-wcwl-admin-init.php:1041
+msgid "General Settings"
+msgstr "Hlavní Nastavení"
+
+#: includes/class.yith-wcwl-admin-init.php:1030
+msgid "By purchasing the premium version of the plugin, you will take advantage of the advanced features of the product and you will get one year of free updates and support through our platform available 24h/24."
+msgstr "Zakoupením prémiové verze pluginu využijete pokročilé funkce produktu a získáte roční bezplatnou aktualizaci a podporu prostřednictvím naší platformy dostupné  24h/24."
+
+#: includes/class.yith-wcwl-admin-init.php:1029
+msgid "Get Support and Pro Features"
+msgstr "Získejte podporu a Pro funkce"
+
+#: includes/class.yith-wcwl-admin-init.php:1023
+msgid "Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE WISHLIST to benefit from all features!"
+msgstr "Upgradujte na premium verzi YITH WOOCOMMERCE WISHLIST využívejte výhod všech funkcí!"
+
+#: includes/class.yith-wcwl-admin-init.php:1022
+msgid "Discover the Advanced Features"
+msgstr "Objevte rozšířené funkce"
+
+#. Plugin Name of the plugin
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1018
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "Uprage na premium verzi"
+
+#: includes/class.yith-wcwl-admin-init.php:1064
+msgid "Page contents: [yith_wcwl_wishlist]"
+msgstr "Obsah strany: [yith_wcwl_wishlist]"
+
+#: includes/class.yith-wcwl-admin-init.php:1063
+msgid "Wishlist Page"
+msgstr "Strana Oblíbené"
+
+#: includes/class.yith-wcwl-admin-init.php:163
+msgid "Premium Version"
+msgstr "Premium verze"
+
+#: includes/class.yith-wcwl-admin-init.php:162
+#: includes/class.yith-wcwl-admin-init.php:243
+msgid "Colors"
+msgstr "Barvy"
+
+#: includes/class.yith-wcwl-admin-init.php:161
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:80
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/class.yith-wcwl-install.php:245
+#: includes/class.yith-wcwl-admin-init.php:159
+#: includes/class.yith-wcwl-admin-init.php:1493
+#: includes/class.yith-wcwl-admin-init.php:1494
+msgid "Wishlist"
+msgstr "Oblíbené"

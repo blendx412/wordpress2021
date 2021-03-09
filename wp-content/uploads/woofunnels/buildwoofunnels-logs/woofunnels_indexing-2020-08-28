@@ -1,0 +1,37 @@
+2020-08-28T04:46:09+00:00 - These 0 orders for user: 1, CID: 14 are retrieved: Array
+(
+)
+
+2020-08-28T04:56:40+00:00 - These 0 orders for user: 1, CID: 14 are retrieved: Array
+(
+)
+
+2020-08-28T06:10:06+00:00 - Order status changes from pending to cancelled for order id: 359035
+2020-08-28T06:58:05+00:00 - Updating changes in customer for cid: 14465, on thank you/order-edit: 2
+2020-08-28T07:34:12+00:00 - Updating changes in customer for cid: 14466, on thank you/order-edit: 2
+2020-08-28T07:58:13+00:00 - Updating changes in customer for cid: 14467, on thank you/order-edit: 2
+2020-08-28T09:34:40+00:00 - Updating changes in customer for cid: 4209, on thank you/order-edit: 2
+2020-08-28T10:16:25+00:00 - Updating changes in customer for cid: 14469, on thank you/order-edit: 0
+2020-08-28T10:26:44+00:00 - Updating changes in customer for cid: 14470, on thank you/order-edit: 0
+2020-08-28T10:50:53+00:00 - These 0 orders for user: 3, CID: 4876 are retrieved: Array
+(
+)
+
+2020-08-28T10:58:36+00:00 - Updating changes in customer for cid: 14471, on thank you/order-edit: 2
+2020-08-28T11:58:02+00:00 - Updating changes in customer for cid: 7701, on thank you/order-edit: 0
+2020-08-28T12:02:00+00:00 - Updating changes in customer for cid: 14472, on thank you/order-edit: 2
+2020-08-28T12:14:41+00:00 - Updating changes in customer for cid: 13600, on thank you/order-edit: 2
+2020-08-28T12:22:00+00:00 - Updating changes in customer for cid: 14473, on thank you/order-edit: 2
+2020-08-28T13:22:36+00:00 - Updating changes in customer for cid: 14474, on thank you/order-edit: 2
+2020-08-28T13:26:06+00:00 - Updating changes in customer for cid: 5231, on thank you/order-edit: 2
+2020-08-28T14:42:28+00:00 - Updating changes in customer for cid: 14475, on thank you/order-edit: 2
+2020-08-28T14:50:43+00:00 - Updating changes in customer for cid: 4209, on thank you/order-edit: 2
+2020-08-28T16:22:05+00:00 - Updating changes in customer for cid: 14476, on thank you/order-edit: 2
+2020-08-28T16:38:17+00:00 - Updating changes in customer for cid: 14477, on thank you/order-edit: 2
+2020-08-28T16:54:54+00:00 - Updating changes in customer for cid: 7005, on thank you/order-edit: 2
+2020-08-28T18:02:14+00:00 - Updating changes in customer for cid: 4209, on thank you/order-edit: 2
+2020-08-28T18:18:12+00:00 - Updating changes in customer for cid: 14478, on thank you/order-edit: 0
+2020-08-28T18:58:14+00:00 - Updating changes in customer for cid: 14479, on thank you/order-edit: 0
+2020-08-28T19:58:00+00:00 - Updating changes in customer for cid: 14480, on thank you/order-edit: 2
+2020-08-28T20:06:05+00:00 - Updating changes in customer for cid: 10911, on thank you/order-edit: 0
+2020-08-28T21:27:38+00:00 - Updating changes in customer for cid: 14481, on thank you/order-edit: 2

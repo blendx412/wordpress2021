@@ -1,0 +1,416 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: UpStroke: WooCommerce Reports\n"
+"POT-Creation-Date: 2019-01-10 12:57+0530\n"
+"PO-Revision-Date: 2019-01-10 12:55+0530\n"
+"Last-Translator: \n"
+"Language-Team: BuildWooFunnels <support@buildwoofunnels.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../../../var/www/woo.finale/wp-content/plugins/woofunnels-"
+"upstroke-reports\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-woofunnels-support-upstroke-reports.php:35
+msgid "UpStroke: WooCommerce Reports"
+msgstr ""
+
+#: reports/class-wfocu-report-dashboard.php:79
+#, php-format
+msgid "<strong>%s </strong> worth UpStroke upsells this month"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:24
+#: reports/class-wfocu-upsells-by-customer.php:95
+msgid "Customer"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:25
+msgid "Customers"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:34
+msgid "No customers found."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:45
+#: reports/class-wfocu-upsells-by-customer.php:47
+msgid "Total Upsells"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:46
+msgid "Total Customers"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:96
+#, php-format
+msgid "Total Upsells %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:96
+msgid "Total upsell amount ordered by this customer."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:97
+#, php-format
+msgid "Funnels Triggers %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:97
+msgid "The funnels veiwed/seen by this customer."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:98
+#: reports/class-wfocu-upsells-by-funnel.php:93
+#, php-format
+msgid "Offers Accepted %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:98
+msgid "Total offers accepted by this customer."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:99
+#: reports/class-wfocu-upsells-by-funnel.php:94
+#, php-format
+msgid "Offers Rejected %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:99
+msgid "Total offers declined by this customer after viewing."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:100
+#, php-format
+msgid "Offers Expired  %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-customer.php:100
+msgid "Total offers expires after viewing by this customer."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:244
+#, php-format
+msgid "%s average gross daily upsells"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:249
+#, php-format
+msgid "%s average gross monthly upsells"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:254
+#, php-format
+msgid "%s Gross Upsells in this period"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:255
+msgid "The sum of revenue genereted through upsells product."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:262
+msgid "Average revenue genereted though upsells product."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:268
+#, php-format
+msgid "%s Total number of times funnels are triggered in this period"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:269
+msgid "The number of funnels initiated."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:275
+#, php-format
+msgid "%s Total Offers Accepted in this period"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:277
+msgid "Total offers accepted."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:282
+#, php-format
+msgid "%s Total Offers Rejected in this period"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:284
+msgid "Total offers desclined."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:289
+#, php-format
+msgid "%s Overall conversion rate"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:291
+msgid "Overall conversion rate."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:303
+#: reports/class-wfocu-upsells-by-product.php:126
+msgid "Year"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:304
+#: reports/class-wfocu-upsells-by-product.php:127
+msgid "Last month"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:305
+#: reports/class-wfocu-upsells-by-product.php:128
+msgid "This month"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:306
+#: reports/class-wfocu-upsells-by-product.php:129
+msgid "Last 7 days"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:346
+#: reports/class-wfocu-upsells-by-product.php:371
+msgid "Export CSV"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:403
+msgid "Funnels Triggered"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:419
+msgid "Offers Declined"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:436
+msgid "Offers Accepted"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:454
+#: woofunnels-upstroke-reports.php:151
+msgid "Upsells"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-date.php:464
+msgid "Average gross upsells"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:24
+msgid "Funnel"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:25
+#: reports/class-wfocu-upsells-by-funnel.php:91
+msgid "Funnels"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:33
+msgid "No funnels found."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:92
+#, php-format
+msgid "Offers Viewed %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:92
+msgid "Total offers viewed from this funnel."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:93
+msgid "Total offers accepted from this funnel."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:94
+msgid "Total offers rejected from this funnel"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:95
+#, php-format
+msgid "Offers Pending  %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:95
+msgid "Total offers pending from this funnel."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:96
+#, php-format
+msgid "Conversion Rate %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:96
+msgid "Conversion Rate."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:97
+#, php-format
+msgid "Total Upsells  %s"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-funnel.php:97
+msgid "Total upsells through this funnel."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:98
+#, php-format
+msgid "%s Upsells for all the items from this funnel."
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:99
+#, php-format
+msgid "%s offer accepted for the products from this funnel"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:101
+#, php-format
+msgid "%s Upsells for the selected items"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:102
+#, php-format
+msgid "%s offer accepted for the selected product"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:160
+msgid "Showing reports for:"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:178
+msgid "Product search"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:184
+msgid "Show"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:196
+msgid "Top Upsells"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:247
+#: reports/class-wfocu-upsells-by-product.php:304
+msgid "No products found in range"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:252
+msgid "Top earners"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:353
+msgid "Reset"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:431
+#, php-format
+msgid "Upsells %1$s worth in the last %2$d days"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:451
+msgid "Choose a product/funnel to view stats"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:532
+msgid "Number of items sold"
+msgstr ""
+
+#: reports/class-wfocu-upsells-by-product.php:548
+msgid "Upsells amount"
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:37
+msgid "UpStroke Timeline"
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:92
+msgid "Funnel ({{funnel_name}}) initiated."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:93
+msgid "Offer ({{offer_name}}) viewed."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:94
+msgid "Offer ({{offer_name}}) converted."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:95
+msgid "Product ({{product_name}}) {{qty}} in offer ({{offer_name}}) accepted."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:96
+msgid "Offer ({{offer_name}}) rejected."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:97
+msgid "Offer ({{offer_name}}) expired."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:98
+msgid "Funnel ({{funnel_name}}) Terminated."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:99
+msgid "Funnel ({{funnel_name}}) payment failed."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:100
+msgid "Offer ({{offer_name}}) skipped. Reason: {{invalidation_reason_html}}"
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:101
+msgid "Funnel ({{funnel_name}}) Closed. Order Recieved Page Shown to User."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:102
+msgid "Offer ({{offer_name}}) Refunded."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:135
+msgid "No upstroke activity"
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:163
+msgid "Offer product(s) exist in parent order."
+msgstr ""
+
+#: reports/class-wfocu-upstroke-timeline.php:166
+msgid "Offer Product is not purchasable/in stock."
+msgstr ""
+
+#: woofunnels-upstroke-reports.php:109
+msgid "View Upsells Report"
+msgstr ""
+
+#: woofunnels-upstroke-reports.php:154
+msgid "Upsells by Date"
+msgstr ""
+
+#: woofunnels-upstroke-reports.php:160
+msgid "Upsells by Product"
+msgstr ""
+
+#: woofunnels-upstroke-reports.php:166
+msgid "Upsells by Customer"
+msgstr ""
+
+#: woofunnels-upstroke-reports.php:172
+msgid "Upsells by Funnel"
+msgstr ""
+
+#: woofunnels-upstroke-reports.php:212
+msgid "WooCommerce"
+msgstr ""
+
+#: woofunnels-upstroke-reports.php:379
+msgid ""
+"<strong> Attention: </strong> UpStroke: WooCommerce Reports is a UpStroke: "
+"WooCommerce One Click Upsells addon and would only work if it is installed "
+"and activated. Please install and activate it first."
+msgstr ""

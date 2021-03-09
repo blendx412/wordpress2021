@@ -1,0 +1,9 @@
+2021-01-18T14:48:27+00:00 DEBUG ---[ New Import start at 2021-01-18 14:48:27 ] PHP Memory: 512 MB, WP Memory: 40 MB
+2021-01-18T14:48:28+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-01-18T14:48:28+00:00 DEBUG Parsing products CSV.
+2021-01-18T14:48:28+00:00 DEBUG Finished parsing products CSV.
+2021-01-18T14:48:28+00:00 DEBUG Processing products.
+2021-01-18T14:48:28+00:00 DEBUG > Row 1 - preparing for import.
+2021-01-18T14:48:28+00:00 DEBUG > &#8220;Bežični električni brijač za kućne ljubimce&#8221;Product with same SKU already exists. with post ID:350810
+2021-01-18T14:48:28+00:00 DEBUG Finished processing products.
+2021-01-18T14:48:29+00:00 DEBUG ---[ Import end at 2021-01-18 14:48:29]---

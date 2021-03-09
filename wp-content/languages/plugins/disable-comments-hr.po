@@ -1,0 +1,168 @@
+# Translation of Plugins - Disable Comments - Development (trunk) in Croatian
+# This file is distributed under the same license as the Plugins - Disable Comments - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-20 08:57:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Disable Comments - Development (trunk)\n"
+
+#: includes/settings-page.php:44
+msgctxt "settings page title"
+msgid "Disable Comments"
+msgstr "Disable Comments"
+
+#: disable-comments.php:418
+msgctxt "settings menu title"
+msgid "Disable Comments"
+msgstr "Onemogući komentare"
+
+#: includes/tools-page.php:109
+msgid "Total Comments:"
+msgstr "Ukupno komentara:"
+
+#: includes/tools-page.php:104
+msgid "%s: Deleting comments will remove existing comment entries in the database and cannot be reverted without a database backup."
+msgstr "%s: Brisanje komentara ukloniti će postojeće unose komentare u bazi podataka i ti komentari se ne mogu vratiti bez sigurnosne kopije baze podataka."
+
+#: includes/tools-page.php:92
+msgid "For certain post types"
+msgstr "Za određene tipove objava"
+
+#: includes/tools-page.php:90
+msgid "%s: This function and will affect your entire site. Use it only if you want to delete comments <em>everywhere</em>."
+msgstr "%s: Ova funkcija će utjecati na vašu cijelu web-stranicu. Koristite samo ako želite komentare <em>svugdje</em>."
+
+#: includes/tools-page.php:89
+msgid "Delete all comments in WordPress."
+msgstr "Obriši sve komentare u WordPressu."
+
+#: includes/tools-page.php:73
+msgid "Comment Deletion Complete"
+msgstr "Brisanje komentara je završeno."
+
+#: includes/tools-page.php:67
+msgid "All comments have been deleted for %s."
+msgstr "Svi komentari za %s su obrisani."
+
+#: includes/tools-page.php:42 includes/tools-page.php:45
+msgid "Internal error occured. Please try again later."
+msgstr "Pojavila se unutarnja greška. Pokušajte ponovno kasnije."
+
+#: includes/tools-page.php:40
+msgid "All comments have been deleted."
+msgstr "Svi komentari su obrisani."
+
+#: includes/tools-page.php:14 includes/tools-page.php:80
+msgid "No comments available for deletion."
+msgstr "Nema dostupnih komentara za brisanje."
+
+#: includes/settings-page.php:68 includes/tools-page.php:102
+msgid "Custom post types:"
+msgstr "Prilagođeni tipovi objava:"
+
+#: includes/tools-page.php:7 includes/tools-page.php:110
+#: disable-comments.php:431
+msgid "Delete Comments"
+msgstr "Obriši komentare"
+
+#: disable-comments.php:410
+msgid "Tools"
+msgstr "Alati"
+
+#. Author URI of the plugin
+msgid "http://www.rayofsolaris.net/"
+msgstr "http://www.rayofsolaris.net/"
+
+#. Author of the plugin
+msgid "Samir Shah"
+msgstr "Samir Shah"
+
+#. Description of the plugin
+msgid "Allows administrators to globally disable comments on their site. Comments can be disabled according to post type."
+msgstr "Omogućuje administratorima da globalno onemoguće komentare na njihovim web-stranicama. Komentari mogu biti onemogućeni zasebno za svaki tip objave."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://wordpress.org/plugins/disable-comments/"
+
+#: includes/settings-page.php:75
+msgid "Save Changes"
+msgstr "Snimi izmjene"
+
+#: includes/settings-page.php:70
+msgid "Disabling comments will also disable trackbacks and pingbacks. All comment-related fields will also be hidden from the edit/quick-edit screens of the affected posts. These settings cannot be overridden for individual posts."
+msgstr "Isključivanje komentara također će onemogućiti povratne veze i povratne pingove. Sva polja vezana za komentare također će biti skrivena na uredi/brzo uredi zaslonima odabranih objava. Ove postavke se ne mogu zaobići za individualne objave."
+
+#: includes/settings-page.php:67 includes/tools-page.php:101
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "Iznad se pojavljuju samo ugrađeni tipovi objava. Ako želite onemogućiti komentare na drugim prilagođenim tipovima objava u cijeloj mreži, možete ispod navesti listu tipova objava odvojenu zarezima (upotrijebite slug koji indetificira tip objave)."
+
+#: includes/settings-page.php:58
+msgid "On certain post types"
+msgstr "Na određenim tipovima objava"
+
+#: includes/settings-page.php:56 includes/tools-page.php:90
+#: includes/tools-page.php:104
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: includes/settings-page.php:56
+msgid "%1$s: This option is global and will affect your entire site. Use it only if you want to disable comments <em>everywhere</em>. A complete description of what this option does is <a href=\"%2$s\" target=\"_blank\">available here</a>."
+msgstr "%1$s: Ova opcija je globalna i utjecati će na vašu cijelu web-stranicu. Koristite samo ako želite onemogućiti komentare <em>svugdje</em>. Potpuni opis učinka ove opcije je <a href=\"%2$s\" target=\"_blank\">dostupna ovdje</a>."
+
+#: includes/settings-page.php:55
+msgid "Disable all comment-related controls and settings in WordPress."
+msgstr "Onemogući sve postavke i kontrole vezane za komentare u WordPressu."
+
+#: includes/settings-page.php:55 includes/tools-page.php:89
+msgid "Everywhere"
+msgstr "Svugdje"
+
+#: includes/settings-page.php:50
+msgid "It seems that a caching/performance plugin is active on this site. Please manually invalidate that plugin's cache after making any changes to the settings below."
+msgstr "Izgleda da je aktiviran dodatak za predmemoriju/performanse. Stoga manualno obrišite predmemoriju dodatka nakon bilo kakvih promjena primijenjenih na web-stranice ispod."
+
+#: includes/settings-page.php:47
+msgid "<em>Disable Comments</em> is Network Activated. The settings below will affect <strong>all sites</strong> in this network."
+msgstr "<em>Disable Comments</em> je aktiviran na mreži. Postavke ispod utjecati će na <strong>sve web-stranice </strong>  u ovoj mreži."
+
+#: includes/settings-page.php:39
+msgid "Options updated. Changes to the Admin Menu and Admin Bar will not appear until you leave or reload this page."
+msgstr "Opcije ažurirane. Promijene u Admin izborniku i Admin traci neće biti vidljive dok ne napustite ili osvježite ovaj zaslon."
+
+#: includes/settings-page.php:38
+msgid "If a caching/performance plugin is active, please invalidate its cache to ensure that changes are reflected immediately."
+msgstr "Ako je aktiviran dodatak za predmemoriju/preformanse, obrišite predmemoriju kako bili sigurni da je promijene odmah vidljive."
+
+#. Plugin Name of the plugin
+msgid "Disable Comments"
+msgstr "Disable Comments"
+
+#: disable-comments.php:409
+msgid "Settings"
+msgstr "Postavke"
+
+#: disable-comments.php:331
+msgid "The <em>Disable Comments</em> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "<em>Disable Comments</em> dodatak je aktivan, ali nije konfiguriran za ikakvu akciju. Otvorite <a href=\"%s\">konfiguracijski zaslon</a> kako bi izabrali na kojim tipovima objava želite onemogućiti komentare."
+
+#: disable-comments.php:305
+msgid ", "
+msgstr ", "
+
+#: disable-comments.php:305
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Pažnja: <em>Disable Comments</em> dodatak je trenutno aktivan, i komentari su potpuno onemogućeni na: %s. Puno od postavki ispod, neće biti primjenjive za te tipove objava."
+
+#: disable-comments.php:241 disable-comments.php:339 disable-comments.php:346
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni."
+
+#: disable-comments.php:59
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Disable Comments zahtjeva WordPress inačicu %s ili noviju."

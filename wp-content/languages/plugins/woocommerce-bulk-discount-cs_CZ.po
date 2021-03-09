@@ -1,0 +1,161 @@
+# Translation of Plugins - WooCommerce Bulk Discount - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - WooCommerce Bulk Discount - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-05 09:40:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - WooCommerce Bulk Discount - Stable (latest release)\n"
+
+#: woocommerce-bulk-discount.php:46 woocommerce-bulk-discount.php:537
+#: woocommerce-bulk-discount.php:818
+msgid "Bulk Discount"
+msgstr "Množstevní sleva"
+
+#: woocommerce-bulk-discount.php:117
+msgid "Settings"
+msgstr "Nastavení"
+
+#: woocommerce-bulk-discount.php:193
+msgid "%s%% bulk discount applied!"
+msgstr "Uplatněna množstevní sleva %s%%."
+
+#: woocommerce-bulk-discount.php:231 woocommerce-bulk-discount.php:312
+msgid "Incl. %s discount"
+msgstr "Zahrnuje slevu %s"
+
+#: woocommerce-bulk-discount.php:577
+msgid "Please fill in the current line before adding new line."
+msgstr "Vyplňte nejprve aktuální řádek."
+
+#: woocommerce-bulk-discount.php:626
+msgid "Bulk Discount enabled"
+msgstr "Množstevní sleva aktivní"
+
+#: woocommerce-bulk-discount.php:627
+msgid "Optionally enter bulk discount information that will be visible on the product page."
+msgstr "Zadejte popisek o slevách, který se zobrazí na stránce produktu (nepovinné)."
+
+#: woocommerce-bulk-discount.php:639
+msgid "Add discount line"
+msgstr "Přidat nový řádek"
+
+#: woocommerce-bulk-discount.php:641 woocommerce-bulk-discount.php:671
+msgid "Remove last discount line"
+msgstr "Odebrat poslední řádek"
+
+#: woocommerce-bulk-discount.php:645
+msgid "Quantity (min.)"
+msgstr "Množství (min.)"
+
+#: woocommerce-bulk-discount.php:650
+msgid "Discount (%s)"
+msgstr "Sleva (%s)"
+
+#: woocommerce-bulk-discount.php:650
+msgid "Enter the flat discount in %s."
+msgstr "Zadejte rovnou slevu v %s."
+
+#: woocommerce-bulk-discount.php:655
+msgid "Discount (%)"
+msgstr "Sleva (%)"
+
+#: woocommerce-bulk-discount.php:655
+msgid "Enter the discount in percents (Allowed values: 0 to 100)."
+msgstr "Zadejte slevu v procentech (Povolené hodnoty: 0 až 100)."
+
+#: woocommerce-bulk-discount.php:818
+msgid "The following options are specific to product bulk discount."
+msgstr "Následující možnosti slouží pro nastavení množstevní slevy."
+
+#: woocommerce-bulk-discount.php:818
+msgid "After changing the settings, it is recommended to clear all sessions in WooCommerce &gt; System Status &gt; Tools."
+msgstr "Po změně nastavení se doporučuje vymazat všechny sessions v nastavení E-shop &gt; Stav systému &gt; Nástroje."
+
+#: woocommerce-bulk-discount.php:821
+msgid "Bulk Discount globally enabled"
+msgstr "Množstevní sleva je globálně aktivní"
+
+#: woocommerce-bulk-discount.php:830
+msgid "Discount Type"
+msgstr "Typ slevy"
+
+#: woocommerce-bulk-discount.php:832
+msgid "Select the type of discount. Percentage Discount deducts amount of %% from price while Flat Discount deducts fixed amount in %s"
+msgstr "Vyberte typ slevy. Při procentní slevě se odečítá z částky relativně v procentech. Při rovné slevě se odečítá pevná částka v %s od celkové ceny za položku."
+
+#: woocommerce-bulk-discount.php:839
+msgid "Percentage Discount"
+msgstr "Procentní sleva"
+
+#: woocommerce-bulk-discount.php:840
+msgid "Flat Discount"
+msgstr "Rovná sleva"
+
+#: woocommerce-bulk-discount.php:845
+msgid "Treat product variations separately"
+msgstr "Jednat s produktovými variacemi zvlášť"
+
+#: woocommerce-bulk-discount.php:847
+msgid "You need to have this option unchecked to apply discounts to variations by shared quantity."
+msgstr "Pokud chcete aplikovat slevy na produktové variace podle sdíleného množství , tato položka musí být vypnuta."
+
+#: woocommerce-bulk-discount.php:862
+msgid "Show discount information next to cart item price"
+msgstr "Zobrazit informaci o slevě vedle ceny u položky v košíku"
+
+#: woocommerce-bulk-discount.php:864
+msgid "Applies only to percentage discount."
+msgstr "Platí pouze pro procentní slevu."
+
+#: woocommerce-bulk-discount.php:871
+msgid "Show discount information next to item subtotal price"
+msgstr "Zobrazit informaci o slevě vedle ceny u mezisoučtu  v košíku"
+
+#: woocommerce-bulk-discount.php:879
+msgid "Show discount information next to item subtotal price in order history"
+msgstr "Zobrazit informaci o slevě vedle ceny u mezisoučtu v historii objednávek"
+
+#: woocommerce-bulk-discount.php:881
+msgid "Includes showing discount in order e-mails and invoices."
+msgstr "Zahrnuje zobrazení slevy v e-mailech a fakturách."
+
+#: woocommerce-bulk-discount.php:888
+msgid "Optionally enter information about discounts visible on cart page."
+msgstr "Zadejte popisek o slevách, který se zobrazí na stránce košíku (nepovinné)."
+
+#: woocommerce-bulk-discount.php:895
+msgid "Optionally change the CSS for old price on cart before discounting."
+msgstr "Volitelně zadejte CSS pro formát ceny před slevou."
+
+#: woocommerce-bulk-discount.php:903
+msgid "Optionally change the CSS for new price on cart after discounting."
+msgstr "Volitelně zadejte CSS pro formát ceny po slevě."
+
+#: woocommerce-bulk-discount.php:627
+msgid "Bulk discount special offer text in product description"
+msgstr "Informace o množstevní slevě v popisu produktu"
+
+#: woocommerce-bulk-discount.php:645
+msgid "Enter the minimal quantity for which the discount applies."
+msgstr "Zadejte nejmenší množství pro které se uplatní sleva."
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/rene-puchinger/"
+msgstr "https://profiles.wordpress.org/rene-puchinger/"
+
+#. Author of the plugin/theme
+msgid "Rene Puchinger"
+msgstr "Rene Puchinger"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/woocommerce-bulk-discount/"
+msgstr "http://wordpress.org/plugins/woocommerce-bulk-discount/"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Bulk Discount"
+msgstr "WooCommerce Bulk Discount"

@@ -1,0 +1,26 @@
+div.wc-sticky-product-bar {
+	flex-direction: row-reverse;
+	padding: 5px 10px 5px 5px;
+}
+
+.wc-sticky-product-bar section.quantity {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.wc-sticky-product-bar section.price,
+.wc-sticky-product-bar section.total {
+	margin-left: 10px;
+	margin-right: auto;
+}
+
+.wc-sticky-product-bar section.name {
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.wc-sticky-product-bar section.rating {
+	margin-left: 0px;
+	margin-right: 3px;
+	text-align: right;
+}

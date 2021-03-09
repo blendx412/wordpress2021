@@ -1,0 +1,761 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upstroke: Multi Product Offers\n"
+"POT-Creation-Date: 2019-01-10 13:34+0530\n"
+"PO-Revision-Date: 2019-01-10 13:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: BuildWooFunnels <support@buildwoofunnels.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wfocu-mp.php:31
+msgid "Multi Product Grid"
+msgstr ""
+
+#: includes/class-wfocu-mp.php:39
+msgid "Multi Product List"
+msgstr ""
+
+#: templates/mp-grid/template.php:110 templates/mp-list/template.php:110
+msgid "Click here to learn about merge tags available for this area."
+msgstr ""
+
+#: templates/mp-grid/template.php:129 templates/mp-grid/template.php:324
+#: templates/mp-grid/template.php:833 templates/mp-grid/template.php:2884
+#: templates/mp-grid/template.php:3114 templates/mp-grid/template.php:4253
+#: templates/mp-list/template.php:129 templates/mp-list/template.php:324
+#: templates/mp-list/template.php:833 templates/mp-list/template.php:2884
+#: templates/mp-list/template.php:3114
+msgid "Layout"
+msgstr ""
+
+#: templates/mp-grid/template.php:144 templates/mp-list/template.php:144
+msgid "Site Boxed Width (px)"
+msgstr ""
+
+#: templates/mp-grid/template.php:175 templates/mp-list/template.php:175
+msgid "Sections"
+msgstr ""
+
+#: templates/mp-grid/template.php:180 templates/mp-list/template.php:180
+msgid "Order & Visibility"
+msgstr ""
+
+#: templates/mp-grid/template.php:181 templates/mp-list/template.php:181
+msgid ""
+"Drag and Drop Sections to modify its position. <br>Click on Eye icon to turn "
+"ON/OFF visibility of the section."
+msgstr ""
+
+#: templates/mp-grid/template.php:229 templates/mp-list/template.php:229
+msgid "Logo"
+msgstr ""
+
+#: templates/mp-grid/template.php:234 templates/mp-list/template.php:234
+msgid "Logo Image"
+msgstr ""
+
+#: templates/mp-grid/template.php:244 templates/mp-list/template.php:244
+msgid "Max Width"
+msgstr ""
+
+#: templates/mp-grid/template.php:263 templates/mp-grid/template.php:1703
+#: templates/mp-grid/template.php:2185 templates/mp-grid/template.php:2667
+#: templates/mp-grid/template.php:4321 templates/mp-list/template.php:263
+#: templates/mp-list/template.php:1703 templates/mp-list/template.php:2185
+#: templates/mp-list/template.php:2667 templates/mp-list/template.php:4299
+msgid "Align"
+msgstr ""
+
+#: templates/mp-grid/template.php:281 templates/mp-list/template.php:281
+msgid "Page Title"
+msgstr ""
+
+#: templates/mp-grid/template.php:294 templates/mp-grid/template.php:511
+#: templates/mp-grid/template.php:754 templates/mp-grid/template.php:1734
+#: templates/mp-grid/template.php:2293 templates/mp-grid/template.php:2698
+#: templates/mp-grid/template.php:3026 templates/mp-grid/template.php:3346
+#: templates/mp-grid/template.php:3455 templates/mp-grid/template.php:3692
+#: templates/mp-grid/template.php:3899 templates/mp-grid/template.php:4408
+#: templates/mp-grid/template.php:5119 templates/mp-list/template.php:294
+#: templates/mp-list/template.php:511 templates/mp-list/template.php:754
+#: templates/mp-list/template.php:1734 templates/mp-list/template.php:2293
+#: templates/mp-list/template.php:2698 templates/mp-list/template.php:3026
+#: templates/mp-list/template.php:3346 templates/mp-list/template.php:3455
+#: templates/mp-list/template.php:3691 templates/mp-list/template.php:3898
+#: templates/mp-list/template.php:4386 templates/mp-list/template.php:5079
+msgid "Colors"
+msgstr ""
+
+#: templates/mp-grid/template.php:299 templates/mp-grid/template.php:626
+#: templates/mp-grid/template.php:794 templates/mp-list/template.php:299
+#: templates/mp-list/template.php:626 templates/mp-list/template.php:794
+msgid "Background Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:329 templates/mp-grid/template.php:4258
+#: templates/mp-list/template.php:329
+msgid "Style"
+msgstr ""
+
+#: templates/mp-grid/template.php:333 templates/mp-grid/template.php:842
+#: templates/mp-grid/template.php:3123 templates/mp-grid/template.php:4262
+#: templates/mp-list/template.php:333 templates/mp-list/template.php:842
+#: templates/mp-list/template.php:3123
+msgid "Style 1"
+msgstr ""
+
+#: templates/mp-grid/template.php:337 templates/mp-grid/template.php:3127
+#: templates/mp-grid/template.php:4266 templates/mp-list/template.php:337
+#: templates/mp-list/template.php:3127
+msgid "Style 2"
+msgstr ""
+
+#: templates/mp-grid/template.php:346 templates/mp-list/template.php:346
+msgid "Steps"
+msgstr ""
+
+#: templates/mp-grid/template.php:351 templates/mp-list/template.php:351
+msgid "Step 1 Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:374 templates/mp-list/template.php:374
+msgid "Step 2 Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:394 templates/mp-list/template.php:394
+msgid "Step 3 Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:414 templates/mp-list/template.php:414
+msgid "Step Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:437 templates/mp-list/template.php:437
+msgid "Step Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:462 templates/mp-list/template.php:462
+msgid "Progress Percentage"
+msgstr ""
+
+#: templates/mp-grid/template.php:490 templates/mp-list/template.php:490
+msgid "Progress Bar Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:516 templates/mp-list/template.php:516
+msgid "Step Text Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:538 templates/mp-list/template.php:538
+msgid "Step Base Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:567 templates/mp-list/template.php:567
+msgid "Step Active Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:602 templates/mp-list/template.php:602
+msgid "Step Border Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:665 templates/mp-grid/template.php:2910
+#: templates/mp-grid/template.php:3779 templates/mp-grid/template.php:4152
+#: templates/mp-list/template.php:665 templates/mp-list/template.php:2910
+#: templates/mp-list/template.php:3778 templates/mp-list/template.php:4151
+msgid "Content"
+msgstr ""
+
+#: templates/mp-grid/template.php:670 templates/mp-list/template.php:670
+msgid "Headline"
+msgstr ""
+
+#: templates/mp-grid/template.php:672 templates/mp-list/template.php:672
+msgid ""
+"Wait <span class=\"wfocu-highlight\">{{customer_first_name}}</span>! We've "
+"got a special offer for you that complements your purchase."
+msgstr ""
+
+#: templates/mp-grid/template.php:681 templates/mp-list/template.php:681
+msgid "Headline Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:711 templates/mp-list/template.php:711
+msgid "Sub Headline"
+msgstr ""
+
+#: templates/mp-grid/template.php:725 templates/mp-list/template.php:725
+msgid "Sub Headline Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:759 templates/mp-list/template.php:759
+msgid "Headline Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:776 templates/mp-list/template.php:776
+msgid "Sub Headline Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:850 templates/mp-grid/template.php:1722
+#: templates/mp-grid/template.php:2204 templates/mp-grid/template.php:2686
+#: templates/mp-list/template.php:850 templates/mp-list/template.php:1722
+#: templates/mp-list/template.php:2204 templates/mp-list/template.php:2686
+msgid "Buy Block"
+msgstr ""
+
+#: templates/mp-grid/template.php:873 templates/mp-list/template.php:873
+msgid "Accept Button Text Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:931 templates/mp-list/template.php:931
+msgid "Accept Button Sub Text Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:974 templates/mp-list/template.php:974
+msgid "We will ship it out in same package."
+msgstr ""
+
+#: templates/mp-grid/template.php:986 templates/mp-list/template.php:986
+msgid "Text Below Button Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:1036 templates/mp-list/template.php:1036
+msgid "Decline Offer Link Text Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:1092 templates/mp-grid/template.php:3886
+#: templates/mp-list/template.php:1092 templates/mp-list/template.php:3885
+msgid "Payment Icons"
+msgstr ""
+
+#: templates/mp-grid/template.php:1104 templates/mp-grid/template.php:2217
+#: templates/mp-grid/template.php:3003 templates/mp-grid/template.php:3508
+#: templates/mp-grid/template.php:4340 templates/mp-grid/template.php:5107
+#: templates/mp-list/template.php:1104 templates/mp-list/template.php:2217
+#: templates/mp-list/template.php:3003 templates/mp-list/template.php:3507
+#: templates/mp-list/template.php:4318 templates/mp-list/template.php:5066
+msgid "Advanced"
+msgstr ""
+
+#: templates/mp-grid/template.php:1112 templates/mp-list/template.php:1112
+msgid "Full"
+msgstr ""
+
+#: templates/mp-grid/template.php:1113 templates/mp-list/template.php:1113
+msgid "Flexible"
+msgstr ""
+
+#: templates/mp-grid/template.php:1233 templates/mp-grid/template.php:4939
+#: templates/mp-list/template.php:1233 templates/mp-list/template.php:4917
+msgid "<span class=\"dashicons dashicons-cart\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1234 templates/mp-grid/template.php:4940
+#: templates/mp-list/template.php:1234 templates/mp-list/template.php:4918
+msgid "<span class=\"dashicons dashicons-yes\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1235 templates/mp-grid/template.php:4941
+#: templates/mp-list/template.php:1235 templates/mp-list/template.php:4919
+msgid "<span class=\"dashicons dashicons-arrow-up\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1236 templates/mp-grid/template.php:4942
+#: templates/mp-list/template.php:1236 templates/mp-list/template.php:4920
+msgid "<span class=\"dashicons dashicons-arrow-down\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1237 templates/mp-grid/template.php:4943
+#: templates/mp-list/template.php:1237 templates/mp-list/template.php:4921
+msgid "<span class=\"dashicons dashicons-arrow-right\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1238 templates/mp-grid/template.php:4944
+#: templates/mp-list/template.php:1238 templates/mp-list/template.php:4922
+msgid "<span class=\"dashicons dashicons-arrow-left\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1239 templates/mp-grid/template.php:4945
+#: templates/mp-list/template.php:1239 templates/mp-list/template.php:4923
+msgid ""
+"<span class=\"dashicons \n"
+"\t\t\t\t\t\t\t\t\tdashicons-arrow-up-alt\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1241 templates/mp-grid/template.php:4947
+#: templates/mp-list/template.php:1241 templates/mp-list/template.php:4925
+msgid "<span class=\"dashicons dashicons-arrow-down-alt\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1242 templates/mp-grid/template.php:4948
+#: templates/mp-list/template.php:1242 templates/mp-list/template.php:4926
+msgid "<span class=\"dashicons dashicons-arrow-right-alt\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1243 templates/mp-grid/template.php:4949
+#: templates/mp-list/template.php:1243 templates/mp-list/template.php:4927
+msgid "<span class=\"dashicons dashicons-arrow-left-alt\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1244 templates/mp-grid/template.php:4950
+#: templates/mp-list/template.php:1244 templates/mp-list/template.php:4928
+msgid ""
+"<span class=\"dashicons \n"
+"\t\t\t\t\t\t\t\t\tdashicons-arrow-up-alt2\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1246 templates/mp-grid/template.php:4952
+#: templates/mp-list/template.php:1246 templates/mp-list/template.php:4930
+msgid "<span class=\"dashicons dashicons-arrow-down-alt2\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1247 templates/mp-grid/template.php:4953
+#: templates/mp-list/template.php:1247 templates/mp-list/template.php:4931
+msgid "<span class=\"dashicons dashicons-arrow-right-alt2\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1248 templates/mp-grid/template.php:4954
+#: templates/mp-list/template.php:1248 templates/mp-list/template.php:4932
+msgid "<span class=\"dashicons dashicons-arrow-left-alt2\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1249 templates/mp-grid/template.php:4955
+#: templates/mp-list/template.php:1249 templates/mp-list/template.php:4933
+msgid "<span class=\"dashicons dashicons-heart\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1250 templates/mp-grid/template.php:4956
+#: templates/mp-list/template.php:1250 templates/mp-list/template.php:4934
+msgid "<span class=\"dashicons dashicons-star-filled\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1251 templates/mp-grid/template.php:4957
+#: templates/mp-list/template.php:1251 templates/mp-list/template.php:4935
+msgid "<span class=\"dashicons dashicons-plus-alt\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1252 templates/mp-grid/template.php:4958
+#: templates/mp-list/template.php:1252 templates/mp-list/template.php:4936
+msgid "<span class=\"dashicons dashicons-awards\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1253 templates/mp-grid/template.php:4959
+#: templates/mp-list/template.php:1253 templates/mp-list/template.php:4937
+msgid "<span class=\"dashicons dashicons-shield\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1254 templates/mp-grid/template.php:4960
+#: templates/mp-list/template.php:1254 templates/mp-list/template.php:4938
+msgid "<span class=\"dashicons dashicons-shield-alt\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1255 templates/mp-grid/template.php:4961
+#: templates/mp-list/template.php:1255 templates/mp-list/template.php:4939
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1256 templates/mp-grid/template.php:4962
+#: templates/mp-list/template.php:1256 templates/mp-list/template.php:4940
+msgid "<span class=\"dashicons dashicons-thumbs-down\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1257 templates/mp-grid/template.php:4963
+#: templates/mp-list/template.php:1257 templates/mp-list/template.php:4941
+msgid "<span class=\"dashicons dashicons-smiley\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1258 templates/mp-grid/template.php:4964
+#: templates/mp-list/template.php:1258 templates/mp-list/template.php:4942
+msgid "<span class=\"dashicons dashicons-tickets-alt\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1259 templates/mp-grid/template.php:4965
+#: templates/mp-list/template.php:1259 templates/mp-list/template.php:4943
+msgid "<span class=\"dashicons dashicons-tag\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1260 templates/mp-grid/template.php:4966
+#: templates/mp-list/template.php:1260 templates/mp-list/template.php:4944
+msgid "<span class=\"dashicons dashicons-cloud\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1261 templates/mp-grid/template.php:4967
+#: templates/mp-list/template.php:1261 templates/mp-list/template.php:4945
+msgid "<span class=\"dashicons dashicons-controls-forward\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1262 templates/mp-grid/template.php:4968
+#: templates/mp-list/template.php:1262 templates/mp-list/template.php:4946
+msgid "<span class=\"dashicons dashicons-controls-back\"></span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:1280 templates/mp-list/template.php:1280
+msgid "No effect"
+msgstr ""
+
+#: templates/mp-grid/template.php:1281 templates/mp-list/template.php:1281
+msgid "Pulse Grow"
+msgstr ""
+
+#: templates/mp-grid/template.php:1282 templates/mp-list/template.php:1282
+msgid "Bounce In"
+msgstr ""
+
+#: templates/mp-grid/template.php:1283 templates/mp-list/template.php:1283
+msgid "Wobble"
+msgstr ""
+
+#: templates/mp-grid/template.php:1299 templates/mp-list/template.php:1299
+msgid "Accept Button Colors"
+msgstr ""
+
+#: templates/mp-grid/template.php:1308 templates/mp-grid/template.php:1460
+#: templates/mp-grid/template.php:3569 templates/mp-list/template.php:1308
+#: templates/mp-list/template.php:1460 templates/mp-list/template.php:3568
+msgid "Normal"
+msgstr ""
+
+#: templates/mp-grid/template.php:1309 templates/mp-grid/template.php:1461
+#: templates/mp-grid/template.php:3570 templates/mp-list/template.php:1309
+#: templates/mp-list/template.php:1461 templates/mp-list/template.php:3569
+msgid "Hover"
+msgstr ""
+
+#: templates/mp-grid/template.php:1445 templates/mp-list/template.php:1445
+msgid "Decline Offer Colors"
+msgstr ""
+
+#: templates/mp-grid/template.php:1615 templates/mp-grid/template.php:1620
+#: templates/mp-grid/template.php:1911 templates/mp-grid/template.php:1916
+#: templates/mp-grid/template.php:2037 templates/mp-grid/template.php:2503
+#: templates/mp-grid/template.php:2508 templates/mp-grid/template.php:2573
+#: templates/mp-grid/template.php:4094 templates/mp-grid/template.php:4274
+#: templates/mp-grid/template.php:4279 templates/mp-grid/template.php:4622
+#: templates/mp-list/template.php:1615 templates/mp-list/template.php:1620
+#: templates/mp-list/template.php:1911 templates/mp-list/template.php:1916
+#: templates/mp-list/template.php:2037 templates/mp-list/template.php:2503
+#: templates/mp-list/template.php:2508 templates/mp-list/template.php:2573
+#: templates/mp-list/template.php:4093 templates/mp-list/template.php:4252
+#: templates/mp-list/template.php:4257 templates/mp-list/template.php:4600
+msgid "Heading"
+msgstr ""
+
+#: templates/mp-grid/template.php:1631 templates/mp-grid/template.php:1927
+#: templates/mp-grid/template.php:2519 templates/mp-grid/template.php:4123
+#: templates/mp-grid/template.php:4291 templates/mp-grid/template.php:4665
+#: templates/mp-list/template.php:1631 templates/mp-list/template.php:1927
+#: templates/mp-list/template.php:2519 templates/mp-list/template.php:4122
+#: templates/mp-list/template.php:4269 templates/mp-list/template.php:4643
+msgid "Sub Heading"
+msgstr ""
+
+#: templates/mp-grid/template.php:1645 templates/mp-list/template.php:1645
+msgid "Features"
+msgstr ""
+
+#: templates/mp-grid/template.php:1676 templates/mp-list/template.php:1676
+msgid "Feature Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:1683 templates/mp-grid/template.php:2165
+#: templates/mp-grid/template.php:2647 templates/mp-list/template.php:1683
+#: templates/mp-list/template.php:2165 templates/mp-list/template.php:2647
+msgid "Additional Description"
+msgstr ""
+
+#: templates/mp-grid/template.php:1688 templates/mp-grid/template.php:2170
+#: templates/mp-grid/template.php:2652 templates/mp-list/template.php:1688
+#: templates/mp-list/template.php:2170 templates/mp-list/template.php:2652
+msgid "Additional Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:1941 templates/mp-list/template.php:1941
+msgid "Review Box"
+msgstr ""
+
+#: templates/mp-grid/template.php:1946 templates/mp-list/template.php:1946
+msgid "Product Reviews"
+msgstr ""
+
+#: templates/mp-grid/template.php:1957 templates/mp-list/template.php:1957
+msgid "Show Reviews With Ratings"
+msgstr ""
+
+#: templates/mp-grid/template.php:1958 templates/mp-list/template.php:1958
+msgid "Greater than or equal to"
+msgstr ""
+
+#: templates/mp-grid/template.php:1976 templates/mp-list/template.php:1976
+msgid "No. Of Reviews To Show "
+msgstr ""
+
+#: templates/mp-grid/template.php:2041 templates/mp-list/template.php:2041
+msgid "Testimonial"
+msgstr ""
+
+#: templates/mp-grid/template.php:2045 templates/mp-grid/template.php:3846
+#: templates/mp-list/template.php:2045 templates/mp-list/template.php:3845
+msgid "Name"
+msgstr ""
+
+#: templates/mp-grid/template.php:2054 templates/mp-list/template.php:2054
+msgid "Rating"
+msgstr ""
+
+#: templates/mp-grid/template.php:2079 templates/mp-list/template.php:2079
+msgid "Review Title Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:2115 templates/mp-list/template.php:2115
+msgid "Review Meta Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:2144 templates/mp-list/template.php:2144
+msgid "Display Star Ratings"
+msgstr ""
+
+#: templates/mp-grid/template.php:2145 templates/mp-list/template.php:2145
+msgid "Display Ratings inside Review Box"
+msgstr ""
+
+#: templates/mp-grid/template.php:2151 templates/mp-list/template.php:2151
+msgid "Display Image"
+msgstr ""
+
+#: templates/mp-grid/template.php:2152 templates/mp-list/template.php:2152
+msgid "Display image inside Review Box"
+msgstr ""
+
+#: templates/mp-grid/template.php:2158 templates/mp-list/template.php:2158
+msgid "Display Author With Date"
+msgstr ""
+
+#: templates/mp-grid/template.php:2159 templates/mp-list/template.php:2159
+msgid "Display author with date inside Review Box"
+msgstr ""
+
+#: templates/mp-grid/template.php:2533 templates/mp-list/template.php:2533
+msgid "Guarantee Box"
+msgstr ""
+
+#: templates/mp-grid/template.php:2577 templates/mp-grid/template.php:2916
+#: templates/mp-grid/template.php:3785 templates/mp-grid/template.php:4305
+#: templates/mp-grid/template.php:4864 templates/mp-grid/template.php:4922
+#: templates/mp-list/template.php:2577 templates/mp-list/template.php:2916
+#: templates/mp-list/template.php:3784 templates/mp-list/template.php:4283
+#: templates/mp-list/template.php:4842 templates/mp-list/template.php:4900
+msgid "Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:2611 templates/mp-grid/template.php:4636
+#: templates/mp-list/template.php:2611 templates/mp-list/template.php:4614
+msgid "Heading Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:2640 templates/mp-list/template.php:2640
+msgid "Display Icon"
+msgstr ""
+
+#: templates/mp-grid/template.php:2641 templates/mp-list/template.php:2641
+msgid "Display icon inside Guarantee Box"
+msgstr ""
+
+#: templates/mp-grid/template.php:2893 templates/mp-list/template.php:2893
+msgid "Inline"
+msgstr ""
+
+#: templates/mp-grid/template.php:2897 templates/mp-list/template.php:2897
+msgid "Sticky Header"
+msgstr ""
+
+#: templates/mp-grid/template.php:2901 templates/mp-list/template.php:2901
+msgid "Sticky Footer"
+msgstr ""
+
+#: templates/mp-grid/template.php:2926 templates/mp-grid/template.php:3795
+#: templates/mp-list/template.php:2926 templates/mp-list/template.php:3794
+msgid "Text Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:2955 templates/mp-list/template.php:2955
+msgid "Height"
+msgstr ""
+
+#: templates/mp-grid/template.php:2974 templates/mp-grid/template.php:3136
+#: templates/mp-list/template.php:2974 templates/mp-list/template.php:3136
+msgid "Countdown Timer"
+msgstr ""
+
+#: templates/mp-grid/template.php:2986 templates/mp-list/template.php:2986
+msgid "Position"
+msgstr ""
+
+#: templates/mp-grid/template.php:3016 templates/mp-list/template.php:3016
+msgid "Display On"
+msgstr ""
+
+#: templates/mp-grid/template.php:3031 templates/mp-grid/template.php:3904
+#: templates/mp-list/template.php:3031 templates/mp-list/template.php:3903
+msgid "Text Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:3141 templates/mp-list/template.php:3141
+msgid "Hours"
+msgstr ""
+
+#: templates/mp-grid/template.php:3152 templates/mp-list/template.php:3152
+msgid "Minutes"
+msgstr ""
+
+#: templates/mp-grid/template.php:3248 templates/mp-list/template.php:3248
+msgid "Text Above Timer Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:3274 templates/mp-list/template.php:3274
+msgid "Timer Digit Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:3310 templates/mp-list/template.php:3310
+msgid "Timer Label Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:3411 templates/mp-list/template.php:3411
+msgid "Icons"
+msgstr ""
+
+#: templates/mp-grid/template.php:3416 templates/mp-list/template.php:3416
+msgid "Order"
+msgstr ""
+
+#: templates/mp-grid/template.php:3448 templates/mp-list/template.php:3448
+msgid "Custom Icon"
+msgstr ""
+
+#: templates/mp-grid/template.php:3460 templates/mp-list/template.php:3460
+msgid "Icon Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:3488 templates/mp-list/template.php:3488
+msgid "Badge"
+msgstr ""
+
+#: templates/mp-grid/template.php:3494 templates/mp-list/template.php:3494
+msgid "Badge Text"
+msgstr ""
+
+#: templates/mp-grid/template.php:3560 templates/mp-list/template.php:3559
+msgid "Button Colors"
+msgstr ""
+
+#: templates/mp-grid/template.php:3786 templates/mp-list/template.php:3785
+msgid "Secure checkout - 100% protected & safe."
+msgstr ""
+
+#: templates/mp-grid/template.php:3850 templates/mp-list/template.php:3849
+msgid "Link"
+msgstr ""
+
+#: templates/mp-grid/template.php:3857 templates/mp-list/template.php:3856
+msgid "Bottom Links Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:3921 templates/mp-list/template.php:3920
+msgid "Bottom Links Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:4064 templates/mp-list/template.php:4063
+msgid "Highlight Color"
+msgstr ""
+
+#: templates/mp-grid/template.php:4089 templates/mp-list/template.php:4088
+msgid "Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:4224 templates/mp-list/template.php:4223
+msgid "Custom CSS"
+msgstr ""
+
+#: templates/mp-grid/template.php:4281 templates/mp-list/template.php:4259
+#, php-format
+msgid ""
+"Pick one of these offers and pocket instant savings of up to <span class="
+"\"wfocu-highlight\">XX% off</span>"
+msgstr ""
+
+#: templates/mp-grid/template.php:4596 templates/mp-list/template.php:4574
+msgid "Gallery"
+msgstr ""
+
+#: templates/mp-grid/template.php:4617 templates/mp-list/template.php:4595
+msgid "Product"
+msgstr ""
+
+#: templates/mp-grid/template.php:4678 templates/mp-list/template.php:4656
+msgid "Sub Heading Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:4707 templates/mp-list/template.php:4685
+msgid "Product Title"
+msgstr ""
+
+#: templates/mp-grid/template.php:4721 templates/mp-list/template.php:4699
+msgid "Product Title Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:4750 templates/mp-list/template.php:4728
+msgid "Regular Price Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:4779 templates/mp-list/template.php:4757
+msgid "Sale Price Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:4808 templates/mp-list/template.php:4786
+msgid "Text Below Price"
+msgstr ""
+
+#: templates/mp-grid/template.php:4825 templates/mp-list/template.php:4803
+msgid "Text Below Price Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:4865 templates/mp-list/template.php:4843
+msgid "List"
+msgstr ""
+
+#: templates/mp-grid/template.php:4873 templates/mp-list/template.php:4851
+msgid "Product Description"
+msgstr ""
+
+#: templates/mp-grid/template.php:4982 templates/mp-list/template.php:4960
+msgid "Description List Icon Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:5017 templates/mp-list/template.php:4995
+msgid "Description Font Size"
+msgstr ""
+
+#: templates/mp-grid/template.php:5088
+msgid "Description Alignment"
+msgstr ""
+
+#: woofunnels-upstroke-multiple-products.php:163
+msgid ""
+"<strong> Attention: </strong>\"UpStroke: WooCommerce One Click Upsells\" "
+"plugins is not installed or activated. Upstroke: Multi Product Offers "
+"wouldn't work."
+msgstr ""
+
+#: woofunnels-upstroke-multiple-products.php:178
+msgid ""
+"<strong> Attention: </strong>To work \"Upstroke: Multi Product Offers\", "
+"\"UpStroke: WooCommerce One Click Upsells\" version should not be lower than "
+"1.7.2"
+msgstr ""

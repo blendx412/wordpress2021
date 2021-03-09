@@ -1,0 +1,70 @@
+{
+    "wod": {
+        "enable-redirection-to-converter": true,
+        "enable-redirection-to-webp-realizer": true,
+        "base-htaccess-on-these-capability-tests": {
+            "passThroughHeaderWorking": true,
+            "passThroughEnvWorking": true,
+            "modHeaderWorking": true
+        },
+        "destination-extension": "append",
+        "destination-folder": "separate",
+        "forward-query-string": true,
+        "paths": {
+            "uploadDirRel": "wp-content/uploads"
+        },
+        "success-response": "converted"
+    },
+    "webp-convert": {
+        "serve-image": {
+            "headers": {
+                "cache-control": false,
+                "content-length": true,
+                "content-type": true,
+                "expires": false,
+                "last-modified": true
+            }
+        },
+        "fail": "original",
+        "convert": {
+            "converters": [
+                {
+                    "converter": "vips",
+                    "options": {
+                        "smart-subsample": false,
+                        "preset": "none"
+                    }
+                },
+                {
+                    "converter": "gd",
+                    "options": {
+                        "png": {
+                            "skip": true
+                        }
+                    }
+                },
+                {
+                    "converter": "graphicsmagick",
+                    "options": {
+                        "use-nice": true
+                    }
+                }
+            ],
+            "jpeg": {
+                "encoding": "auto",
+                "quality": "auto",
+                "default-quality": 70,
+                "max-quality": 80,
+                "near-lossless": 60
+            },
+            "png": {
+                "encoding": "auto",
+                "quality": 85,
+                "near-lossless": 60,
+                "alpha-quality": 80
+            },
+            "metadata": "none",
+            "log-call-arguments": true
+        }
+    }
+}

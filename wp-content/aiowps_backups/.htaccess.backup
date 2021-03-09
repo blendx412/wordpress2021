@@ -1,0 +1,103 @@
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^mistermega.hr/shop$ [OR]
+RewriteCond %{HTTP_HOST} ^www.mistermega.hr/shop$
+RewriteRule (.*)$ https://mistermega.hr/$1 [R=301,L]
+
+Redirect 301 /fourlash/ https://mistermega.hr/lp/fourlash/
+Redirect 301 /megabrow/ https://mistermega.hr/lp/megabrow/
+Redirect 301 /missintimo/ https://mistermega.hr/lp/missintimo/
+Redirect 301 /misscurl/ https://mistermega.hr/lp/misscurl/
+Redirect 301 /meganailset/ https://mistermega.hr/lp/meganailset/
+Redirect 301 /megawhite/ https://mistermega.hr/lp/megawhite/
+
+# Odprava blokade tujine za določene države
+<IfModule mod_geoip.c>
+<FilesMatch "(wp-login)\.php$">
+Allow from all
+RewriteCond %{ENV:GEOIP_COUNTRY_CODE} !^(SI|SK|HR|PK)$
+RewriteRule ^ - [F,L]
+</FilesMatch>
+</IfModule>
+# BEGIN WordPress
+# The directives (lines) between `BEGIN WordPress` and `END WordPress` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# END WordPress
+<IfModule mod_deflate.c>
+# Compress HTML, CSS, JavaScript, Text, XML and fonts
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+AddOutputFilterByType DEFLATE application/x-font
+AddOutputFilterByType DEFLATE application/x-font-opentype
+AddOutputFilterByType DEFLATE application/x-font-otf
+AddOutputFilterByType DEFLATE application/x-font-truetype
+AddOutputFilterByType DEFLATE application/x-font-ttf
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE font/opentype
+AddOutputFilterByType DEFLATE font/otf
+AddOutputFilterByType DEFLATE font/ttf
+AddOutputFilterByType DEFLATE image/svg+xml
+AddOutputFilterByType DEFLATE image/x-icon
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/xml
+
+# Remove browser bugs (only needed for really old browsers)
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+Header append Vary User-Agent
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+
+# Images
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/gif "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType image/x-icon "access plus 1 year"
+
+# Video
+ExpiresByType video/mp4 "access plus 1 year"
+ExpiresByType video/mpeg "access plus 1 year"
+
+# CSS, JavaScript
+ExpiresByType text/css "access plus 1 month"
+ExpiresByType text/javascript "access plus 1 month"
+ExpiresByType application/javascript "access plus 1 month"
+
+# Others
+ExpiresByType application/pdf "access plus 1 month"
+ExpiresByType application/x-shockwave-flash "access plus 1 month"
+</IfModule>
+
+# BEGIN LiteSpeed
+<IfModule Litespeed>
+SetEnv noabort 1
+</IfModule>
+# END LiteSpeed
+# BEGIN WebP Express
+# WebP Express has placed its rules in your wp-content dir. Go there.
+# END WebP Express
+

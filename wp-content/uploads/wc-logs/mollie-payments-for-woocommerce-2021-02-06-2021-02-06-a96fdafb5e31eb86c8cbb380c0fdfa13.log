@@ -1,0 +1,199 @@
+2021-02-06T11:35:05+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_xixrso (live) webhook call for order 473814.
+2021-02-06T11:35:05+00:00 DEBUG Mollie_WC_Gateway_Abstract::orderNeedsPayment mollie_wc_gateway_creditcard: Order 473814 orderNeedsPayment check: yes, order not previously processed by Mollie gateway.
+2021-02-06T11:35:05+00:00 DEBUG Mollie_WC_Payment_Order::onWebhookExpired called for order 473814
+2021-02-06T11:35:05+00:00 DEBUG Mollie_WC_Plugin::cancelOrderAtMollie - 473814 - Try to process cancelled order at Mollie.
+2021-02-06T11:35:05+00:00 DEBUG Mollie_WC_Plugin::cancelOrderAtMollie - 473814 - Order could not be canceled at Mollie, because order status is expired.
+2021-02-06T11:40:06+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_w2mw1c (live) webhook call for order 473818.
+2021-02-06T11:40:06+00:00 DEBUG Mollie_WC_Gateway_Abstract::orderNeedsPayment mollie_wc_gateway_creditcard: Order 473818 orderNeedsPayment check: yes, order not previously processed by Mollie gateway.
+2021-02-06T11:40:06+00:00 DEBUG Mollie_WC_Payment_Order::onWebhookExpired called for order 473818
+2021-02-06T11:40:06+00:00 DEBUG Mollie_WC_Plugin::cancelOrderAtMollie - 473818 - Try to process cancelled order at Mollie.
+2021-02-06T11:40:06+00:00 DEBUG Mollie_WC_Plugin::cancelOrderAtMollie - 473818 - Order could not be canceled at Mollie, because order status is expired.
+2021-02-06T11:42:21+00:00 DEBUG mollie_wc_gateway_creditcard: Start process_payment for order 479303
+2021-02-06T11:42:21+00:00 DEBUG mollie_wc_gateway_creditcard: Create Mollie payment object for order 479303
+2021-02-06T11:42:21+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479303 returnUrl: https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479303&key=wc_order_AV1NL3lRi47Xz
+2021-02-06T11:42:21+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479303 webhookUrl: https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479303&key=wc_order_AV1NL3lRi47Xz
+2021-02-06T11:42:21+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2021-02-06T11:42:21+00:00 DEBUG Array
+(
+    [amount] => Array
+        (
+            [currency] => HRK
+            [value] => 210.00
+        )
+
+    [redirectUrl] => https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479303&key=wc_order_AV1NL3lRi47Xz
+    [webhookUrl] => https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479303&key=wc_order_AV1NL3lRi47Xz
+    [method] => creditcard
+    [payment] => Array
+        (
+            [issuer] => 
+            [customerId] => 
+        )
+
+    [locale] => en_US
+    [metadata] => Array
+        (
+            [order_id] => 479303
+            [order_number] => MAXHR-479303
+        )
+
+    [orderNumber] => MAXHR-479303
+)
+
+2021-02-06T11:42:23+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_t9c73e (live) created for order 479303
+2021-02-06T11:42:23+00:00 DEBUG For order 479303 redirect user to Mollie Checkout URL: https://www.mollie.com/payscreen/order/checkout/t9c73e
+2021-02-06T12:52:52+00:00 DEBUG getApiPaymentMethods: Could not load Mollie methods (live): Error executing API call (400: Bad Request): The billingCountry is invalid. Field: billingCountry. Documentation: https://docs.mollie.com/guides/handling-errors (Mollie\Api\Exceptions\ApiException)
+2021-02-06T12:52:52+00:00 DEBUG getApiPaymentMethods: Could not load Mollie methods (live): Error executing API call (400: Bad Request): The billingCountry is invalid. Field: billingCountry. Documentation: https://docs.mollie.com/guides/handling-errors (Mollie\Api\Exceptions\ApiException)
+2021-02-06T12:52:52+00:00 DEBUG getApiPaymentMethods: Could not load Mollie methods (live): Error executing API call (400: Bad Request): The billingCountry is invalid. Field: billingCountry. Documentation: https://docs.mollie.com/guides/handling-errors (Mollie\Api\Exceptions\ApiException)
+2021-02-06T12:52:52+00:00 DEBUG getApiPaymentMethods: Could not load Mollie methods (live): Error executing API call (400: Bad Request): The billingCountry is invalid. Field: billingCountry. Documentation: https://docs.mollie.com/guides/handling-errors (Mollie\Api\Exceptions\ApiException)
+2021-02-06T13:38:38+00:00 DEBUG mollie_wc_gateway_creditcard: Start process_payment for order 479324
+2021-02-06T13:38:38+00:00 DEBUG mollie_wc_gateway_creditcard: Create Mollie payment object for order 479324
+2021-02-06T13:38:38+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479324 returnUrl: https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479324&key=wc_order_5LAxQ2e8judUW
+2021-02-06T13:38:38+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479324 webhookUrl: https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479324&key=wc_order_5LAxQ2e8judUW
+2021-02-06T13:38:38+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2021-02-06T13:38:38+00:00 DEBUG Array
+(
+    [amount] => Array
+        (
+            [currency] => HRK
+            [value] => 307.00
+        )
+
+    [redirectUrl] => https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479324&key=wc_order_5LAxQ2e8judUW
+    [webhookUrl] => https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479324&key=wc_order_5LAxQ2e8judUW
+    [method] => creditcard
+    [payment] => Array
+        (
+            [issuer] => 
+            [customerId] => 
+        )
+
+    [locale] => en_US
+    [metadata] => Array
+        (
+            [order_id] => 479324
+            [order_number] => MAXHR-479324
+        )
+
+    [orderNumber] => MAXHR-479324
+)
+
+2021-02-06T13:38:39+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_ps1hyi (live) created for order 479324
+2021-02-06T13:38:39+00:00 DEBUG For order 479324 redirect user to Mollie Checkout URL: https://www.mollie.com/payscreen/order/checkout/ps1hyi
+2021-02-06T13:44:54+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_ps1hyi (live) webhook call for order 479324.
+2021-02-06T13:44:54+00:00 DEBUG Mollie_WC_Gateway_Abstract::orderNeedsPayment mollie_wc_gateway_creditcard: Order 479324 orderNeedsPayment check: yes, order not previously processed by Mollie gateway.
+2021-02-06T13:44:54+00:00 DEBUG Mollie_WC_Payment_Order::onWebhookPaid called for order 479324
+2021-02-06T13:44:55+00:00 DEBUG Mollie_WC_Payment_Order::onWebhookPaid WooCommerce payment_complete() processed and returned to Mollie_WC_Payment_Order::onWebhookPaid for order 479324
+2021-02-06T13:44:55+00:00 DEBUG Mollie_WC_Payment_Order::onWebhookPaid processing paid order via Mollie plugin fully completed for order 479324
+2021-02-06T13:44:55+00:00 DEBUG Mollie_WC_Payment_Order::onWebhookPaid updated payment with webhook and metadata 
+2021-02-06T13:44:56+00:00 DEBUG Mollie_WC_Gateway_Abstract::getReturnRedirectUrlForOrder 479324: Determine what the redirect URL in WooCommerce should be.
+2021-02-06T13:44:56+00:00 DEBUG Mollie_WC_Plugin::onMollieReturn: Redirect url on return order mollie_wc_gateway_creditcard, order 479324: https://mrmaks.eu/hr/ukoncit-nakup/order-received/479324/?key=wc_order_5LAxQ2e8judUW&utm_nooverride=1
+2021-02-06T13:45:20+00:00 DEBUG Mollie_WC_Gateway_Abstract::getReturnRedirectUrlForOrder 479324: Determine what the redirect URL in WooCommerce should be.
+2021-02-06T13:45:20+00:00 DEBUG Mollie_WC_Plugin::onMollieReturn: Redirect url on return order mollie_wc_gateway_creditcard, order 479324: https://mrmaks.eu/hr/ukoncit-nakup/order-received/479324/?key=wc_order_5LAxQ2e8judUW&utm_nooverride=1
+2021-02-06T14:51:10+00:00 DEBUG mollie_wc_gateway_creditcard: Start process_payment for order 479339
+2021-02-06T14:51:10+00:00 DEBUG mollie_wc_gateway_creditcard: Create Mollie payment object for order 479339
+2021-02-06T14:51:10+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479339 returnUrl: https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479339&key=wc_order_kurMioZkXGCcV
+2021-02-06T14:51:10+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479339 webhookUrl: https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479339&key=wc_order_kurMioZkXGCcV
+2021-02-06T14:51:10+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2021-02-06T14:51:10+00:00 DEBUG Array
+(
+    [amount] => Array
+        (
+            [currency] => HRK
+            [value] => 210.00
+        )
+
+    [redirectUrl] => https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479339&key=wc_order_kurMioZkXGCcV
+    [webhookUrl] => https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479339&key=wc_order_kurMioZkXGCcV
+    [method] => creditcard
+    [payment] => Array
+        (
+            [issuer] => 
+            [customerId] => 
+        )
+
+    [locale] => en_US
+    [metadata] => Array
+        (
+            [order_id] => 479339
+            [order_number] => MAXHR-479339
+        )
+
+    [orderNumber] => MAXHR-479339
+)
+
+2021-02-06T14:51:11+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_n09hn0 (live) created for order 479339
+2021-02-06T14:51:11+00:00 DEBUG For order 479339 redirect user to Mollie Checkout URL: https://www.mollie.com/payscreen/order/checkout/n09hn0
+2021-02-06T16:01:50+00:00 DEBUG mollie_wc_gateway_creditcard: Start process_payment for order 479343
+2021-02-06T16:01:50+00:00 DEBUG mollie_wc_gateway_creditcard: Create Mollie payment object for order 479343
+2021-02-06T16:01:50+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479343 returnUrl: https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479343&key=wc_order_yHuWSXVPTmPhk
+2021-02-06T16:01:50+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479343 webhookUrl: https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479343&key=wc_order_yHuWSXVPTmPhk
+2021-02-06T16:01:50+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2021-02-06T16:01:50+00:00 DEBUG Array
+(
+    [amount] => Array
+        (
+            [currency] => HRK
+            [value] => 210.00
+        )
+
+    [redirectUrl] => https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479343&key=wc_order_yHuWSXVPTmPhk
+    [webhookUrl] => https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479343&key=wc_order_yHuWSXVPTmPhk
+    [method] => creditcard
+    [payment] => Array
+        (
+            [issuer] => 
+            [customerId] => 
+        )
+
+    [locale] => en_US
+    [metadata] => Array
+        (
+            [order_id] => 479343
+            [order_number] => MAXHR-479343
+        )
+
+    [orderNumber] => MAXHR-479343
+)
+
+2021-02-06T16:01:51+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_96io2e (live) created for order 479343
+2021-02-06T16:01:51+00:00 DEBUG For order 479343 redirect user to Mollie Checkout URL: https://www.mollie.com/payscreen/order/checkout/96io2e
+2021-02-06T17:02:23+00:00 DEBUG mollie_wc_gateway_creditcard: Start process_payment for order 479347
+2021-02-06T17:02:23+00:00 DEBUG mollie_wc_gateway_creditcard: Create Mollie payment object for order 479347
+2021-02-06T17:02:23+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479347 returnUrl: https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479347&key=wc_order_Tbh8mA55EdpOf
+2021-02-06T17:02:23+00:00 DEBUG mollie_wc_gateway_creditcard : Order 479347 webhookUrl: https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479347&key=wc_order_Tbh8mA55EdpOf
+2021-02-06T17:02:23+00:00 DEBUG Creating payment object: type Order, first try creating a Mollie Order.
+2021-02-06T17:02:23+00:00 DEBUG Array
+(
+    [amount] => Array
+        (
+            [currency] => HRK
+            [value] => 210.00
+        )
+
+    [redirectUrl] => https://mrmaks.eu/hr/wc-api/mollie_return?order_id=479347&key=wc_order_Tbh8mA55EdpOf
+    [webhookUrl] => https://mrmaks.eu/hr/wc-api/mollie_wc_gateway_creditcard?order_id=479347&key=wc_order_Tbh8mA55EdpOf
+    [method] => creditcard
+    [payment] => Array
+        (
+            [issuer] => 
+            [customerId] => 
+        )
+
+    [locale] => en_US
+    [metadata] => Array
+        (
+            [order_id] => 479347
+            [order_number] => MAXHR-479347
+        )
+
+    [orderNumber] => MAXHR-479347
+)
+
+2021-02-06T17:02:23+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_r202us (live) created for order 479347
+2021-02-06T17:02:23+00:00 DEBUG For order 479347 redirect user to Mollie Checkout URL: https://www.mollie.com/payscreen/order/checkout/r202us
+2021-02-06T18:00:15+00:00 DEBUG mollie_wc_gateway_creditcard: Mollie payment object ord_xgqlxo (live) webhook call for order 473962.
+2021-02-06T18:00:15+00:00 DEBUG Mollie_WC_Gateway_Abstract::orderNeedsPayment mollie_wc_gateway_creditcard: Order 473962 orderNeedsPayment check: yes, order not previously processed by Mollie gateway.
+2021-02-06T18:00:15+00:00 DEBUG Mollie_WC_Payment_Order::onWebhookExpired called for order 473962
+2021-02-06T18:00:16+00:00 DEBUG Mollie_WC_Plugin::cancelOrderAtMollie - 473962 - Try to process cancelled order at Mollie.
+2021-02-06T18:00:16+00:00 DEBUG Mollie_WC_Plugin::cancelOrderAtMollie - 473962 - Order could not be canceled at Mollie, because order status is expired.

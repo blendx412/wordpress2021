@@ -1,0 +1,928 @@
+# Translation of Plugins - Abandoned Cart Lite for WooCommerce - Development (trunk) in Hungarian
+# This file is distributed under the same license as the Plugins - Abandoned Cart Lite for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-26 08:14:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - Abandoned Cart Lite for WooCommerce - Development (trunk)\n"
+
+#: woocommerce-ac.php:1752
+msgid "Export"
+msgstr "Exportálás"
+
+#. translators: %s: decimal
+#: woocommerce-ac.php:1743
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr "Egészszám (%s) formátumban adjuk meg, ezres elválasztó nélkül."
+
+#. translators: %s: price decimal separator
+#: woocommerce-ac.php:1745
+msgid "Please enter in monetary decimal (%s) format without thousand separators and currency symbols."
+msgstr "Pénznem egész (%s) formátumban adjuk meg, ezres elválasztók és pénznem nélkül."
+
+#: woocommerce-ac.php:1746
+msgid "Please enter in country code with two capital letters."
+msgstr "Az országkódot két nagybetűvel adjuk meg."
+
+#: woocommerce-ac.php:1747
+msgid "Please enter in a value less than the regular price."
+msgstr "A normál ár alatti értéket adjunk meg."
+
+#: woocommerce-ac.php:1751
+msgid "Import"
+msgstr "Importálás"
+
+#: includes/wcal_all_component.php:114
+msgid ""
+" Allow your customers to pay deposits on products using our Deposits for WooCommerce plugin. <br>\n"
+"            <strong><a target=\"_blank\" href= \""
+msgstr ""
+" Tegyük lehetővé vásárlóinknak, hogy előleget fizessenek termékekre a Deposits for WooCommerce bővítmény segítségével. <br>\n"
+"            <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:111
+msgid " Allow your customers to book an appointment or rent an apartment with our Booking and Appointment for WooCommerce plugin. You can also sell your product as a resource or integrate with a few Vendor plugins. <br>Shop now & Save 20% on the plugin with the code \"BKAP20\". Only for first 20 customers. <strong><a target=\"_blank\" href= \""
+msgstr " Tegyük lehetővé vásárlóinknak, hogy időpontot vagy szállást foglaljanak a Booking and Appointment for WooCommerce bővítmény segítségével. Ezen felül termékeket erőforrásként is értékesíthetjük, vagy integrálni tudjuk néhány Vendor bővítménnyel. <br>Vásároljon most és takarítson meg 20%-ot a bővítmény árán a következő kóddal \"BKAP20\". Csak az első 20 ügyfél számára. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:107
+msgid ""
+"Allow your customers to select the Delivery Date on Single Product Page using our Product Delivery Date pro for WooCommerce Plugin. <br> \n"
+"            <strong><a target=\"_blank\" href= \""
+msgstr ""
+"Lehetővé teszi, hogy a vásárlók kiválasszák a kézbesítési dátumot a termékoldalon a Product Delivery Date pro for WooCommerce bővítmény segítségével. <br> \n"
+"            <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:104
+msgid "Reduce cart abandonment rate by 57% with our Order Delivery Date Pro WooCommerce plugin. You can Create Delivery Settings by Shipping Zones & Shipping Classes. <br>Use discount code \"ORDPRO20\" and grab 20% discount on the purchase of the plugin. The discount code is valid only for the first 20 customers. <strong><a target=\"_blank\" href= \""
+msgstr "Csökkentsük a kosárelhagyási arányt 57%-kal az Order Delivery Date Pro WooCommerce bővítményünkkel. Kézbesítési beállításokat hozhatunk létre Szállítási zónánként és Szállítási osztályként. <br>Használjuk az \"ORDPRO20\" kedvezménykódot a bővítmény megvásárlásakor. A kedvezménykód csak az első 20 vásárlónál érvényes. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:100
+msgid ""
+"Increase your store sales by recovering your abandoned carts for just $119. No profit sharing, no monthly fees. Our Abandoned Cart Pro plugin comes with a 30 day money back guarantee as well. :) Use coupon code ACPRO20 & save $24!<br>\n"
+"            <strong><a target=\"_blank\" href= \""
+msgstr ""
+"Növelje a bolt eladások bevételét az elhagyott kosarak visszaszerzésével, mindössze $119 árért. Nincs nyereségrészesedés, nincs havidíj. Az Abandoned Cart Pro bővítményünk 30 napos pénzvisszafizetési garanciával jár. :) Használja a ACPRO20 kuponkódot és spóroljon $24-t!<br>\n"
+"            <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:97
+msgid "Send Abandoned Cart reminders that actually convert. Take advantage of our fully responsive email templates designed specially with an intent to trigger conversion. <strong><a target=\"_blank\" href= \""
+msgstr "Küldjön Elhagyott kosár emlékeztetőket amelyek valóban hasznot hoznak. Használja ki a teljesen reszponzív e-mail sablonjainkat, melyek kifejezetten ezzel a szándékkal készültek. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:94
+msgid "Don't loose your sales to abandoned carts. Use our Abandon Cart Pro plugin & start recovering your lost sales in less then 60 seconds. <strong><a target=\"_blank\" href= \""
+msgstr "Ne veszítse el a lehetőséget az elhagyott kosarakkal. Használja az Abandon Cart Pro bővítményt és kezdje visszaszerezni az elveszett eladásokat kevesebb mint 60 másodperc alatt. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:91
+msgid "Boost your sales by recovering up to 60% of the abandoned carts with our Abandoned Cart Pro for WooCommerce plugin. You can capture customer email addresses right when they click the Add To Cart button. <strong><a target=\"_blank\" href= \""
+msgstr "Növelje értékesítési mutatóit az elhagyott kosarak akár 60%-ának visszaszerzésével az Abandoned Cart Pro for WooCommerce bővítményünkkel. A vevő email címeket már a kosárba tételkor rögzíteni tudjuk. <strong><a target=\"_blank\" href= \""
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:18
+msgid "Thank you for activating or updating to the latest version of "
+msgstr "Köszönjük, hogy aktivált vagy frissített - "
+
+#: includes/component/welcome-page/ts-welcome.php:166
+msgid "Welcome to "
+msgstr "Üdvözöl az "
+
+#: includes/wcal_all_component.php:88
+msgid "Now that you are all set with the Lite version, you can upgrade to Pro version to take your abandoned cart recovery to the next level. You can capture  customer’s email address when they click Add to Cart, get access to 11 unique, fully responsive email templates, send text messages for recovery & <strong><a target=\"_blank\" href= \""
+msgstr "Most, hogy minden be van állítva a Lite verzióban, frissíthet a Pro változatra, hogy az elhagyott kosarak visszaállításában a következő szintre lépjen. Rögzíteni tudjuk a vásárló email címét már a kosárba helyezéskor, hozzáférésünk lesz 11 egyedi, teljesen reszponzív email sablonhoz, szöveges üzenetet küldhetünk a visszaszerzésről és <strong><a target=\"_blank\" href=\""
+
+#: includes/component/tracking-data/ts-tracking.php:268
+msgid "Want to help make "
+msgstr "Szeretnénk segíteni abban, hogy az "
+
+#: includes/component/faq-support/ts-faq-support.php:127
+msgid "Frequently Asked Questions for "
+msgstr "Gyakran Ismételt Kérdések - "
+
+#: woocommerce-ac.php:2633
+msgid "Shipping Charges"
+msgstr "Szállítási díjak"
+
+#: woocommerce-ac.php:696
+msgid "Automatically Delete Abandoned Orders after X days has to be greater than 0."
+msgstr "Az elhagyott rendelések automatikus törlése X nap után, 0-nál nagyobbnak kell lennie."
+
+#: woocommerce-ac.php:513
+msgid "Automatically delete abandoned cart orders after X days."
+msgstr "Az elhagyott kosárrendelések automatikus törlése X nap után."
+
+#: woocommerce-ac.php:509
+msgid "Automatically Delete Abandoned Orders after X days"
+msgstr "Az elhagyott rendelések automatikus törlése X nap után"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:363
+msgid "Unsubscribed"
+msgstr "Leiratkozott"
+
+#: includes/admin/wcal_privacy_erase.php:90
+msgid "No personal data found for any abandoned carts."
+msgstr "Semmilyen személyes adat nem található elhagyott kosarakról."
+
+#: woocommerce-ac.php:551
+msgid "<br>In compliance with GDPR, add a message on the Shop & Product pages to inform Registered users of how their data is being used.<br><i>For example: Please check our Privacy Policy to see how we use your personal data.</i>"
+msgstr "<br>A GDPR-nak megfelelően, adjunk meg egy üzenetet az üzlet és termék oldalakon, hogy a regisztrált felhasználók tudjanak arról, hogy adataikat hogyan használjuk fel.<br><i>Például: Kérjük, nézze meg adatvédelmi irányelveink, hogy hogyan használjuk a személyes adatokat.</i>"
+
+#: woocommerce-ac.php:547
+msgid "Message to be displayed for registered users when tracking their carts."
+msgstr "Üzenet megjelenítése a regisztrált használók részére, a kosaruk követése esetén."
+
+#: woocommerce-ac.php:542
+msgid "<br>In compliance with GDPR, add a message on the Checkout page to inform Guest users of how their data is being used.<br><i>For example: Your email address will help us support your shopping experience throughout the site. Please check our Privacy Policy to see how we use your personal data.</i>"
+msgstr "<br>A GDPR-nak megfelelően, adjunk meg egy üzenetet a pénztár oldalon, hogy a vendég felhasználók tudjanak arról, hogy adataikat hogyan használjuk fel.<br><i>Például: Az Ön e-mail címe segít nekünk a jobb vásárlási élmény nyújtásában az egész oldalon. Kérjük, nézze meg adatvédelmi irányelveink, hogy hogyan használjuk a személyes adatokat.</i>"
+
+#: woocommerce-ac.php:538
+msgid "Message to be displayed for Guest users when tracking their carts"
+msgstr "Üzenet megjelenítése a vendég használók részére, a kosaruk követése esetén"
+
+#: woocommerce-ac.php:257
+msgid "I want to upgrade the plugin to the PRO version."
+msgstr "Frissíteni akarok a bővítmény PRO verziójára."
+
+#: woocommerce-ac.php:251
+msgid "I cannot see abandoned cart reminder emails records."
+msgstr "Nem látok elhagyott kosár emlékeztető e-mail sorokat."
+
+#: woocommerce-ac.php:245
+msgid "Capturing of cart and other information was not satisfactory."
+msgstr "A kosár és egyéb információk rögzítése nem volt kielégítő."
+
+#: woocommerce-ac.php:239
+msgid "Emails are not being sent to customers."
+msgstr "Az ügyfelek nem kaptak e-maileket."
+
+#: includes/component/welcome-page/ts-welcome.php:165
+msgid "Welcome to %s %s"
+msgstr "Üdvözli az %s %s"
+
+#: includes/component/tracking-data/ts-tracking.php:133
+msgid "Reset usage tracking"
+msgstr "Használatfigyelés visszaállítása"
+
+#: includes/component/faq-support/ts-faq-support.php:175
+msgid "FAQ & Support"
+msgstr "GYIK és Támogatás"
+
+#: includes/component/faq-support/ts-faq-support.php:126
+msgid "Frequently Asked Questions for %s"
+msgstr "%s Gyakran Ismételt Kérdései"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:91
+msgctxt "the text of the 'other' reason for deactivating the plugin that is shown in the modal box."
+msgid "Other"
+msgstr "Egyéb"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:90
+msgid "I don't like to share my information with you"
+msgstr "Nem szeretném megosztani"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:89
+msgid "What feature?"
+msgstr "Milyen funkció?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:88
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "A bővítmény nagyszerű, de szükségem van egy különleges funkcióra ami nem támogatott"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:87
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Kérjük ossza meg, mi nem működött, hogy a kijavíthassuk a leendő felhasználók számára..."
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:86
+msgid "The plugin is not working"
+msgstr "A bővítmény nem működik"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:85
+msgid "I only needed the plugin for a short period"
+msgstr "Csak egy rövid időre volt szükségem a bővítményre"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:84
+msgid "What's the plugin's name?"
+msgstr "Mi a bővítmény neve?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:83
+msgid "I found a better plugin"
+msgstr "Találtam egy jobb bővítményt"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:79
+msgid "Yes - Deactivate"
+msgstr "Igen - kikapcsolás"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:78
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:77
+msgid "Deactivate"
+msgstr "Kikapcsolás"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:76
+msgid "Submit & Deactivate"
+msgstr "Küldés és kikapcsolás"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:75
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Ha van egy pillanata, kérjük tudassa velünk, miért kapcsolja ki"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:283
+msgid "User Deleted"
+msgstr "Felhasználó törölve"
+
+#: includes/admin/wcal_privacy_export.php:221
+msgid "Abandoned - Order Unpaid (Order #"
+msgstr "Elhagyott - Nem fizetett rendelés (Rendelés #"
+
+#: includes/admin/wcal_privacy_export.php:218
+msgid "Abandoned but new cart created"
+msgstr "Elhagyott, de új kosarat kezdett"
+
+#: includes/admin/wcal_privacy_export.php:215
+#: includes/admin/wcal_privacy_export.php:218
+msgid "Cart Recovered - Order #"
+msgstr "Kosár visszaszerezve - Rendelés #"
+
+#: includes/admin/wcal_privacy_export.php:173
+#: includes/admin/wcal_privacy_export.php:184
+msgid "Billing Address"
+msgstr "Számlázási cím"
+
+#: includes/admin/wcal_privacy_export.php:172
+msgid "Session ID"
+msgstr "Munkamenet-azonosító"
+
+#: includes/admin/wcal_privacy_export.php:171
+#: includes/admin/wcal_privacy_export.php:183
+msgid "Items Present"
+msgstr "Jelenlévő elemek"
+
+#: includes/admin/wcal_privacy_export.php:170
+#: includes/admin/wcal_privacy_export.php:182
+msgid "Cart Total"
+msgstr "Összesen"
+
+#: includes/admin/wcal_privacy_export.php:169
+#: includes/admin/wcal_privacy_export.php:181
+msgid "Abandoned Cart Status"
+msgstr "Elhagyott kosár állapot"
+
+#: includes/admin/wcal_privacy_export.php:167
+#: includes/admin/wcal_privacy_export.php:179
+msgid "Abandoned Cart ID"
+msgstr "Elhagyott kosár azonosítója"
+
+#: includes/admin/wcal_privacy_erase.php:204
+msgid "ANONYMIZED"
+msgstr "ANONIMIZÁLT"
+
+#. Translators: %s Abandoned Cart ID.
+#: includes/admin/wcal_privacy_erase.php:127
+msgid "Personal data within cart %s has been retained."
+msgstr "A(z) %s kosárban lévő személyes adatok megőrizve."
+
+#. Translators: %s Abandoned Cart ID.
+#: includes/admin/wcal_privacy_erase.php:123
+msgid "Removed personal data from cart %s."
+msgstr "A(z) %s kosárban lévő személyes adatok eltávolítva."
+
+#: includes/admin/wcal_privacy_erase.php:41
+#: includes/admin/wcal_privacy_export.php:41
+msgid "Abandoned & Recovered Carts"
+msgstr "Elhagyott és Visszaszerzett kosarak"
+
+#. Description of the plugin
+msgid "This plugin captures abandoned carts by logged-in users & emails them about it."
+msgstr "Ez a bővítmény rögzíti a bejelentkezett felhasználók elhagyott kosarait és emailt küld nekik róla."
+
+#: includes/wcal-common.php:582
+msgid "Database Update Failed. Please try again after sometime"
+msgstr "Sikertelen adatbázis-frissítés. Legyen szíves újra próbálni egy kis idő múlva"
+
+#: includes/wcal-common.php:567
+msgid "Database Updated Successfully"
+msgstr "Adatbázis sikeresen frissítve"
+
+#. Author URI of the plugin
+msgid "http://www.tychesoftwares.com/"
+msgstr "http://www.tychesoftwares.com/"
+
+#. Author of the plugin
+msgid "Tyche Softwares"
+msgstr "Tyche Softwares"
+
+#. Plugin URI of the plugin
+msgid "http://www.tychesoftwares.com/store/premium-plugins/woocommerce-abandoned-cart-pro"
+msgstr "http://www.tychesoftwares.com/store/premium-plugins/woocommerce-abandoned-cart-pro"
+
+#. Plugin Name of the plugin
+msgid "Abandoned Cart Lite for WooCommerce"
+msgstr "Abandoned Cart Lite for WooCommerce"
+
+#: woocommerce-ac.php:3096 woocommerce-ac.php:3131
+msgid "Woman\\'\\s Hand Bags"
+msgstr "Női kézitáskák"
+
+#: woocommerce-ac.php:3089 woocommerce-ac.php:3124
+msgid "Men\\'\\s Formal Shoes"
+msgstr "Férfi alkalmi cipők"
+
+#: woocommerce-ac.php:2911
+msgid ""
+"If you love <strong>Abandoned Cart Lite for WooCommerce</strong>, then please leave us a <a href=\"https://wordpress.org/support/plugin/woocommerce-abandoned-cart/reviews/?rate=5#new-post\" target=\"_blank\" class=\"ac-rating-link\" data-rated=\"Thanks :)\">★★★★★</a>\n"
+"                            rating. Thank you in advance. :)"
+msgstr ""
+"Ha tetszik az <strong>Abandoned Cart Lite for WooCommerce</strong>, akkor kérjük, adjon le <a href=\"https://wordpress.org/support/plugin/woocommerce-abandoned-cart/reviews/?rate=5#new-post\" target=\"_blank\" class=\"ac-rating-link\" data-rated=\"Thanks :)\">★★★★★</a>\n"
+"                            értékelést. Előre is köszönjük. :)"
+
+#: woocommerce-ac.php:2878
+msgid "Enter the email id to which the test email needs to be sent."
+msgstr "Adjuk meg azt az email azonosítót, amelyre a tesztüzenet elküldésre kerül."
+
+#: woocommerce-ac.php:2873
+msgid "Send a test email to:"
+msgstr "Teszt email küldése ide:"
+
+#: woocommerce-ac.php:2866
+msgid "after cart is abandoned."
+msgstr "a kosár elhagyása után."
+
+#: woocommerce-ac.php:2825
+msgid "Send this email:"
+msgstr "Küldjük ezt az emailt:"
+
+#: woocommerce-ac.php:2819
+msgid "Enter the header which will appear in the abandoned WooCommerce email sent. This is only applicable when only used when \"Use WooCommerce Template Style:\" is checked."
+msgstr "Adjuk meg a fejlécet, amely megjelenik az elhagyott WooCommerce emailben. Ez csak akkor alkalmazható, ha a \"WooCommerce sablon stílusa:\" ki van választva."
+
+#: woocommerce-ac.php:2805
+msgid "Email Template Header Text: "
+msgstr "Email sablon fejléc szövege: "
+
+#: woocommerce-ac.php:2798
+msgid "Use WooCommerce default style template for abandoned cart reminder emails."
+msgstr "Használja a WooCommerce alapértelmezett stílus sablont az elhagyott kosár emlékeztető emailjeihez."
+
+#: woocommerce-ac.php:2783
+msgid "Use WooCommerce Template Style:"
+msgstr "WooCommerce sablon stílus használata:"
+
+#: woocommerce-ac.php:2756
+msgid "Message to be sent in the reminder email."
+msgstr "Az emlékeztető emailben küldendő üzenet."
+
+#: woocommerce-ac.php:2729
+msgid "Email Body:"
+msgstr "Email törzs:"
+
+#: woocommerce-ac.php:2723
+msgid "Enter the subject that should appear in the email sent"
+msgstr "Adja meg a küldendő emailben megjelenő tárgyat"
+
+#: woocommerce-ac.php:2714
+msgid "Subject:"
+msgstr "Tárgy:"
+
+#: woocommerce-ac.php:2708
+msgid "Enter a template name for reference"
+msgstr "Adjuk meg a sablon nevét a hivatkozáshoz"
+
+#: woocommerce-ac.php:2699
+msgid "Template Name:"
+msgstr "Sablon neve:"
+
+#: woocommerce-ac.php:2612
+msgid "Shipping Details"
+msgstr "Szállítási adatok"
+
+#: woocommerce-ac.php:2607
+msgid "Phone:"
+msgstr "Telefonszám:"
+
+#: woocommerce-ac.php:2603
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce-ac.php:2593 woocommerce-ac.php:2613
+msgid "Address:"
+msgstr "Cím:"
+
+#: woocommerce-ac.php:2590
+msgid "Name:"
+msgstr "Név:"
+
+#: woocommerce-ac.php:2589
+msgid "Billing Details"
+msgstr "Számlázási adatok"
+
+#: woocommerce-ac.php:2585
+msgid "Customer Details"
+msgstr "Vásárló adatai"
+
+#: woocommerce-ac.php:2397
+msgid "Line Total"
+msgstr "Sor összesen"
+
+#: woocommerce-ac.php:2389
+msgid "Abandoned Order #%s Details"
+msgstr "Elhagyott megrendelés #%s részletei"
+
+#: woocommerce-ac.php:2356
+msgid "Go"
+msgstr "Mehet"
+
+#: woocommerce-ac.php:2354
+msgid "End Date:"
+msgstr "Záró dátum:"
+
+#: woocommerce-ac.php:2352
+msgid "Start Date:"
+msgstr "Kezdő dátum:"
+
+#: woocommerce-ac.php:2303
+msgid "The Report below shows how many Abandoned Carts we were able to recover for you by sending automatic emails to encourage shoppers."
+msgstr "Az alábbi jelentés megmutatja, hogy hány elhagyott kosarat sikerült visszaszerezni az automatikus emailek küldésével."
+
+#: woocommerce-ac.php:2226
+msgid "Add New Template"
+msgstr "Új sablon hozzáadása"
+
+#: woocommerce-ac.php:2208
+msgid "The Email Template has been successfully updated."
+msgstr "Az email sablon sikeresen frissült."
+
+#: woocommerce-ac.php:2068
+msgid "Add email templates at different intervals to maximize the possibility of recovering your abandoned carts."
+msgstr "Adjunk hozzá e-mail sablonokat különböző időközökre, hogy maximalizáljuk az elhagyott kosarak visszaszerzésének esélyét."
+
+#: woocommerce-ac.php:2047
+msgid "Carts without Customer Details"
+msgstr "Kosarak ügyféladatok nélkül"
+
+#: woocommerce-ac.php:2041
+msgid "Guest %s"
+msgstr "%s vendég"
+
+#: woocommerce-ac.php:2035
+msgid "Registered %s"
+msgstr "%s regisztrált"
+
+#: woocommerce-ac.php:2030
+msgid "All "
+msgstr "Mind "
+
+#: woocommerce-ac.php:1988
+msgid "The list below shows all Abandoned Carts which have remained in cart for a time higher than the \"Cart abandoned cut-off time\" setting."
+msgstr "Az alábbi lista az összes elhagyott kosarat mutatja, amelyek a \"Minimum kosár elhagyási idő\" beállításnál hosszabb ideig maradtak a kosárban."
+
+#: woocommerce-ac.php:1958
+msgid "Email Sending Settings"
+msgstr "Email küldési beállítások"
+
+#: woocommerce-ac.php:1955
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: woocommerce-ac.php:1937
+msgid "Change settings for sending email notifications to Customers, to Admin etc."
+msgstr "Módosíthatjuk az email értesítéseket az ügyfeleknek, adminisztrátornak, stb."
+
+#: woocommerce-ac.php:1931
+msgid "The Template has been successfully deleted."
+msgstr "A sablon törlése sikeresen megtörtént."
+
+#: woocommerce-ac.php:1926
+msgid "The Abandoned cart has been successfully deleted."
+msgstr "Az elhagyott kosár sikeresen törölve lett."
+
+#: woocommerce-ac.php:1866
+msgid "WooCommerce - Abandon Cart Lite"
+msgstr "WooCommerce - Abandon Cart Lite"
+
+#: woocommerce-ac.php:1862
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nincs megfelelő jogosultság az oldal eléréséhez."
+
+#: woocommerce-ac.php:1697
+msgid "Product Report"
+msgstr "Termék kimutatás"
+
+#: woocommerce-ac.php:1696
+msgid "Recovered Orders"
+msgstr "Visszaszerzett rendelések"
+
+#: woocommerce-ac.php:1694
+msgid "Email Templates"
+msgstr "Email sablonok"
+
+#: woocommerce-ac.php:1693
+msgid "Abandoned Orders"
+msgstr "Elhagyott rendelések"
+
+#: woocommerce-ac.php:1084 includes/admin/wcal_privacy_export.php:123
+msgid "Abandoned Carts"
+msgstr "Elhagyott kosarak"
+
+#: includes/frontend/wcal_checkout_process.php:300
+#: includes/frontend/wcal_checkout_process.php:302
+msgid "New Customer Order - Recovered"
+msgstr "Új vevői rendelés - Visszaszerzett"
+
+#: woocommerce-ac.php:680
+msgid "Abandoned cart cut off time should be numeric and has to be greater than 0."
+msgstr "A maximum kosár elhagyási időnek számnak kell lennie, és nagyobbnak kell lennie mint 0."
+
+#: woocommerce-ac.php:586
+msgid "Send Reply Emails to"
+msgstr "Válaszcím"
+
+#: woocommerce-ac.php:577
+msgid "\"From\" Address"
+msgstr "Feladó címe"
+
+#: woocommerce-ac.php:568
+msgid "\"From\" Name"
+msgstr "Feladó neve"
+
+#: woocommerce-ac.php:561
+msgid "Settings for abandoned cart recovery emails"
+msgstr "Az elhagyott kosár visszaszerzésére irányuló emailek beállításai"
+
+#: woocommerce-ac.php:533
+msgid "Enable tracking of abandoned products & carts even if customer does not visit the checkout page or does not enter any details on the checkout page like Name or Email. Tracking will begin as soon as a visitor adds a product to their cart and visits the cart page."
+msgstr "Engedélyezi az elhagyott termékek és kosarak követését akkor is, ha a vevő nem látogat el a pénztár oldalra, vagy nem ad meg az adatait, úgy mint név vagy email. A követés elkezdődik, amint a látogató beleteszi a terméket a kosárba és meglátogatja a kosár oldalt."
+
+#: woocommerce-ac.php:529
+msgid "Start tracking from Cart Page"
+msgstr "Követés megkezdése a kosár oldaltól"
+
+#: woocommerce-ac.php:523
+msgid "Sends email to Admin if an Abandoned Cart Order is recovered."
+msgstr "Levelet küld az adminnak, ha egy elhagyott kosár visszaszerzésre kerül."
+
+#: woocommerce-ac.php:519
+msgid "Email admin On Order Recovery"
+msgstr "Admin email a rendelés visszazerzésekor"
+
+#: woocommerce-ac.php:504
+msgid "Consider cart abandoned after X minutes of item being added to cart & order not placed."
+msgstr "A kosár elhagyottnak számít, ha X perce nem került bele új termék és a rendelés nem lett elküldve."
+
+#: woocommerce-ac.php:500
+msgid "Cart abandoned cut-off time"
+msgstr "Minimum kosár elhagyási idő"
+
+#: woocommerce-ac.php:212 woocommerce-ac.php:493 woocommerce-ac.php:1695
+msgid "Settings"
+msgstr "Beállítások"
+
+#: woocommerce-ac.php:293
+msgid "Abandoned cart Email Template"
+msgstr "Elhagyott kosár email sablon"
+
+#: woocommerce-ac.php:287
+msgid "HTML Email Template"
+msgstr "HTML email sablon"
+
+#: includes/component/tracking-data/ts-tracking.php:177
+msgid "Once in a Week"
+msgstr "Egyszer egy héten belül"
+
+#: woocommerce-ac.php:47
+msgid "Once Every Fifteen Minutes"
+msgstr "Tizenöt percenként"
+
+#: includes/component/welcome-page/templates/social-media-elements.php:10
+#: includes/welcome.php:271
+msgid "Follow %s"
+msgstr "%s követése"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:128
+#: includes/welcome.php:223
+msgid "Current Offers"
+msgstr "Aktuális ajánlataink"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:122
+#: includes/welcome.php:215
+msgid "Meet the team"
+msgstr "Ismerje meg csapatunkat"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:113
+#: includes/welcome.php:206
+msgid "View all Premium Plugins"
+msgstr "Az összes Prémium bővítmény megtekintése"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:112
+#: includes/welcome.php:205
+msgid "Visit the Tyche Softwares Website"
+msgstr "Látogassunk el a Tyche Softwares weboldalára"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:110
+#: includes/welcome.php:202
+msgid "Getting to Know Tyche Softwares"
+msgstr "A Tyche Softwares megismerése"
+
+#: includes/welcome.php:193
+msgid "View full list of differences between Lite & Pro plugin"
+msgstr "Tekintsük meg a Lite és a Pro bővítmény összes különbségét"
+
+#: includes/welcome.php:180
+msgid "The Lite version has only 3 merge tags available to personalize the abandoned cart recovery emails. The Pro version instead, has 20 different merge tags that can be used effectively to personalize each email that gets sent out to the customers for recovering their abandoned carts."
+msgstr "A Lite verzió csak 3 behelyettesíthető mezőt tesz elérhetővé az elveszett kosarak visszaszerzésére irányuló emailek sablonjának testreszabásához. A Pro verzió ezzel szemben 20 különböző behelyettesíthető mezőt nyújt amivel hatékonyan testreszabhatjuk az összes emailt amely a vásárlóknak kiküldött elhagyott kosarakkal kapcsolatban küldünk."
+
+#: includes/welcome.php:178
+msgid "Full range of merge tags that allow you to personalize the abandoned cart email"
+msgstr "A behelyettesítési mezők teljes köre, amelyek lehetővé teszik a személyre szabott elhagyott kosár e-maileket"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:97
+#: includes/welcome.php:165
+msgid "Send abandoned cart recovery email in minutes of cart being abandoned"
+msgstr "Küldjünk kosár visszaszerzésre irányuló e-mailt percekkel az elhagyás után"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:78
+#: includes/welcome.php:146
+msgid "The provision for setting two separate cut-off times for different roles is mainly because sometimes if the store admin wants the visitor carts to be captured earlier than the registered user carts, then these different settings can play an important role."
+msgstr "A lehetőség arra, hogy két különböző elhagyási időt állítsunk be a különböző szerepkörökre, főleg akkor jó, amikor az admin azt szeretné, hogy a látogatók kosarai előbb legyenek rögzítve, mint a regisztrált felhasználóké. Ilyenkor ezek a különböző beállítások fontos szerepet töltenek be."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:76
+#: includes/welcome.php:144
+msgid "Set different cut-off times for visitors & logged-in users"
+msgstr "Különböző minimális idők beállítása a látogatók és a bejelentkezett felhasználók számára"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:67
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:80
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:101
+#: includes/welcome.php:135 includes/welcome.php:148 includes/welcome.php:169
+#: includes/welcome.php:182
+msgid "Learn More"
+msgstr "Tudjunk meg többet"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:99
+#: includes/welcome.php:167
+msgid "The ability to send the abandoned cart recovery email within first few minutes of cart being abandoned is a big advantage. In the Lite plugin, the earliest an email can be sent is after 1 hour. Whereas in the Pro version, the first recovery email gets sent 15 minutes after the cart is abandoned. This increases the recovery chances manifold."
+msgstr "A lehetőség, hogy az elhagyott kosár visszazerzésére irányuló email értesítő néhány perccel azután kiküldésre kerülhet miután azt elhagyták, nagy előny. A Lite bővítményben a legkorábban egy óra múlva küldhetünk levelet, míg a Pro verzióban, az első helyreállítási e-mail már 15 perccel azután megérkezik, hogy a kosarat elhagyták. Ez növeli a visszaállítási esélyeinket."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:65
+#: includes/welcome.php:133
+msgid "The ability to capture the email address early in the order process is very important to reduce cart abandonment by unknown users as well as to be able to recover their carts if they abandon it. This ultimately leads to increase in your store sales."
+msgstr "A lehetőség arra, hogy az email címeket már a rendelés korai fázisában rögzíteni tudjuk, nagyon fontos ahhoz, hogy csökkenteni tudjuk az ismeretlen felhasználók által történt elhagyások számát, valamint hogy ezeket később képesek legyünk visszaszerezni. Ez végső soron azt eredményezi, hogy a boltnak nagyobb lesz a bevétele."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:63
+#: includes/welcome.php:131
+msgid "Capture Visitor Emails on click of Add to Cart button"
+msgstr "Látogató email címek rögzítése a kosárba rakás gomb megnyomásakor"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:54
+#: includes/welcome.php:122
+msgid "The Abandoned Cart Pro plugin gives you features where you are able to recover more sales compared to the Lite plugin. Here are some notable features the Pro version provides."
+msgstr "Az Abandoned Cart Pro Pro bővítmény olyan funkciókat ad, mellyel több eladást szerezhetünk vissza a Lite bővítményhez képest. Íme néhány említésre méltó funkció amit a Pro verzió nyújt."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:52
+#: includes/welcome.php:120
+msgid "Know more about Abandoned Cart Pro"
+msgstr "Tudjunk meg többet a Abandoned Cart Pro bővítményről"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:42
+#: includes/welcome.php:110
+msgid "Click Here to go to Email Templates page"
+msgstr "Kattintsunk ide az email sablonok oldalhoz"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:40
+#: includes/welcome.php:108
+msgid "To start sending out abandoned cart notification emails, simply activate the email template from under WooCommerce -> Abandoned Carts -> Email Templates page."
+msgstr "Az elhagyott kosarak értesítő emailek küldésének elindításához egyszerűen aktiváljuk az email sablont a WooCommerce -> Elhagyott kosarak -> E-mail sablonok oldalon."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:38
+#: includes/welcome.php:106
+msgid "Activate Email Template"
+msgstr "Email sablon aktiválása"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:34
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:59
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:86
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:93
+#: includes/welcome.php:102 includes/welcome.php:127 includes/welcome.php:154
+#: includes/welcome.php:161 includes/welcome.php:188
+msgid "WooCommerce Abandoned Cart Lite"
+msgstr "WooCommerce Abandoned Cart Lite"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:30
+#: includes/welcome.php:98
+msgid "Get Started with Abandoned Cart Lite"
+msgstr "Abandoned Cart Lite használatának megkezdése"
+
+#: includes/welcome.php:88
+msgid "Thank you for activating or updating to the latest version of Abandoned Cart Lite! If you're a first time user, welcome! You're well on your way to start recovering your lost revenues."
+msgstr "Köszönjük, hogy aktivált vagy frissített az Abandoned Cart Lite legújabb verziójára! Ha ez az első használat, abban az esetben üdvözöljük! Készen áll arra, hogy visszaszerezze az elveszett bevételi lehetőségeit."
+
+#: includes/welcome.php:50
+msgid "Welcome to Abandoned Cart Lite"
+msgstr "Üdvözli az Abandoned Cart Lite"
+
+#: includes/welcome.php:49
+msgid "Welcome to Abandoned Cart Lite %s"
+msgstr "Üdvözli az Abandoned Cart Lite %s"
+
+#: includes/component/tracking-data/ts-tracking.php:271
+#: includes/wcal_ts_tracking.php:79
+msgid "No thanks"
+msgstr "Köszönöm, nem"
+
+#: includes/component/tracking-data/ts-tracking.php:270
+#: includes/wcal_ts_tracking.php:78
+msgid "Allow"
+msgstr "Engedélyezés"
+
+#: includes/classes/class-wcal-templates-table.php:144
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: includes/classes/class-wcal-templates-table.php:94
+msgid "Active ?"
+msgstr "Aktív ?"
+
+#: includes/classes/class-wcal-templates-table.php:93
+msgid "Sent After Set Time"
+msgstr "Elküldve a beállított idő után"
+
+#: includes/classes/class-wcal-templates-table.php:92
+msgid "Name Of Template"
+msgstr "Sablon neve"
+
+#: includes/wcal_ts_tracking.php:76
+msgid "Want to help make Abandoned Cart even more awesome? Allow Abandoned Cart to collect non-sensitive diagnostic data and usage information and get 20% off on your next purchase. <a href=\"https://www.tychesoftwares.com/abandoned-cart-lite-usage-tracking/\" target=\"_blank\">Find out more</a>. <br><br>"
+msgstr "Szeretnénk segíteni abban, hogy az Abandoned Cart még jobb legyen? Engedélyezzük, hogy az Abandoned Cart nem érzékeny-, diagnosztikai adatokat és használati információkat gyűjtsön, ezzel 20% kedvezményre legyünk jogosultak a következő vásárlás alkalmával. <a href=\"https://www.tychesoftwares.com/abandoned-cart-lite-usage-tracking/\" target=\"_blank\">Tudjunk meg többet</a>.<br><br>"
+
+#: includes/classes/class-wcal-templates-table.php:91
+msgid "Sr"
+msgstr "Id"
+
+#: includes/classes/class-wcal-templates-table.php:54
+msgid "template_ids"
+msgstr "template_ids"
+
+#: includes/classes/class-wcal-templates-table.php:53
+msgid "template_id"
+msgstr "template_id"
+
+#: includes/classes/class-wcal-recover-orders-table.php:161
+msgid "View Details"
+msgstr "Részletek megtekintése"
+
+#: includes/classes/class-wcal-recover-orders-table.php:127
+msgid "Cart Recovered Date"
+msgstr "Kosár visszaszerzésének dátuma"
+
+#: includes/classes/class-wcal-recover-orders-table.php:126
+msgid "Cart Abandoned Date"
+msgstr "Kosár elhagyásának dátuma"
+
+#: includes/classes/class-wcal-recover-orders-table.php:124
+msgid "Customer Name"
+msgstr "Vásárló neve"
+
+#: includes/classes/class-wcal-recover-orders-table.php:87
+msgid "rec_abandoned_ids"
+msgstr "rec_abandoned_ids"
+
+#: includes/classes/class-wcal-recover-orders-table.php:86
+msgid "rec_abandoned_id"
+msgstr "rec_abandoned_id"
+
+#: includes/classes/class-wcal-product-report-table.php:93
+msgid "Number of Times Recovered"
+msgstr "Visszaszerzések száma"
+
+#: includes/classes/class-wcal-product-report-table.php:92
+msgid "Number of Times Abandoned"
+msgstr "Elhagyások száma"
+
+#: includes/classes/class-wcal-product-report-table.php:91
+msgid "Product Name"
+msgstr "Terméknév"
+
+#: includes/classes/class-wcal-product-report-table.php:59
+msgid "product_ids"
+msgstr "product_ids"
+
+#: includes/classes/class-wcal-product-report-table.php:58
+msgid "product_id"
+msgstr "product_id"
+
+#: includes/admin/wcal_privacy_export.php:215
+#: includes/classes/class-wcal-abandoned-orders-table.php:365
+msgid "Abandoned"
+msgstr "Elhagyott"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:359
+msgid "items"
+msgstr "tétel"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:357
+msgid "item"
+msgstr "tétel"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:151
+#: includes/classes/class-wcal-abandoned-orders-table.php:544
+#: includes/classes/class-wcal-templates-table.php:145
+#: includes/classes/class-wcal-templates-table.php:330
+msgid "Delete"
+msgstr "Törlés"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:150
+msgid "View order"
+msgstr "Rendelés megtekintése"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:101
+msgid "Status of Cart"
+msgstr "Kosár állapota"
+
+#: includes/admin/wcal_privacy_export.php:168
+#: includes/admin/wcal_privacy_export.php:180
+#: includes/classes/class-wcal-abandoned-orders-table.php:100
+msgid "Abandoned Date"
+msgstr "Elhagyás dátuma"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:99
+#: includes/classes/class-wcal-recover-orders-table.php:128
+msgid "Order Total"
+msgstr "Rendelés végösszeg"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:98
+msgid "Customer"
+msgstr "Vásárló"
+
+#: includes/admin/wcal_privacy_export.php:174
+#: includes/admin/wcal_privacy_export.php:185
+#: includes/classes/class-wcal-abandoned-orders-table.php:97
+#: includes/classes/class-wcal-recover-orders-table.php:125
+msgid "Email Address"
+msgstr "E-mail cím"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:96
+msgid "Id"
+msgstr "Azonosító"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:53
+msgid "abandoned_order_ids"
+msgstr "abandoned_order_ids"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:52
+msgid "abandoned_order_id"
+msgstr "abandoned_order_id"
+
+#: cron/wcal_send_email.php:576 cron/wcal_send_email.php:643
+#: includes/frontend/wcal_checkout_process.php:198
+#: includes/frontend/wcal_checkout_process.php:493
+msgid "This order was abandoned & subsequently recovered."
+msgstr "Ezt a rendelést elhagyták, majd visszaszerzésre került."
+
+#: cron/wcal_send_email.php:381 woocommerce-ac.php:3105 woocommerce-ac.php:3140
+msgid "Cart Total:"
+msgstr "Összesen:"
+
+#: cron/wcal_send_email.php:281 cron/wcal_send_email.php:291
+#: woocommerce-ac.php:2396 woocommerce-ac.php:3085 woocommerce-ac.php:3120
+msgid "Line Subtotal"
+msgstr "Sor részösszege"
+
+#: cron/wcal_send_email.php:280 cron/wcal_send_email.php:290
+#: woocommerce-ac.php:3084 woocommerce-ac.php:3119
+msgid "Price"
+msgstr "Ár"
+
+#: cron/wcal_send_email.php:279 cron/wcal_send_email.php:289
+#: woocommerce-ac.php:2395 woocommerce-ac.php:3083 woocommerce-ac.php:3118
+msgid "Quantity"
+msgstr "Mennyiség"
+
+#: cron/wcal_send_email.php:278 cron/wcal_send_email.php:288
+#: woocommerce-ac.php:2394 woocommerce-ac.php:3082 woocommerce-ac.php:3117
+msgid "Name"
+msgstr "Név"
+
+#: cron/wcal_send_email.php:277 cron/wcal_send_email.php:287
+#: woocommerce-ac.php:2393 woocommerce-ac.php:3081 woocommerce-ac.php:3116
+msgid "Item"
+msgstr "Elem"
+
+#: cron/wcal_send_email.php:275 cron/wcal_send_email.php:284
+#: woocommerce-ac.php:3079 woocommerce-ac.php:3113
+msgid "Your Shopping Cart"
+msgstr "Bevásárlókosam"
+
+#: cron/wcal_send_email.php:93
+msgid "Abandoned cart reminder"
+msgstr "Elhagyott kosár emlékeztető"
+
+#: woocommerce-ac.php:2197
+msgid "There was a problem adding the email template. Please contact the plugin author via <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">support forum</a>."
+msgstr "Volt egy probléma az email sablon hozzáadása közben. Kérjük, forduljon a bővítmény szerzőjéhez a <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">támogatás fórum</a> segítségével."
+
+#: woocommerce-ac.php:2217
+msgid "There was a problem updating the email template. Please contact the plugin author via <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">support forum</a>."
+msgstr "Hiba történt az e-mail sablon frissítésekor. Kérjük, forduljon a bővítmény szerzőjéhez a <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">támogatás fórum</a> segítségével."

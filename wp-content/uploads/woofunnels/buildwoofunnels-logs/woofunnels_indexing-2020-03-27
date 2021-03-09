@@ -1,0 +1,24 @@
+2020-03-27T04:38:06+00:00 - Order status changes from pending to cancelled for order id: 331883
+2020-03-27T07:04:46+00:00 - Updating changes in customer for cid: 8400, on thank you/order-edit: 2
+2020-03-27T07:44:33+00:00 - Updating changes in customer for cid: 8402, on thank you/order-edit: 2
+2020-03-27T08:24:44+00:00 - Updating changes in customer for cid: 634, on thank you/order-edit: 2
+2020-03-27T08:32:03+00:00 - These 0 orders for user: 1, CID: 14 are retrieved: Array
+(
+)
+
+2020-03-27T08:51:07+00:00 - Order status changes from pending to cancelled for order id: 327404
+2020-03-27T08:51:07+00:00 - Order status changes from pending to cancelled for order id: 327404
+2020-03-27T09:10:29+00:00 - Updating contact on profile update WPID: 10, CID: 5903 
+2020-03-27T09:10:29+00:00 - Updating Customer. WPID: 10,  CID: 5903
+2020-03-27T09:29:39+00:00 - Updating changes in customer for cid: 5903, on thank you/order-edit: 2
+2020-03-27T10:21:08+00:00 - Updating changes in customer for cid: 7397, on thank you/order-edit: 2
+2020-03-27T10:34:01+00:00 - Updating changes in customer for cid: 8403, on thank you/order-edit: 2
+2020-03-27T10:34:02+00:00 - Updating changes in customer for cid: 7397, on thank you/order-edit: 0
+2020-03-27T10:44:58+00:00 - Updating changes in customer for cid: 8404, on thank you/order-edit: 0
+2020-03-27T11:20:58+00:00 - Updating changes in customer for cid: 8405, on thank you/order-edit: 2
+2020-03-27T11:55:44+00:00 - Order status changes from pending to cancelled for order id: 327503
+2020-03-27T12:21:26+00:00 - Updating changes in customer for cid: 8406, on thank you/order-edit: 2
+2020-03-27T14:58:16+00:00 - Updating changes in customer for cid: 8407, on thank you/order-edit: 0
+2020-03-27T16:49:23+00:00 - Updating changes in customer for cid: 8408, on thank you/order-edit: 2
+2020-03-27T18:41:01+00:00 - Updating changes in customer for cid: 8409, on thank you/order-edit: 2
+2020-03-27T20:13:28+00:00 - Updating changes in customer for cid: 8411, on thank you/order-edit: 0

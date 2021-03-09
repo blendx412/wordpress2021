@@ -1,0 +1,928 @@
+# Translation of Plugins - Abandoned Cart Lite for WooCommerce - Development (trunk) in Slovenian
+# This file is distributed under the same license as the Plugins - Abandoned Cart Lite for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-21 18:24:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sl_SI\n"
+"Project-Id-Version: Plugins - Abandoned Cart Lite for WooCommerce - Development (trunk)\n"
+
+#: woocommerce-ac.php:1752
+msgid "Export"
+msgstr "Izvoz"
+
+#. translators: %s: price decimal separator
+#: woocommerce-ac.php:1745
+msgid "Please enter in monetary decimal (%s) format without thousand separators and currency symbols."
+msgstr "Vnesite v decimalni (%s) obliki brez ločnic za tisoč in simbolov valut."
+
+#: woocommerce-ac.php:1746
+msgid "Please enter in country code with two capital letters."
+msgstr "Vnesite kodo države z dvema velikima črkama."
+
+#: woocommerce-ac.php:1747
+msgid "Please enter in a value less than the regular price."
+msgstr "Vnesite vrednost, ki je nižja od redne cene."
+
+#. translators: %s: decimal
+#: woocommerce-ac.php:1743
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr "Please enter in decimal (%s) format without thousand separators."
+
+#: woocommerce-ac.php:1751
+msgid "Import"
+msgstr "Uvozi"
+
+#: includes/wcal_all_component.php:114
+msgid ""
+" Allow your customers to pay deposits on products using our Deposits for WooCommerce plugin. <br>\n"
+"            <strong><a target=\"_blank\" href= \""
+msgstr ""
+"Dovolite svojim strankam, da plačujejo depozite na izdelke, ki uporabljajo naš vmesnik Depoziti za WooCommerce. <br>\n"
+" <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:111
+msgid " Allow your customers to book an appointment or rent an apartment with our Booking and Appointment for WooCommerce plugin. You can also sell your product as a resource or integrate with a few Vendor plugins. <br>Shop now & Save 20% on the plugin with the code \"BKAP20\". Only for first 20 customers. <strong><a target=\"_blank\" href= \""
+msgstr "Dovolite svojim strankam, da rezervirajo sestanek ali najamejo stanovanje z našimi dodatki za rezervacije in sestanke za WooCommerce. Prav tako lahko svoj izdelek prodajate kot vir ali pa ga vključite v nekaj vtičnikov dobavitelja.<br>Kupite sedaj & prihranite 20% na vtičniku s kodo \"BKAP20\". Samo za prvih 20 kupcev. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:107
+msgid ""
+"Allow your customers to select the Delivery Date on Single Product Page using our Product Delivery Date pro for WooCommerce Plugin. <br> \n"
+"            <strong><a target=\"_blank\" href= \""
+msgstr ""
+"Dovolite svojim strankam, da izberejo datum dostave na strani z enim samim izdelkom, z uporabo našega izdelka za dostavo izdelka na datum za vtičnik WooCommerce.<br> \n"
+" <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:104
+msgid "Reduce cart abandonment rate by 57% with our Order Delivery Date Pro WooCommerce plugin. You can Create Delivery Settings by Shipping Zones & Shipping Classes. <br>Use discount code \"ORDPRO20\" and grab 20% discount on the purchase of the plugin. The discount code is valid only for the first 20 customers. <strong><a target=\"_blank\" href= \""
+msgstr "Zmanjšajte stopnjo opuščanja košarice za 57% z našim vtičnikom za dobavo naročila. Nastavitve dostave lahko ustvarite po območjih dostave in razredih dostave. <br>Uporabite kodo za popust \"ORDPRO20\" in izkoristite 20% popust na nakup vtičnika. Koda za popust velja samo za prvih 20 strank. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:100
+msgid ""
+"Increase your store sales by recovering your abandoned carts for just $119. No profit sharing, no monthly fees. Our Abandoned Cart Pro plugin comes with a 30 day money back guarantee as well. :) Use coupon code ACPRO20 & save $24!<br>\n"
+"            <strong><a target=\"_blank\" href= \""
+msgstr ""
+"Povečajte prodajo v trgovini tako, da obnovite zapuščene košarice za samo 119 USD. Brez delitve dobička, brez mesečnih naročnin. Naš vtičnik za zapuščene košarice prihaja z 30-dnevno garancijo za vračilo denarja. :) Uporabite kodo kupona ACPRO20 in prihranite $24!<br>\n"
+"             <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:97
+msgid "Send Abandoned Cart reminders that actually convert. Take advantage of our fully responsive email templates designed specially with an intent to trigger conversion. <strong><a target=\"_blank\" href= \""
+msgstr "Pošlji opomnike o opuščeni košarici, ki dejansko pretvarjajo. Izkoristite naše popolnoma odzivne e-poštne predloge, izdelane posebej z namenom sprožiti pretvorbo. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:94
+msgid "Don't loose your sales to abandoned carts. Use our Abandon Cart Pro plugin & start recovering your lost sales in less then 60 seconds. <strong><a target=\"_blank\" href= \""
+msgstr "Ne izgubljajte prodaje na zapuščenih košaricah. Uporabite naš vtičnik Abandon Cart Pro & začnite izterjati izgubljeno prodajo v manj kot 60 sekundah. <strong><a target=\"_blank\" href= \""
+
+#: includes/wcal_all_component.php:91
+msgid "Boost your sales by recovering up to 60% of the abandoned carts with our Abandoned Cart Pro for WooCommerce plugin. You can capture customer email addresses right when they click the Add To Cart button. <strong><a target=\"_blank\" href= \""
+msgstr "Povečajte svojo prodajo z obnovitvijo do 60% zapuščenih košaric z našim vtičnikom Zapuščena košarica Pro za WooCommerce. E-poštne naslove strank lahko zajamete prav, ko kliknejo gumb Dodaj v košarico. <strong><a target=\"_blank\" href= \""
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:18
+msgid "Thank you for activating or updating to the latest version of "
+msgstr "Hvala, ker ste aktivirali ali posodobili na najnovejšo različico"
+
+#: includes/component/welcome-page/ts-welcome.php:166
+msgid "Welcome to "
+msgstr "Dobrodošli v"
+
+#: includes/wcal_all_component.php:88
+msgid "Now that you are all set with the Lite version, you can upgrade to Pro version to take your abandoned cart recovery to the next level. You can capture  customer’s email address when they click Add to Cart, get access to 11 unique, fully responsive email templates, send text messages for recovery & <strong><a target=\"_blank\" href= \""
+msgstr "Zdaj, ko ste se spoznali z različico Lite, lahko nadgradite na različico Pro, da opuščene košarice popšeljete na naslednjo raven. E-poštni naslov stranke lahko posnamete, ko kliknejo Dodaj v košarico, pridobite dostop do 11 edinstvenih, popolnoma odzivnih e-poštnih predlog, pošljete besedilna sporočila za obnovitev & <strong><a target=\"_blank\" href= \" "
+
+#: includes/component/tracking-data/ts-tracking.php:268
+msgid "Want to help make "
+msgstr "Želite pomagati"
+
+#: includes/component/faq-support/ts-faq-support.php:127
+msgid "Frequently Asked Questions for "
+msgstr "Pogosto zastavljena vprašanja za"
+
+#: woocommerce-ac.php:2633
+msgid "Shipping Charges"
+msgstr "Poštnina"
+
+#: woocommerce-ac.php:696
+msgid "Automatically Delete Abandoned Orders after X days has to be greater than 0."
+msgstr "Samodejno izbriši zapuščene naročila po X dneh, mora biti večja od 0."
+
+#: woocommerce-ac.php:513
+msgid "Automatically delete abandoned cart orders after X days."
+msgstr "Samodejno izbrišite zapuščena naročila v košaricah po X dneh."
+
+#: woocommerce-ac.php:509
+msgid "Automatically Delete Abandoned Orders after X days"
+msgstr "Samodejno izbrišite zapuščena naročila po X dneh"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:363
+msgid "Unsubscribed"
+msgstr "Odjavljena"
+
+#: includes/admin/wcal_privacy_erase.php:90
+msgid "No personal data found for any abandoned carts."
+msgstr "Za zapuščene košarice ni najdenih osebnih podatkov."
+
+#: woocommerce-ac.php:551
+msgid "<br>In compliance with GDPR, add a message on the Shop & Product pages to inform Registered users of how their data is being used.<br><i>For example: Please check our Privacy Policy to see how we use your personal data.</i>"
+msgstr "<br>V skladu z GDPR dodajte sporočilo na strani Shop & Product, da bi obvestili registrirane uporabnike o tem, kako se uporabljajo njihovi podatki.<br><i> Na primer: Prosimo, preverite našo politiko zasebnosti, da vidite, kako uporabljamo vaše osebne podatke.</i>"
+
+#: woocommerce-ac.php:547
+msgid "Message to be displayed for registered users when tracking their carts."
+msgstr "Sporočilo, ki bo prikazano registriranim uporabnikom pri sledenju košaric."
+
+#: woocommerce-ac.php:542
+msgid "<br>In compliance with GDPR, add a message on the Checkout page to inform Guest users of how their data is being used.<br><i>For example: Your email address will help us support your shopping experience throughout the site. Please check our Privacy Policy to see how we use your personal data.</i>"
+msgstr "<br>V skladu z GDPR dodajte sporočilo na strani blagajne, da boste goste obvestili, kako se uporabljajo njihovi podatki.<br><i> Na primer: Vaš e-poštni naslov nam bo pomagal podpreti vaše nakupovanje na celotnem spletnem mestu. Preverite našo politiko zasebnosti, da vidite, kako uporabljamo vaše osebne podatke.</i>"
+
+#: woocommerce-ac.php:538
+msgid "Message to be displayed for Guest users when tracking their carts"
+msgstr "Sporočilo, ki se prikaže neregistriranim uporabnikom, ko sledijo košaricam."
+
+#: woocommerce-ac.php:257
+msgid "I want to upgrade the plugin to the PRO version."
+msgstr "Vtičnik želim nadgraditi na PRO verzijo."
+
+#: woocommerce-ac.php:251
+msgid "I cannot see abandoned cart reminder emails records."
+msgstr "Ne vidim zapisov e-poštnih opomnikov zapuščenih košaric."
+
+#: woocommerce-ac.php:245
+msgid "Capturing of cart and other information was not satisfactory."
+msgstr "Zajem košarice in drugih informacij ni bil zadovoljiv."
+
+#: woocommerce-ac.php:239
+msgid "Emails are not being sent to customers."
+msgstr "Elektronska pošta ni bila poslana strankam."
+
+#: includes/component/welcome-page/ts-welcome.php:165
+msgid "Welcome to %s %s"
+msgstr "Dobrodošli v %s %s"
+
+#: includes/component/tracking-data/ts-tracking.php:133
+msgid "Reset usage tracking"
+msgstr "Ponastavite sledenje uporabe"
+
+#: includes/component/faq-support/ts-faq-support.php:175
+msgid "FAQ & Support"
+msgstr "FAQ & Podpora"
+
+#: includes/component/faq-support/ts-faq-support.php:126
+msgid "Frequently Asked Questions for %s"
+msgstr "Pogosto zastavljena vprašanja za %s"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:91
+msgctxt "the text of the 'other' reason for deactivating the plugin that is shown in the modal box."
+msgid "Other"
+msgstr "Drugo"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:90
+msgid "I don't like to share my information with you"
+msgstr "Svojih podatkov ne želim deliti z vami."
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:89
+msgid "What feature?"
+msgstr "Katere funkcije?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:88
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Vtičnik je odličen, vendar potrebujem posebno funkcijo, ki je ne podpirate."
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:87
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Vljudno navedite, kaj ni delovalo, da bomo lahko popravili za prihodnje uporabnike ..."
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:86
+msgid "The plugin is not working"
+msgstr "Vtičnik ne deluje"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:85
+msgid "I only needed the plugin for a short period"
+msgstr "Vtičnik sem potreboval le za krajši čas"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:84
+msgid "What's the plugin's name?"
+msgstr "Kakšno je ime vtičnika?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:83
+msgid "I found a better plugin"
+msgstr "Našel sem boljši vtičnik"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:79
+msgid "Yes - Deactivate"
+msgstr "Da - deaktiviraj"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:78
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:77
+msgid "Deactivate"
+msgstr "Deaktiviraj"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:76
+msgid "Submit & Deactivate"
+msgstr "Pošlji in deaktiviraj"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:75
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Če imate trenutek nam prosim sporočite, zakaj deaktivirate"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:283
+msgid "User Deleted"
+msgstr "Uporabnik Pobrisan"
+
+#: includes/admin/wcal_privacy_export.php:221
+msgid "Abandoned - Order Unpaid (Order #"
+msgstr "Zapuščeno - maročilo neplačano (naročilo #"
+
+#: includes/admin/wcal_privacy_export.php:218
+msgid "Abandoned but new cart created"
+msgstr "Zapuščena, ustvarjena pa je nova košarica."
+
+#: includes/admin/wcal_privacy_export.php:215
+#: includes/admin/wcal_privacy_export.php:218
+msgid "Cart Recovered - Order #"
+msgstr "Košarica obnovljena - naročilo #"
+
+#: includes/admin/wcal_privacy_export.php:173
+#: includes/admin/wcal_privacy_export.php:184
+msgid "Billing Address"
+msgstr "Naslov za pošiljanje računa"
+
+#: includes/admin/wcal_privacy_export.php:172
+msgid "Session ID"
+msgstr "ID seje"
+
+#: includes/admin/wcal_privacy_export.php:171
+#: includes/admin/wcal_privacy_export.php:183
+msgid "Items Present"
+msgstr "Prisotni predmeti"
+
+#: includes/admin/wcal_privacy_export.php:170
+#: includes/admin/wcal_privacy_export.php:182
+msgid "Cart Total"
+msgstr "Skupaj za plačilo"
+
+#: includes/admin/wcal_privacy_export.php:169
+#: includes/admin/wcal_privacy_export.php:181
+msgid "Abandoned Cart Status"
+msgstr "Status zapuščene košarice"
+
+#: includes/admin/wcal_privacy_export.php:167
+#: includes/admin/wcal_privacy_export.php:179
+msgid "Abandoned Cart ID"
+msgstr "ID zapuščene košarice"
+
+#: includes/admin/wcal_privacy_erase.php:204
+msgid "ANONYMIZED"
+msgstr "ANONIMIZIRANO"
+
+#. Translators: %s Abandoned Cart ID.
+#: includes/admin/wcal_privacy_erase.php:127
+msgid "Personal data within cart %s has been retained."
+msgstr "Osebni podatki košarice %s so shranjeni."
+
+#. Translators: %s Abandoned Cart ID.
+#: includes/admin/wcal_privacy_erase.php:123
+msgid "Removed personal data from cart %s."
+msgstr "Osebni podatki košarice %s so bili odstranjeni."
+
+#: includes/admin/wcal_privacy_erase.php:41
+#: includes/admin/wcal_privacy_export.php:41
+msgid "Abandoned & Recovered Carts"
+msgstr "Zapuščene & obnovljene košarice"
+
+#. Description of the plugin
+msgid "This plugin captures abandoned carts by logged-in users & emails them about it."
+msgstr "Ta vtičnik zajame zapuščene košarice z prijavljenimi uporabniki in jim pošlje e-poštna sporočila."
+
+#: includes/wcal-common.php:582
+msgid "Database Update Failed. Please try again after sometime"
+msgstr "Posodobitev podatkovne baze ni uspela. Poskusite ponovno čez nekaj časa."
+
+#: includes/wcal-common.php:567
+msgid "Database Updated Successfully"
+msgstr "Podatkovna baza uspešno posodobljena."
+
+#: woocommerce-ac.php:1694
+msgid "Email Templates"
+msgstr "E-poštne predloge"
+
+#. Author URI of the plugin
+msgid "http://www.tychesoftwares.com/"
+msgstr "http://www.tychesoftwares.com/"
+
+#. Author of the plugin
+msgid "Tyche Softwares"
+msgstr "Programska oprema Tyche"
+
+#. Plugin URI of the plugin
+msgid "http://www.tychesoftwares.com/store/premium-plugins/woocommerce-abandoned-cart-pro"
+msgstr "http://www.tychesoftwares.com/store/premium-plugins/woocommerce-abandoned-cart-pro"
+
+#. Plugin Name of the plugin
+msgid "Abandoned Cart Lite for WooCommerce"
+msgstr "Abandoned Cart Lite for WooCommerce"
+
+#: woocommerce-ac.php:3096 woocommerce-ac.php:3131
+msgid "Woman\\'\\s Hand Bags"
+msgstr "Ženske torbice"
+
+#: woocommerce-ac.php:3089 woocommerce-ac.php:3124
+msgid "Men\\'\\s Formal Shoes"
+msgstr "Moški svečani čevlji"
+
+#: woocommerce-ac.php:2911
+msgid ""
+"If you love <strong>Abandoned Cart Lite for WooCommerce</strong>, then please leave us a <a href=\"https://wordpress.org/support/plugin/woocommerce-abandoned-cart/reviews/?rate=5#new-post\" target=\"_blank\" class=\"ac-rating-link\" data-rated=\"Thanks :)\">★★★★★</a>\n"
+"                            rating. Thank you in advance. :)"
+msgstr ""
+"Če vam je <strong>Abandoned Cart Lite for WooCommerce</strong>všeč, potem nas ocenite z <a href=\"https://wordpress.org/support/plugin/woocommerce-abandoned-cart/reviews/?rate=5#new-post\" target=\"_blank\" class=\"ac-rating-link\" data-rated=\"Thanks :)\">★★★★★</a>\n"
+"                            Hvala v naprej. :)"
+
+#: woocommerce-ac.php:2878
+msgid "Enter the email id to which the test email needs to be sent."
+msgstr "Vnesite e-poštni ID, na katerega je treba poslati testno e-pošto."
+
+#: woocommerce-ac.php:2873
+msgid "Send a test email to:"
+msgstr "Pošlji testno e-pošto na:"
+
+#: woocommerce-ac.php:2866
+msgid "after cart is abandoned."
+msgstr "ko je košarica zapuščena"
+
+#: woocommerce-ac.php:2825
+msgid "Send this email:"
+msgstr "Pošlji tole e-pošto:"
+
+#: woocommerce-ac.php:2805
+msgid "Email Template Header Text: "
+msgstr "Besedilo glave predloge e-pošte:"
+
+#: woocommerce-ac.php:2798
+msgid "Use WooCommerce default style template for abandoned cart reminder emails."
+msgstr "Uporabite privzeto predlogo WooCommerce za pošiljanje opomnikov po e-pošti za zapuščene košarice."
+
+#: woocommerce-ac.php:2783
+msgid "Use WooCommerce Template Style:"
+msgstr "Uporabite naslednjo predlogo WooCommerce:"
+
+#: woocommerce-ac.php:2756
+msgid "Message to be sent in the reminder email."
+msgstr "Sporočilo, ki bo poslano v e-poštnem opomniku."
+
+#: woocommerce-ac.php:2729
+msgid "Email Body:"
+msgstr "E-pošta:"
+
+#: woocommerce-ac.php:2723
+msgid "Enter the subject that should appear in the email sent"
+msgstr "Vnesite zadevo, ki naj se pojavi v poslanem e-poštnem sporočilu"
+
+#: woocommerce-ac.php:2714
+msgid "Subject:"
+msgstr "Zadeva:"
+
+#: woocommerce-ac.php:2708
+msgid "Enter a template name for reference"
+msgstr "Vnesite ime predloge za referenco"
+
+#: woocommerce-ac.php:2699
+msgid "Template Name:"
+msgstr "Ime predloge:"
+
+#: woocommerce-ac.php:2612
+msgid "Shipping Details"
+msgstr "Podrobnosti o dostavi"
+
+#: woocommerce-ac.php:2607
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: woocommerce-ac.php:2603
+msgid "Email:"
+msgstr "E-pošta:"
+
+#: woocommerce-ac.php:2593 woocommerce-ac.php:2613
+msgid "Address:"
+msgstr "Naslov:"
+
+#: woocommerce-ac.php:2590
+msgid "Name:"
+msgstr "Ime in priimek"
+
+#: woocommerce-ac.php:2589
+msgid "Billing Details"
+msgstr "Podatki o plačilu"
+
+#: woocommerce-ac.php:2585
+msgid "Customer Details"
+msgstr "Podatki o kupcu"
+
+#: woocommerce-ac.php:2389
+msgid "Abandoned Order #%s Details"
+msgstr "Podrobnosti o zapuščenem naročilu #%s"
+
+#: woocommerce-ac.php:2356
+msgid "Go"
+msgstr "Pojdi"
+
+#: woocommerce-ac.php:2354
+msgid "End Date:"
+msgstr "Datum zaključka:"
+
+#: woocommerce-ac.php:2352
+msgid "Start Date:"
+msgstr "Datum začetka:"
+
+#: woocommerce-ac.php:2303
+msgid "The Report below shows how many Abandoned Carts we were able to recover for you by sending automatic emails to encourage shoppers."
+msgstr "V spodnjem poročilu je prikazano število opuščenih košaric, ki smo vam jih uspeli obnoviti, in sicer s pošiljanjem samodejnih e-poštnih sporočil za spodbujanje kupcev."
+
+#: woocommerce-ac.php:2226
+msgid "Add New Template"
+msgstr "Dodaj novo predlogo"
+
+#: woocommerce-ac.php:2217
+msgid "There was a problem updating the email template. Please contact the plugin author via <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">support forum</a>."
+msgstr "Pri posodabljanju predloge za e-pošto je prišlo do težave. Obrnite se na avtorja vtičnika prek <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">foruma za podporo</a>."
+
+#: woocommerce-ac.php:2208
+msgid "The Email Template has been successfully updated."
+msgstr "Predloga za e-pošto je bila uspešno posodobljena."
+
+#: woocommerce-ac.php:2197
+msgid "There was a problem adding the email template. Please contact the plugin author via <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">support forum</a>."
+msgstr "Pri dodajanju predloge e-pošte je prišlo do težave. Obrnite se na avtorja vtičnika prek <a href= \"https://wordpress.org/support/plugin/woocommerce-abandoned-cart\">foruma za podporo</a>."
+
+#: woocommerce-ac.php:2068
+msgid "Add email templates at different intervals to maximize the possibility of recovering your abandoned carts."
+msgstr "Dodajte e-poštne predloge v različnih intervalih, da povečate možnost obnovitve zapuščenih vozičkov."
+
+#: woocommerce-ac.php:2047
+msgid "Carts without Customer Details"
+msgstr "Košarice brez podatkov o kupcu"
+
+#: woocommerce-ac.php:2041
+msgid "Guest %s"
+msgstr "Gost %s"
+
+#: woocommerce-ac.php:2035
+msgid "Registered %s"
+msgstr "Registriran/ih %s"
+
+#: woocommerce-ac.php:2030
+msgid "All "
+msgstr "Vsi"
+
+#: woocommerce-ac.php:1958
+msgid "Email Sending Settings"
+msgstr "Nastavitve za pošiljanje e-pošte"
+
+#: woocommerce-ac.php:1955
+msgid "General Settings"
+msgstr "Splošne nastavitve"
+
+#: woocommerce-ac.php:1937
+msgid "Change settings for sending email notifications to Customers, to Admin etc."
+msgstr "Spremenite nastavitve za pošiljanje e-poštnih obvestil strankam, skrbniku itd."
+
+#: woocommerce-ac.php:1931
+msgid "The Template has been successfully deleted."
+msgstr "Predloga je bila uspešno izbrisana."
+
+#: woocommerce-ac.php:1926
+msgid "The Abandoned cart has been successfully deleted."
+msgstr "Zapuščena košarica je bila uspešno izbrisana."
+
+#: woocommerce-ac.php:1866
+msgid "WooCommerce - Abandon Cart Lite"
+msgstr "WooCommerce - Abandon Cart Lite"
+
+#: woocommerce-ac.php:1862
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nimate dovoljenja za dostop do te strani."
+
+#: woocommerce-ac.php:1697
+msgid "Product Report"
+msgstr "Poročilo o izdelku"
+
+#: woocommerce-ac.php:1696
+msgid "Recovered Orders"
+msgstr "Izterjana naročila"
+
+#: woocommerce-ac.php:1693
+msgid "Abandoned Orders"
+msgstr "Zapuščena naročila"
+
+#: woocommerce-ac.php:1084 includes/admin/wcal_privacy_export.php:123
+msgid "Abandoned Carts"
+msgstr "Zapuščene košarice"
+
+#: includes/frontend/wcal_checkout_process.php:300
+#: includes/frontend/wcal_checkout_process.php:302
+msgid "New Customer Order - Recovered"
+msgstr "Nova naročila strank - izterjana"
+
+#: woocommerce-ac.php:680
+msgid "Abandoned cart cut off time should be numeric and has to be greater than 0."
+msgstr "Čas izklopa zapuščene košarice mora biti številčen in mora biti večji od 0."
+
+#: woocommerce-ac.php:586
+msgid "Send Reply Emails to"
+msgstr "Pošlji odgovor z e-pošto na"
+
+#: woocommerce-ac.php:577
+msgid "\"From\" Address"
+msgstr "Naslov »Od«"
+
+#: woocommerce-ac.php:568
+msgid "\"From\" Name"
+msgstr "Ime \"Od\""
+
+#: woocommerce-ac.php:561
+msgid "Settings for abandoned cart recovery emails"
+msgstr "Nastavitve za e-poštna sporočila za obnovitev košarice"
+
+#: woocommerce-ac.php:533
+msgid "Enable tracking of abandoned products & carts even if customer does not visit the checkout page or does not enter any details on the checkout page like Name or Email. Tracking will begin as soon as a visitor adds a product to their cart and visits the cart page."
+msgstr "Omogočite sledenje zapuščenih izdelkov in košaric, tudi če stranka ne obišče strani za prevzem ali ne vnese nobenih podrobnosti na strani za prevzem, kot je ime ali e-pošta. Sledenje se bo začelo takoj, ko obiskovalec doda izdelek v košarico in obišče blagajno."
+
+#: woocommerce-ac.php:529
+msgid "Start tracking from Cart Page"
+msgstr "Začnite slediti iz strani košarice"
+
+#: woocommerce-ac.php:523
+msgid "Sends email to Admin if an Abandoned Cart Order is recovered."
+msgstr "Pošlje e-pošto Adminu, če je bila zapuščena košarica z naročilom obnovljena."
+
+#: woocommerce-ac.php:519
+msgid "Email admin On Order Recovery"
+msgstr "Pošlji e-pošto adminu on obnovitvi naročila"
+
+#: woocommerce-ac.php:212 woocommerce-ac.php:493 woocommerce-ac.php:1695
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: woocommerce-ac.php:293
+msgid "Abandoned cart Email Template"
+msgstr "Predloga za e-pošto z opuščeno košarico"
+
+#: woocommerce-ac.php:287
+msgid "HTML Email Template"
+msgstr "HTML predloga e-pošte"
+
+#: includes/component/tracking-data/ts-tracking.php:177
+msgid "Once in a Week"
+msgstr "Enkrat na teden"
+
+#: woocommerce-ac.php:47
+msgid "Once Every Fifteen Minutes"
+msgstr "Enkrat vsakih 15 minut"
+
+#: includes/component/welcome-page/templates/social-media-elements.php:10
+#: includes/welcome.php:271
+msgid "Follow %s"
+msgstr "Sledite %s"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:128
+#: includes/welcome.php:223
+msgid "Current Offers"
+msgstr "Trenutne ponudbe"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:122
+#: includes/welcome.php:215
+msgid "Meet the team"
+msgstr "Spoznajte ekipo"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:113
+#: includes/welcome.php:206
+msgid "View all Premium Plugins"
+msgstr "Oglejte si vse premium vtičnike"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:112
+#: includes/welcome.php:205
+msgid "Visit the Tyche Softwares Website"
+msgstr "Obiščite Tyche Softwares spletno stran"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:110
+#: includes/welcome.php:202
+msgid "Getting to Know Tyche Softwares"
+msgstr "Spoznavanje Tyche Softwares"
+
+#: includes/welcome.php:193
+msgid "View full list of differences between Lite & Pro plugin"
+msgstr "Oglejte si celoten seznam razlik med vmesnikom Lite & Pro"
+
+#: includes/welcome.php:180
+msgid "The Lite version has only 3 merge tags available to personalize the abandoned cart recovery emails. The Pro version instead, has 20 different merge tags that can be used effectively to personalize each email that gets sent out to the customers for recovering their abandoned carts."
+msgstr "V različici Lite so na voljo le 3 oznake za spajanje, ki omogočajo prilagoditev opuščenih e-poštnih sporočil za obnovitev košarice. Namesto tega ima različica Pro 20 različnih oznak za združevanje, ki jih je mogoče učinkovito uporabiti za prilagoditev vsakega e-poštnega sporočila, ki ga pošljejo strankam za obnovitev zapuščenih vozičkov."
+
+#: includes/welcome.php:178
+msgid "Full range of merge tags that allow you to personalize the abandoned cart email"
+msgstr "Celoten obseg oznak za spajanje, ki omogočajo prilagajanje e-poštnega naslova za zapuščene košarice"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:99
+#: includes/welcome.php:167
+msgid "The ability to send the abandoned cart recovery email within first few minutes of cart being abandoned is a big advantage. In the Lite plugin, the earliest an email can be sent is after 1 hour. Whereas in the Pro version, the first recovery email gets sent 15 minutes after the cart is abandoned. This increases the recovery chances manifold."
+msgstr "Možnost pošiljanja e-pošte za obnovitev košarice v prvih nekaj minutah po zapustitvi košarice je velika prednost. V vtičniku Lite je najzgodnejše pošiljanje e-pošte po 1 uri. Medtem ko je v različici Pro prvi email za obnovitev poslan 15 minut po opustitvi vozička. S tem se poveča možnost obnovitve."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:97
+#: includes/welcome.php:165
+msgid "Send abandoned cart recovery email in minutes of cart being abandoned"
+msgstr "Pošljite e-pošto za obnovitev košarice v nekaj minutah po opustitvi košarice."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:78
+#: includes/welcome.php:146
+msgid "The provision for setting two separate cut-off times for different roles is mainly because sometimes if the store admin wants the visitor carts to be captured earlier than the registered user carts, then these different settings can play an important role."
+msgstr "Določba za nastavitev dveh ločenih časov za ločevanje za različne vloge je v glavnem zato, ker včasih skrbnik trgovine želi, da se voziček obiskovalcev ujame prej kot registrirani vozički uporabnikov, potem lahko te različne nastavitve igrajo pomembno vlogo."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:76
+#: includes/welcome.php:144
+msgid "Set different cut-off times for visitors & logged-in users"
+msgstr "Nastavite različne časovne omejitve za obiskovalce in prijavljene uporabnike"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:67
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:80
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:101
+#: includes/welcome.php:135 includes/welcome.php:148 includes/welcome.php:169
+#: includes/welcome.php:182
+msgid "Learn More"
+msgstr "Nauči se več"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:65
+#: includes/welcome.php:133
+msgid "The ability to capture the email address early in the order process is very important to reduce cart abandonment by unknown users as well as to be able to recover their carts if they abandon it. This ultimately leads to increase in your store sales."
+msgstr "Zmožnost zgodnjega zajema e-poštnega naslova v procesu naročanja je zelo pomembna za zmanjšanje zapuščanja košaric z neznanimi uporabniki in za obnovo njihovih košaric, če jih zapustijo. To na koncu vodi k povečanju prodaje vaše trgovine."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:63
+#: includes/welcome.php:131
+msgid "Capture Visitor Emails on click of Add to Cart button"
+msgstr "Zajemite e-poštne naslove obiskovalcev po kliku na gumb Dodaj v košarico"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:54
+#: includes/welcome.php:122
+msgid "The Abandoned Cart Pro plugin gives you features where you are able to recover more sales compared to the Lite plugin. Here are some notable features the Pro version provides."
+msgstr "Vtičnik Abandoned Cart Pro vam ponuja funkcije, pri katerih si lahko pridobite več prodaje v primerjavi z vtičnikom Lite. Tukaj je nekaj pomembnih funkcij, ki jih ponuja različica Pro."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:52
+#: includes/welcome.php:120
+msgid "Know more about Abandoned Cart Pro"
+msgstr "Izvedite več o Abandoned Cart Pro"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:42
+#: includes/welcome.php:110
+msgid "Click Here to go to Email Templates page"
+msgstr "Kliknite tukaj, če želite odpreti stran s predlogami za e-pošto"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:40
+#: includes/welcome.php:108
+msgid "To start sending out abandoned cart notification emails, simply activate the email template from under WooCommerce -> Abandoned Carts -> Email Templates page."
+msgstr "Če želite začeti pošiljati opuščena e-poštna obvestila o vozičku, preprosto aktivirajte e-poštno predlogo pod naslovom WooCommerce -> Opuščena košarica -> E-poštne predloge"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:38
+#: includes/welcome.php:106
+msgid "Activate Email Template"
+msgstr "Aktivirajte predlogo za e-pošto"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:34
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:59
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:86
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:93
+#: includes/welcome.php:102 includes/welcome.php:127 includes/welcome.php:154
+#: includes/welcome.php:161 includes/welcome.php:188
+msgid "WooCommerce Abandoned Cart Lite"
+msgstr "WooCommerce Abandoned Cart Lite"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:30
+#: includes/welcome.php:98
+msgid "Get Started with Abandoned Cart Lite"
+msgstr "Začnite z Abandoned Cart Lite"
+
+#: includes/welcome.php:88
+msgid "Thank you for activating or updating to the latest version of Abandoned Cart Lite! If you're a first time user, welcome! You're well on your way to start recovering your lost revenues."
+msgstr "Zahvaljujemo se vam za aktiviranje ali posodobitev najnovejše različice Abandoned Cart Lite! Dobrodošli, če vtičnik uporabljate prvič! Ste na dobri poti, da začnete izterjati izgubljene prihodke."
+
+#: includes/welcome.php:50
+msgid "Welcome to Abandoned Cart Lite"
+msgstr "Dobrodošli v Abandoned Cart Lite"
+
+#: includes/welcome.php:49
+msgid "Welcome to Abandoned Cart Lite %s"
+msgstr "Dobrodošli v Abandoned Cart Lite %s"
+
+#: includes/component/tracking-data/ts-tracking.php:271
+#: includes/wcal_ts_tracking.php:79
+msgid "No thanks"
+msgstr "Ne hvala"
+
+#: includes/component/tracking-data/ts-tracking.php:270
+#: includes/wcal_ts_tracking.php:78
+msgid "Allow"
+msgstr "Dovoli"
+
+#: includes/wcal_ts_tracking.php:76
+msgid "Want to help make Abandoned Cart even more awesome? Allow Abandoned Cart to collect non-sensitive diagnostic data and usage information and get 20% off on your next purchase. <a href=\"https://www.tychesoftwares.com/abandoned-cart-lite-usage-tracking/\" target=\"_blank\">Find out more</a>. <br><br>"
+msgstr "Želite pomagati, da bo Abandoned Cart še boljši? Dovoli, da zbira neobčutljive podatke o diagnostiki in uporabi in dobi 20% popusta pri naslednjem nakupu <a href=\"https://www.tychesoftwares.com/abandoned-cart-lite-usage-tracking/\" target=\"_blank\">Izvejte več</a>. <br><br>"
+
+#: includes/classes/class-wcal-templates-table.php:144
+msgid "Edit"
+msgstr "Uredi"
+
+#: includes/classes/class-wcal-templates-table.php:94
+msgid "Active ?"
+msgstr "Aktivno ?"
+
+#: includes/classes/class-wcal-templates-table.php:93
+msgid "Sent After Set Time"
+msgstr "Poslano po določenem času"
+
+#: includes/classes/class-wcal-templates-table.php:92
+msgid "Name Of Template"
+msgstr "Ime predloge"
+
+#: includes/classes/class-wcal-templates-table.php:91
+msgid "Sr"
+msgstr "Sr"
+
+#: includes/classes/class-wcal-templates-table.php:54
+msgid "template_ids"
+msgstr "template_ids"
+
+#: includes/classes/class-wcal-templates-table.php:53
+msgid "template_id"
+msgstr "template_id"
+
+#: includes/classes/class-wcal-recover-orders-table.php:161
+msgid "View Details"
+msgstr "Ogled podrobnosti"
+
+#: includes/classes/class-wcal-recover-orders-table.php:127
+msgid "Cart Recovered Date"
+msgstr "Datum izterjane košarice"
+
+#: includes/classes/class-wcal-recover-orders-table.php:126
+msgid "Cart Abandoned Date"
+msgstr "Datum zapuščene košarice"
+
+#: includes/classes/class-wcal-recover-orders-table.php:124
+msgid "Customer Name"
+msgstr "Ime stranke"
+
+#: includes/classes/class-wcal-recover-orders-table.php:87
+msgid "rec_abandoned_ids"
+msgstr "rec_abandoned_ids"
+
+#: includes/classes/class-wcal-recover-orders-table.php:86
+msgid "rec_abandoned_id"
+msgstr "rec_abandoned_id"
+
+#: includes/classes/class-wcal-product-report-table.php:92
+msgid "Number of Times Abandoned"
+msgstr "Število zapustitev košarice"
+
+#: includes/classes/class-wcal-product-report-table.php:93
+msgid "Number of Times Recovered"
+msgstr "Število obnovitev košarice"
+
+#: includes/classes/class-wcal-product-report-table.php:91
+msgid "Product Name"
+msgstr "Ime izdelka"
+
+#: includes/classes/class-wcal-product-report-table.php:59
+msgid "product_ids"
+msgstr "product_ids"
+
+#: includes/classes/class-wcal-product-report-table.php:58
+msgid "product_id"
+msgstr "product_id"
+
+#: includes/admin/wcal_privacy_export.php:215
+#: includes/classes/class-wcal-abandoned-orders-table.php:365
+msgid "Abandoned"
+msgstr "Zapuščena"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:359
+msgid "items"
+msgstr "predmetov"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:357
+msgid "item"
+msgstr "predmet"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:151
+#: includes/classes/class-wcal-abandoned-orders-table.php:544
+#: includes/classes/class-wcal-templates-table.php:145
+#: includes/classes/class-wcal-templates-table.php:330
+msgid "Delete"
+msgstr "Izbriši"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:150
+msgid "View order"
+msgstr "Poglej naročilo"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:101
+msgid "Status of Cart"
+msgstr "Status košarice"
+
+#: includes/admin/wcal_privacy_export.php:168
+#: includes/admin/wcal_privacy_export.php:180
+#: includes/classes/class-wcal-abandoned-orders-table.php:100
+msgid "Abandoned Date"
+msgstr "Datum zapustitve"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:99
+#: includes/classes/class-wcal-recover-orders-table.php:128
+msgid "Order Total"
+msgstr "Skupno naročilo"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:98
+msgid "Customer"
+msgstr "Stranka"
+
+#: includes/admin/wcal_privacy_export.php:174
+#: includes/admin/wcal_privacy_export.php:185
+#: includes/classes/class-wcal-abandoned-orders-table.php:97
+#: includes/classes/class-wcal-recover-orders-table.php:125
+msgid "Email Address"
+msgstr "E-poštni naslov"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:96
+msgid "Id"
+msgstr "Id"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:53
+msgid "abandoned_order_ids"
+msgstr "abandoned_order_ids"
+
+#: includes/classes/class-wcal-abandoned-orders-table.php:52
+msgid "abandoned_order_id"
+msgstr "abandoned_order_id"
+
+#: cron/wcal_send_email.php:576 cron/wcal_send_email.php:643
+#: includes/frontend/wcal_checkout_process.php:198
+#: includes/frontend/wcal_checkout_process.php:493
+msgid "This order was abandoned & subsequently recovered."
+msgstr "To naročilo je bilo opuščeno in kasneje izterjano."
+
+#: cron/wcal_send_email.php:381 woocommerce-ac.php:3105 woocommerce-ac.php:3140
+msgid "Cart Total:"
+msgstr "Celotna košarica:"
+
+#: cron/wcal_send_email.php:281 cron/wcal_send_email.php:291
+#: woocommerce-ac.php:2396 woocommerce-ac.php:3085 woocommerce-ac.php:3120
+msgid "Line Subtotal"
+msgstr "Vmesni seštevek"
+
+#: cron/wcal_send_email.php:280 cron/wcal_send_email.php:290
+#: woocommerce-ac.php:3084 woocommerce-ac.php:3119
+msgid "Price"
+msgstr "Cena"
+
+#: cron/wcal_send_email.php:279 cron/wcal_send_email.php:289
+#: woocommerce-ac.php:2395 woocommerce-ac.php:3083 woocommerce-ac.php:3118
+msgid "Quantity"
+msgstr "Količina"
+
+#: cron/wcal_send_email.php:278 cron/wcal_send_email.php:288
+#: woocommerce-ac.php:2394 woocommerce-ac.php:3082 woocommerce-ac.php:3117
+msgid "Name"
+msgstr "Ime"
+
+#: cron/wcal_send_email.php:277 cron/wcal_send_email.php:287
+#: woocommerce-ac.php:2393 woocommerce-ac.php:3081 woocommerce-ac.php:3116
+msgid "Item"
+msgstr "Predmet"
+
+#: cron/wcal_send_email.php:275 cron/wcal_send_email.php:284
+#: woocommerce-ac.php:3079 woocommerce-ac.php:3113
+msgid "Your Shopping Cart"
+msgstr "Tvoja nakupovalna košarica"
+
+#: cron/wcal_send_email.php:93
+msgid "Abandoned cart reminder"
+msgstr "Opomnik o opuščenem vozičku"
+
+#: woocommerce-ac.php:2397
+msgid "Line Total"
+msgstr "Skupaj"
+
+#: woocommerce-ac.php:504
+msgid "Consider cart abandoned after X minutes of item being added to cart & order not placed."
+msgstr "Razmislite o opuščenem vozičku po X minutah po dodanem izdelku v voziček in naročilu, ki ni bilo oddano."
+
+#: woocommerce-ac.php:2819
+msgid "Enter the header which will appear in the abandoned WooCommerce email sent. This is only applicable when only used when \"Use WooCommerce Template Style:\" is checked."
+msgstr "Vnesite glavo, ki se bo pojavila v poslanem e-poštnem naslovu opuščene košarice WooCommerce. To velja samo, če je izbrano \"Uporabi slog predloge WooCommerce:\"."
+
+#: woocommerce-ac.php:1988
+msgid "The list below shows all Abandoned Carts which have remained in cart for a time higher than the \"Cart abandoned cut-off time\" setting."
+msgstr "Spodnji seznam prikazuje vse zapuščene izdelke, ki so ostali v košarici dlje kot je to določeno s časom prekinitve. "
+
+#: woocommerce-ac.php:500
+msgid "Cart abandoned cut-off time"
+msgstr "Čas prekinitve opuščene košarice."

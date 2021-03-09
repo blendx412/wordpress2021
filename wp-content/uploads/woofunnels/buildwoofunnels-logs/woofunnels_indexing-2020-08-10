@@ -1,0 +1,32 @@
+2020-08-10T07:08:21+00:00 - These 0 orders for user: 1, CID: 14 are retrieved: Array
+(
+)
+
+2020-08-10T07:12:21+00:00 - These 0 orders for user: 3, CID: 4876 are retrieved: Array
+(
+)
+
+2020-08-10T08:19:37+00:00 - Updating changes in customer for cid: 14155, on thank you/order-edit: 2
+2020-08-10T08:35:41+00:00 - Updating changes in customer for cid: 14156, on thank you/order-edit: 2
+2020-08-10T09:18:06+00:00 - Order status changes from pending to cancelled for order id: 360385
+2020-08-10T09:19:07+00:00 - Updating changes in customer for cid: 14157, on thank you/order-edit: 0
+2020-08-10T09:40:13+00:00 - Order status changes from pending to cancelled for order id: 353917
+2020-08-10T10:31:03+00:00 - Updating changes in customer for cid: 14158, on thank you/order-edit: 2
+2020-08-10T10:35:47+00:00 - Updating changes in customer for cid: 14159, on thank you/order-edit: 2
+2020-08-10T10:59:01+00:00 - Updating changes in customer for cid: 14160, on thank you/order-edit: 2
+2020-08-10T11:00:17+00:00 - Order status changes from pending to cancelled for order id: 353938
+2020-08-10T11:07:13+00:00 - Updating changes in customer for cid: 14161, on thank you/order-edit: 0
+2020-08-10T11:35:02+00:00 - Order status changes from pending to cancelled for order id: 353948
+2020-08-10T11:45:17+00:00 - Order status changes from pending to cancelled for order id: 353951
+2020-08-10T12:50:14+00:00 - Order status changes from pending to cancelled for order id: 353961
+2020-08-10T13:07:55+00:00 - Updating changes in customer for cid: 14162, on thank you/order-edit: 2
+2020-08-10T13:39:37+00:00 - Updating changes in customer for cid: 14163, on thank you/order-edit: 2
+2020-08-10T13:43:52+00:00 - Updating changes in customer for cid: 14164, on thank you/order-edit: 2
+2020-08-10T13:55:25+00:00 - Order status changes from pending to cancelled for order id: 353984
+2020-08-10T14:32:24+00:00 - Updating changes in customer for cid: 14165, on thank you/order-edit: 2
+2020-08-10T15:20:01+00:00 - Updating changes in customer for cid: 4209, on thank you/order-edit: 2
+2020-08-10T18:07:52+00:00 - Updating changes in customer for cid: 14166, on thank you/order-edit: 2
+2020-08-10T18:07:52+00:00 - Updating changes in customer for cid: 4209, on thank you/order-edit: 2
+2020-08-10T21:00:13+00:00 - Order status changes from pending to cancelled for order id: 354071
+2020-08-10T21:16:36+00:00 - Updating changes in customer for cid: 14167, on thank you/order-edit: 2
+2020-08-10T23:27:27+00:00 - Updating changes in customer for cid: 14168, on thank you/order-edit: 2

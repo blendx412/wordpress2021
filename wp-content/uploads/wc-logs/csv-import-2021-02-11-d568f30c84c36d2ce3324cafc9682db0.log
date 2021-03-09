@@ -1,0 +1,156 @@
+2021-02-11T05:21:01+00:00 DEBUG ---[ New Import start at 2021-02-11 05:21:01 ] PHP Memory: 1 GB, WP Memory: 40 MB
+2021-02-11T05:21:03+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-02-11T05:21:03+00:00 DEBUG Parsing products CSV.
+2021-02-11T05:21:03+00:00 DEBUG Finished parsing products CSV.
+2021-02-11T05:21:03+00:00 DEBUG Processing products.
+2021-02-11T05:21:03+00:00 DEBUG > Row 1 - preparing for import.
+2021-02-11T05:21:03+00:00 DEBUG > Inserting Puder za senÄenje
+2021-02-11T05:21:03+00:00 DEBUG > Inserted - post ID is 479892.
+2021-02-11T05:21:03+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/01/puder-13-min.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/01/puder-13-min.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/01/puder-13-min.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/01/puder-4-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/01/puder-4-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/01/puder-4-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/01/puder-9-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/01/puder-9-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/01/puder-9-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/01/puder-12-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/01/puder-12-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/01/puder-12-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/01/puder-14-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/01/puder-14-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/01/puder-14-min-510x510-1.jpg"
+2021-02-11T05:21:03+00:00 DEBUG > > Images set
+2021-02-11T05:21:03+00:00 DEBUG > Finished importing post ID 479892.
+2021-02-11T05:21:03+00:00 DEBUG > Row 2 - preparing for import.
+2021-02-11T05:21:03+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T05:21:03+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T05:21:03+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T05:21:03+00:00 DEBUG > > Failed to import term  pa_size
+2021-02-11T05:21:03+00:00 DEBUG > Inserting Puder za senÄenje - Rjava
+2021-02-11T05:21:03+00:00 DEBUG > Inserted - post ID is 479898.
+2021-02-11T05:21:04+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/01/puder-4-min.jpg"
+2021-02-11T05:21:04+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/01/puder-4-min.jpg"
+2021-02-11T05:21:04+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/01/puder-4-min.jpg"
+2021-02-11T05:21:04+00:00 DEBUG > > Images set
+2021-02-11T05:21:04+00:00 DEBUG > Finished importing post ID 479898.
+2021-02-11T05:21:04+00:00 DEBUG > Row 3 - preparing for import.
+2021-02-11T05:21:04+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T05:21:04+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T05:21:04+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T05:21:04+00:00 DEBUG > > Failed to import term  pa_size
+2021-02-11T05:21:04+00:00 DEBUG > Inserting Puder za senÄenje - Ärna
+2021-02-11T05:21:04+00:00 DEBUG > Inserted - post ID is 479900.
+2021-02-11T05:21:04+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/01/puder-9-min.jpg"
+2021-02-11T05:21:04+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/01/puder-9-min.jpg"
+2021-02-11T05:21:04+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/01/puder-9-min.jpg"
+2021-02-11T05:21:04+00:00 DEBUG > > Images set
+2021-02-11T05:21:04+00:00 DEBUG > Finished importing post ID 479900.
+2021-02-11T05:21:04+00:00 DEBUG Finished processing products.
+2021-02-11T05:21:05+00:00 DEBUG ---[ Import end at 2021-02-11 05:21:05]---
+2021-02-11T08:41:44+00:00 DEBUG ---[ New Import start at 2021-02-11 08:41:44 ] PHP Memory: 1 GB, WP Memory: 40 MB
+2021-02-11T08:41:46+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-02-11T08:41:46+00:00 DEBUG Parsing products CSV.
+2021-02-11T08:41:46+00:00 DEBUG Finished parsing products CSV.
+2021-02-11T08:41:46+00:00 DEBUG Processing products.
+2021-02-11T08:41:46+00:00 DEBUG > Row 1 - preparing for import.
+2021-02-11T08:41:46+00:00 DEBUG > Inserting SILIVASE VarÃ¡zs Szilikon VÃ¡za (3db)
+2021-02-11T08:41:46+00:00 DEBUG > Inserted - post ID is 479925.
+2021-02-11T08:41:46+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-5-min.jpg"
+2021-02-11T08:41:46+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-5-min.jpg"
+2021-02-11T08:41:46+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-5-min.jpg"
+2021-02-11T08:41:46+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-2-min.jpg"
+2021-02-11T08:41:46+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-2-min.jpg"
+2021-02-11T08:41:46+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-2-min.jpg"
+2021-02-11T08:41:46+00:00 DEBUG > > Images set
+2021-02-11T08:41:46+00:00 DEBUG > Finished importing post ID 479925.
+2021-02-11T08:41:46+00:00 DEBUG > Row 2 - preparing for import.
+2021-02-11T08:41:46+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T08:41:46+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T08:41:46+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T08:41:46+00:00 DEBUG > Inserting SILIVASE VarÃ¡zs Szilikon VÃ¡za (3db) - rÃ³zsaszÃ­n
+2021-02-11T08:41:46+00:00 DEBUG > Inserted - post ID is 479928.
+2021-02-11T08:41:46+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Images set
+2021-02-11T08:41:47+00:00 DEBUG > Finished importing post ID 479928.
+2021-02-11T08:41:47+00:00 DEBUG > Row 3 - preparing for import.
+2021-02-11T08:41:47+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T08:41:47+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T08:41:47+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T08:41:47+00:00 DEBUG > Inserting SILIVASE VarÃ¡zs Szilikon VÃ¡za (3db) - fehÃ©r
+2021-02-11T08:41:47+00:00 DEBUG > Inserted - post ID is 479930.
+2021-02-11T08:41:47+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Images set
+2021-02-11T08:41:47+00:00 DEBUG > Finished importing post ID 479930.
+2021-02-11T08:41:47+00:00 DEBUG > Row 4 - preparing for import.
+2021-02-11T08:41:47+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T08:41:47+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T08:41:47+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T08:41:47+00:00 DEBUG > Inserting SILIVASE VarÃ¡zs Szilikon VÃ¡za (3db) - kÃ©k
+2021-02-11T08:41:47+00:00 DEBUG > Inserted - post ID is 479932.
+2021-02-11T08:41:47+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/02/silivase-3-min.jpg"
+2021-02-11T08:41:47+00:00 DEBUG > > Images set
+2021-02-11T08:41:47+00:00 DEBUG > Finished importing post ID 479932.
+2021-02-11T08:41:47+00:00 DEBUG Finished processing products.
+2021-02-11T08:41:48+00:00 DEBUG ---[ Import end at 2021-02-11 08:41:48]---
+2021-02-11T11:48:22+00:00 DEBUG ---[ New Import start at 2021-02-11 11:48:22 ] PHP Memory: 1 GB, WP Memory: 40 MB
+2021-02-11T11:48:23+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-02-11T11:48:23+00:00 DEBUG Parsing products CSV.
+2021-02-11T11:48:23+00:00 DEBUG Finished parsing products CSV.
+2021-02-11T11:48:23+00:00 DEBUG Processing products.
+2021-02-11T11:48:23+00:00 DEBUG > Row 1 - preparing for import.
+2021-02-11T11:48:23+00:00 DEBUG > Inserting ÃllÃ­thatÃ³ TÃ¶rÃ¶lhetÅ VÃ­zÃ¡llÃ³ Konyhai KÃ¶tÃ©ny
+2021-02-11T11:48:23+00:00 DEBUG > Inserted - post ID is 479984.
+2021-02-11T11:48:23+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-min.jpg"
+2021-02-11T11:48:23+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-min.jpg"
+2021-02-11T11:48:23+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-min.jpg"
+2021-02-11T11:48:23+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-5-min.jpg"
+2021-02-11T11:48:23+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-5-min.jpg"
+2021-02-11T11:48:23+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-5-min.jpg"
+2021-02-11T11:48:23+00:00 DEBUG > > Images set
+2021-02-11T11:48:23+00:00 DEBUG > Finished importing post ID 479984.
+2021-02-11T11:48:23+00:00 DEBUG > Row 2 - preparing for import.
+2021-02-11T11:48:23+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T11:48:23+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T11:48:23+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T11:48:23+00:00 DEBUG > > Failed to import term  pa_size
+2021-02-11T11:48:23+00:00 DEBUG > Inserting ÃllÃ­thatÃ³ TÃ¶rÃ¶lhetÅ VÃ­zÃ¡llÃ³ Konyhai KÃ¶tÃ©ny - kÃ¡vÃ©
+2021-02-11T11:48:23+00:00 DEBUG > Inserted - post ID is 479987.
+2021-02-11T11:48:23+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Images set
+2021-02-11T11:48:24+00:00 DEBUG > Finished importing post ID 479987.
+2021-02-11T11:48:24+00:00 DEBUG > Row 3 - preparing for import.
+2021-02-11T11:48:24+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T11:48:24+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T11:48:24+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T11:48:24+00:00 DEBUG > > Failed to import term  pa_size
+2021-02-11T11:48:24+00:00 DEBUG > Inserting ÃllÃ­thatÃ³ TÃ¶rÃ¶lhetÅ VÃ­zÃ¡llÃ³ Konyhai KÃ¶tÃ©ny - piros
+2021-02-11T11:48:24+00:00 DEBUG > Inserted - post ID is 479989.
+2021-02-11T11:48:24+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Images set
+2021-02-11T11:48:24+00:00 DEBUG > Finished importing post ID 479989.
+2021-02-11T11:48:24+00:00 DEBUG > Row 4 - preparing for import.
+2021-02-11T11:48:24+00:00 DEBUG > > > Product type "" not allowed - using simple.
+2021-02-11T11:48:24+00:00 DEBUG > > Failed to import term  pa_brand
+2021-02-11T11:48:24+00:00 DEBUG > > Failed to import term  pa_color
+2021-02-11T11:48:24+00:00 DEBUG > > Failed to import term  pa_size
+2021-02-11T11:48:24+00:00 DEBUG > Inserting ÃllÃ­thatÃ³ TÃ¶rÃ¶lhetÅ VÃ­zÃ¡llÃ³ Konyhai KÃ¶tÃ©ny - zÃ¶ld
+2021-02-11T11:48:24+00:00 DEBUG > Inserted - post ID is 479991.
+2021-02-11T11:48:24+00:00 DEBUG > > Importing image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Inserted image attachment "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Imported image "https://mrmaks.hu/wp-content/uploads/2021/01/kitchenapron-1-min.jpg"
+2021-02-11T11:48:24+00:00 DEBUG > > Images set
+2021-02-11T11:48:24+00:00 DEBUG > Finished importing post ID 479991.
+2021-02-11T11:48:24+00:00 DEBUG Finished processing products.
+2021-02-11T11:48:25+00:00 DEBUG ---[ Import end at 2021-02-11 11:48:25]---

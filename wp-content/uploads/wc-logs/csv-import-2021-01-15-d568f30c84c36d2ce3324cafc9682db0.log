@@ -1,0 +1,51 @@
+2021-01-15T05:15:53+00:00 DEBUG ---[ New Import start at 2021-01-15 05:15:53 ] PHP Memory: 512 MB, WP Memory: 40 MB
+2021-01-15T05:15:54+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-01-15T05:15:54+00:00 DEBUG Parsing products CSV.
+2021-01-15T05:15:54+00:00 DEBUG Finished parsing products CSV.
+2021-01-15T05:15:54+00:00 DEBUG Processing products.
+2021-01-15T05:15:54+00:00 DEBUG > Row 1 - preparing for import.
+2021-01-15T05:15:54+00:00 DEBUG > Inserting Alat za uklanjanje obloga automobila
+2021-01-15T05:15:54+00:00 DEBUG > Inserted - post ID is 475030.
+2021-01-15T05:15:54+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/REMOVER7-min.jpg"
+2021-01-15T05:15:54+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/REMOVER7-min.jpg"
+2021-01-15T05:15:54+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/REMOVER7-min.jpg"
+2021-01-15T05:15:54+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/remover6-min.jpg"
+2021-01-15T05:15:54+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/remover6-min.jpg"
+2021-01-15T05:15:54+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/remover6-min.jpg"
+2021-01-15T05:15:54+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/remover2-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/remover2-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/remover2-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/remover1-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/remover1-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/remover1-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/remover8-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/remover8-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/remover8-min.jpg"
+2021-01-15T05:15:55+00:00 DEBUG > > Images set
+2021-01-15T05:15:55+00:00 DEBUG > Finished importing post ID 475030.
+2021-01-15T05:15:55+00:00 DEBUG Finished processing products.
+2021-01-15T05:15:56+00:00 DEBUG ---[ Import end at 2021-01-15 05:15:56]---
+2021-01-15T10:46:28+00:00 DEBUG ---[ New Import start at 2021-01-15 10:46:28 ] PHP Memory: 512 MB, WP Memory: 40 MB
+2021-01-15T10:46:30+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-01-15T10:46:30+00:00 DEBUG Parsing products CSV.
+2021-01-15T10:46:30+00:00 DEBUG Finished parsing products CSV.
+2021-01-15T10:46:30+00:00 DEBUG Processing products.
+2021-01-15T10:46:30+00:00 DEBUG > Row 1 - preparing for import.
+2021-01-15T10:46:30+00:00 DEBUG > Inserting Komplet svedrov (6-delni komplet)
+2021-01-15T10:46:30+00:00 DEBUG > Inserted - post ID is 475090.
+2021-01-15T10:46:30+00:00 DEBUG > > Importing image "https://mistermega.si/wp-content/uploads/2021/01/holedrill-2-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Inserted image attachment "https://mistermega.si/wp-content/uploads/2021/01/holedrill-2-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Imported image "https://mistermega.si/wp-content/uploads/2021/01/holedrill-2-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Importing image "https://mistermega.si/wp-content/uploads/2021/01/hole4-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Inserted image attachment "https://mistermega.si/wp-content/uploads/2021/01/hole4-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Imported image "https://mistermega.si/wp-content/uploads/2021/01/hole4-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Importing image "https://mistermega.si/wp-content/uploads/2021/01/hole2-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Inserted image attachment "https://mistermega.si/wp-content/uploads/2021/01/hole2-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Imported image "https://mistermega.si/wp-content/uploads/2021/01/hole2-min.jpg"
+2021-01-15T10:46:30+00:00 DEBUG > > Importing image "https://mistermega.si/wp-content/uploads/2021/01/hole3-min.jpg"
+2021-01-15T10:46:31+00:00 DEBUG > > Inserted image attachment "https://mistermega.si/wp-content/uploads/2021/01/hole3-min.jpg"
+2021-01-15T10:46:31+00:00 DEBUG > > Imported image "https://mistermega.si/wp-content/uploads/2021/01/hole3-min.jpg"
+2021-01-15T10:46:31+00:00 DEBUG > > Images set
+2021-01-15T10:46:31+00:00 DEBUG > Finished importing post ID 475090.
+2021-01-15T10:46:31+00:00 DEBUG Finished processing products.
+2021-01-15T10:46:33+00:00 DEBUG ---[ Import end at 2021-01-15 10:46:33]---

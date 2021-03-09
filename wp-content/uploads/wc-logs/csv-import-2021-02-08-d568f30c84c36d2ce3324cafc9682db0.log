@@ -1,0 +1,24 @@
+2021-02-08T20:42:29+00:00 DEBUG ---[ New Import start at 2021-02-08 20:42:29 ] PHP Memory: 1 GB, WP Memory: 40 MB
+2021-02-08T20:42:30+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-02-08T20:42:30+00:00 DEBUG Parsing products CSV.
+2021-02-08T20:42:30+00:00 DEBUG Finished parsing products CSV.
+2021-02-08T20:42:30+00:00 DEBUG Processing products.
+2021-02-08T20:42:30+00:00 DEBUG > Row 1 - preparing for import.
+2021-02-08T20:42:30+00:00 DEBUG > Inserting Nastavljivi nosilci za karnise (2 kosa)
+2021-02-08T20:42:31+00:00 DEBUG > Inserted - post ID is 479568.
+2021-02-08T20:42:31+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/02/naslovnica.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/02/naslovnica.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/02/naslovnica.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/02/H979a3da69cb24e0b8edfa6f7e4b828bcA.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/02/H979a3da69cb24e0b8edfa6f7e4b828bcA.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/02/H979a3da69cb24e0b8edfa6f7e4b828bcA.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/02/rodh-2.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/02/rodh-2.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/02/rodh-2.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Importing image "https://mrmaks.si/wp-content/uploads/2021/02/rodh-3.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Inserted image attachment "https://mrmaks.si/wp-content/uploads/2021/02/rodh-3.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Imported image "https://mrmaks.si/wp-content/uploads/2021/02/rodh-3.jpg"
+2021-02-08T20:42:31+00:00 DEBUG > > Images set
+2021-02-08T20:42:31+00:00 DEBUG > Finished importing post ID 479568.
+2021-02-08T20:42:31+00:00 DEBUG Finished processing products.
+2021-02-08T20:42:32+00:00 DEBUG ---[ Import end at 2021-02-08 20:42:32]---

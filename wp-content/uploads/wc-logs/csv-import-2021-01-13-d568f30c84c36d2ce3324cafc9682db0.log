@@ -1,0 +1,21 @@
+2021-01-13T10:01:03+00:00 DEBUG ---[ New Import start at 2021-01-13 10:01:03 ] PHP Memory: 512 MB, WP Memory: 40 MB
+2021-01-13T10:01:05+00:00 DEBUG Import Start Pos: 0, Import End Pos: 0
+2021-01-13T10:01:05+00:00 DEBUG Parsing products CSV.
+2021-01-13T10:01:05+00:00 DEBUG Finished parsing products CSV.
+2021-01-13T10:01:05+00:00 DEBUG Processing products.
+2021-01-13T10:01:05+00:00 DEBUG > Row 1 - preparing for import.
+2021-01-13T10:01:05+00:00 DEBUG > Inserting Naslon za ruku za automobil
+2021-01-13T10:01:05+00:00 DEBUG > Inserted - post ID is 474494.
+2021-01-13T10:01:05+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/armrest1-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/armrest1-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/armrest1-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/armrest-67-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/armrest-67-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/armrest-67-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Importing image "https://mistermega.hr/wp-content/uploads/2021/01/armrest-89-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Inserted image attachment "https://mistermega.hr/wp-content/uploads/2021/01/armrest-89-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Imported image "https://mistermega.hr/wp-content/uploads/2021/01/armrest-89-min.jpg"
+2021-01-13T10:01:05+00:00 DEBUG > > Images set
+2021-01-13T10:01:05+00:00 DEBUG > Finished importing post ID 474494.
+2021-01-13T10:01:05+00:00 DEBUG Finished processing products.
+2021-01-13T10:01:07+00:00 DEBUG ---[ Import end at 2021-01-13 10:01:07]---

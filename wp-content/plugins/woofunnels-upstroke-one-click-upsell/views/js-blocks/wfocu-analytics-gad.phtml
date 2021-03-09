@@ -1,0 +1,25 @@
+<?php $get_hash = $this->get_localstorage_hash( 'gad' ); ?>
+    var wfocugadHash = '<?php echo $get_hash; ?>';
+    var wfocugadResult = false;
+    try {
+
+        if ('1' === localStorage.getItem("wfocuH_" + wfocugadHash)) {
+            wfocugadResult = true;
+        }
+
+    } catch (exception) {
+
+    }
+    if (false === wfocugadResult) {
+        var wfocuvarGadPurchaseData = JSON.parse('<?php echo wp_json_encode( $data['gad'] ); ?>');
+        wfocuvarGadPurchaseData.send_to = '<?php echo esc_js( $this->gad_code() ); ?>/<?php echo esc_js( $this->gad_purchase_label() ) ?>';
+        gtag('event', 'conversion', wfocuvarGadPurchaseData);
+        try {
+
+            localStorage.setItem("wfocuH_" + wfocugadHash, "1");
+
+        } catch (exception) {
+
+        }
+
+    }

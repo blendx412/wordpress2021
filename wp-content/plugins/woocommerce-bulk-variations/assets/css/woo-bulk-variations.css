@@ -1,0 +1,257 @@
+.wcbv-wrapper {
+  margin: 20px 0;
+  clear: both;
+}
+.wcbv-attributes-head {
+  display: none;
+  margin: 0 0 10px 0;
+}
+.wcbv-wrapper.wcbv-fit_in_row .wcbv-attributes-head {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.wcbv-attributes-head > div {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 5px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 200;
+  text-align: center;
+  word-break: break-all;
+  line-height: 15px;
+}
+.wcbv-attributes-head > div.wcbv-remove {
+  border-bottom: none;
+}
+.wcbv-wrapper .wcbv-quantity {
+  -webkit-box-flex: 0 !important;
+      -ms-flex-positive: 0 !important;
+          flex-grow: 0 !important;
+  -ms-flex-preferred-size: 60px !important;
+      flex-basis: 60px !important;
+}
+.wcbv-wrapper .wcbv-remove {
+  -webkit-box-flex: 0 !important;
+      -ms-flex-positive: 0 !important;
+          flex-grow: 0 !important;
+  -ms-flex-preferred-size: 20px !important;
+      flex-basis: 20px !important;
+}
+.wcbv-wrapper .wcbv-variations {
+  margin-bottom: 10px;
+}
+.wcbv-variations > .wcbv-row {
+  margin-bottom: 30px;
+  position: relative;
+}
+.wcbv-row .wcbv-fields {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.wcbv-row .wcbv-fields > div {
+  position: relative;
+}
+.wcbv-fields > .wcbv-selects {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.wcbv-selects > div {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 0 5px;
+}
+.wcbv-row .wcbv-selects > div > * {
+  width: 100%;
+  margin: 0;
+}
+.wcbv-selects > div.wcbv-error > *,
+.wcbv-selects > div.wcbv-error .select2-selection {
+  background: #ffecec !important;
+}
+.wcbv-row:first-child .wcbv-remove-row {
+  display: none;
+}
+.wcbv-quantity input {
+  width: 60px;
+  height: 35px !important;
+  margin: 0 !important;
+}
+.wcbv-remove .wcbv-remove-row {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  text-align: center;
+  display: block;
+  width: 100%;
+  font-size: 22px;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+  opacity: 0.7;
+  -webkit-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+}
+.wcbv-remove .wcbv-remove-row:hover {
+  opacity: 1;
+  font-weight: 300;
+}
+.wcbv-row .wcbv-price {
+  display: none;
+  position: relative;
+  float: right;
+  margin: 12px 26px 0 0;
+}
+.wcbv-row .wcbv-price:before {
+  position: absolute;
+  right: 0;
+  top: -2px;
+  content: '';
+  width: 50px;
+  height: 1px;
+  border-top: 4px double rgba(0, 0, 0, 0.1);
+}
+.wcbv-row.wcbv-show-price .wcbv-price {
+  display: inline-block;
+}
+.wcbv-wrapper .wcbv-total-price {
+  display: none;
+  text-align: right;
+  margin-bottom: 10px;
+}
+.wcbv-actions .wcbv-btn {
+  background: #f5f5f5;
+  padding: 6px 12px;
+  color: #000;
+  margin: 20px 0;
+  cursor: pointer;
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 14px;
+}
+.wcbv-actions .wcbv-reset-variations {
+  float: right;
+}
+/* Columns */
+.wcbv-wrapper.wcbv-columnize .wcbv-selects > * {
+  margin-bottom: 5px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  -ms-flex-negative: 1;
+      flex-shrink: 1;
+}
+.wcbv-wrapper.wcbv-one .wcbv-selects > * {
+  -ms-flex-preferred-size: 100%;
+      flex-basis: 100%;
+}
+.wcbv-wrapper.wcbv-two .wcbv-selects > * {
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+}
+.wcbv-wrapper.wcbv-three .wcbv-selects > * {
+  -ms-flex-preferred-size: 33.33%;
+      flex-basis: 33.33%;
+}
+.wcbv-wrapper.wcbv-four .wcbv-selects > * {
+  -ms-flex-preferred-size: 25%;
+      flex-basis: 25%;
+}
+.wcbv-wrapper.wcbv-five .wcbv-selects > * {
+  -ms-flex-preferred-size: 20%;
+      flex-basis: 20%;
+}
+.wcbv-wrapper.wcbv-six .wcbv-selects > * {
+  -ms-flex-preferred-size: 16.66%;
+      flex-basis: 16.66%;
+}
+/* SELECT2 */
+.wcbv-variations .select2-container .select2-selection--single,
+.wcbv-variations .select2-container--default .select2-selection--single .select2-selection__rendered,
+.wcbv-variations .select2-container--default .select2-selection--single .select2-selection__arrow {
+  height: 35px;
+  line-height: 35px;
+}
+.wcbv-variations .select2-container--default .select2-selection--single {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.wcbv-variations .select2-container--default .select2-selection--single .select2-selection__rendered {
+  font-size: 13px;
+}
+/* Dropdown */
+.wcbv-select2.select2-dropdown {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.wcbv-select2 .select2-search__field {
+  height: 30px;
+  border-color: rgba(0, 0, 0, 0.1) !important;
+}
+.wcbv-select2 .select2-results__option {
+  font-size: 12px;
+  font-weight: 300;
+}
+.wcbv-select2 .select2-results__option:first-child {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+/* WCBV PRODUCT */
+.wcbv-product .variations_form .variations,
+.single_variation_wrap .woocommerce-variation-price {
+  display: none !important;
+}
+.wcbv-clearfix:before,
+.wcbv-clearfix:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.wcbv-clearfix:after {
+  clear: both;
+}
+.wcbv-clearfix {
+  zoom: 1;
+}
+/* Tablets ----------- */
+/* Smartphones  ----------- */
+@media (max-width: 568px) {
+  .wcbv-row .wcbv-fields {
+    display: block !important;
+  }
+  .wcbv-wrapper .wcbv-selects > * {
+    -ms-flex-preferred-size: 100% !important;
+        flex-basis: 100% !important;
+    margin-bottom: 5px;
+    padding: 0;
+  }
+  .wcbv-fields > .wcbv-quantity {
+    float: right;
+  }
+  .wcbv-wrapper .wcbv-remove {
+    -webkit-box-flex: 0;
+        -ms-flex: none;
+            flex: none;
+    height: 30px;
+    float: left;
+    -ms-flex-preferred-size: inherit !important;
+        flex-basis: inherit !important;
+  }
+  .wcbv-row .wcbv-price {
+    margin-right: 0;
+  }
+}
+/* Portrait */

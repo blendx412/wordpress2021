@@ -1,0 +1,126 @@
+# Translation of Plugins - Duplicate Page - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Duplicate Page - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-09 07:19:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Duplicate Page - Stable (latest release)\n"
+
+#: admin-settings.php:49
+msgid "Pending"
+msgstr "Čekající"
+
+#: admin-settings.php:48
+msgid "Private"
+msgstr "Soukromý "
+
+#: admin-settings.php:47
+msgid "Publish"
+msgstr "Publikovaný"
+
+#: admin-settings.php:46
+msgid "Draft"
+msgstr "Koncept"
+
+#. Author of the plugin/theme
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#. Description of the plugin/theme
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "Duplikujte příspěvky, stránky a vlastní příspěvky jedním kliknutím."
+
+#: admin-settings.php:31
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings not saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Nastavení nebylo uloženo!</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Rozumím.</span></button></div>"
+
+#: admin-settings.php:43
+msgid "Duplicate Post Status"
+msgstr "Stav duplikátu po vytvoření"
+
+#: admin-settings.php:51
+msgid "Please select any post status you want to assign for duplicate post. <strong>Default:</strong> Draft."
+msgstr "Když se vytvoří duplikát, je potřeba mu nastavit stav publikovaní. <strong>Výchozí:</strong> Koncept"
+
+#: admin-settings.php:55
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "Kam přesměrovat potom, co se vytvoří <strong>duplikát</strong>"
+
+#: admin-settings.php:64
+msgid "Duplicate Post Suffix"
+msgstr "Přípona duplikovaného obsahu"
+
+#: admin-settings.php:67
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "Zde si můžete zvolit příponu, kterou plugin připojí k názvu duplikované položky. Může zůstat prázdné, nebo například: kopie."
+
+#: admin-settings.php:60
+msgid "Please select any post redirection, redirect you to selected after click on duplicate this link. <strong>Default:</strong> To current list."
+msgstr "Co se stane po kliknutí na tlačítko duplikovat. <strong>Výchozí:</strong> Zůstat kde jste byli"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://cs.wordpress.org/plugins/duplicate-page/"
+
+#: admin-settings.php:77
+msgid "Contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "Pokud je pro vás tento plugin užitečný, můžete vývojářovi třeba přispět."
+
+#: admin-settings.php:3
+msgid "Buy PRO"
+msgstr "Koupit PRO"
+
+#: duplicatepage.php:179 duplicatepage.php:192
+msgid "Duplicate This"
+msgstr "Duplikovat toto"
+
+#. #-#-#-#-#  duplicate-page-code.pot (Duplicate Page 2.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: duplicatepage.php:67
+msgid "Duplicate Page"
+msgstr "Duplikovat stránku"
+
+#: duplicatepage.php:56
+msgid "Donate"
+msgstr "Darovat"
+
+#: duplicatepage.php:55
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin-settings.php:57
+msgid "To All Posts List"
+msgstr "Seznam všech příspěvků"
+
+#: admin-settings.php:28
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Nastavení bylo uloženo.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Rozumím.</span></button></div>"
+
+#: admin-settings.php:9
+msgid "<strong>Saving Please wait...</strong>"
+msgstr "<strong>Ukládá se nastavení...</strong>"
+
+#: admin-settings.php:58
+msgid "To Duplicate Edit Screen"
+msgstr "Otevřít duplikát pro úpravu"
+
+#: admin-settings.php:3
+msgid "Duplicate Page Settings "
+msgstr "Nastavení Duplicate Page"
